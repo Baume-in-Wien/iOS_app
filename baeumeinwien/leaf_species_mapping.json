@@ -1,0 +1,1832 @@
+{
+  "Ahorn (Acer spec.)": {
+    "index": 0,
+    "nameGerman": "Ahorn",
+    "nameScientific": "Acer spec."
+  },
+  "Ahorn 'Norwegian Sunset' (Acer truncatum 'Norwegian Sunset')": {
+    "index": 1,
+    "nameGerman": "Ahorn 'Norwegian Sunset'",
+    "nameScientific": "Acer truncatum 'Norwegian Sunset'"
+  },
+  "Ahornblättrige Platane (Platanus x acerifolia)": {
+    "index": 2,
+    "nameGerman": "Ahornblättrige Platane",
+    "nameScientific": "Platanus x acerifolia"
+  },
+  "Amberbaum (Liquidambar styraciflua)": {
+    "index": 3,
+    "nameGerman": "Amberbaum",
+    "nameScientific": "Liquidambar styraciflua"
+  },
+  "Amerik. Felsenahorn (Acer glabrum)": {
+    "index": 4,
+    "nameGerman": "Amerik. Felsenahorn",
+    "nameScientific": "Acer glabrum"
+  },
+  "Amerikanische Zitterpappel (Populus tremuloides)": {
+    "index": 5,
+    "nameGerman": "Amerikanische Zitterpappel",
+    "nameScientific": "Populus tremuloides"
+  },
+  "Amur-Korkbaum (Phellodendron amurense)": {
+    "index": 6,
+    "nameGerman": "Amur-Korkbaum",
+    "nameScientific": "Phellodendron amurense"
+  },
+  "Amur-Traubenkirsche (Prunus maackii)": {
+    "index": 7,
+    "nameGerman": "Amur-Traubenkirsche",
+    "nameScientific": "Prunus maackii"
+  },
+  "Andentanne (Araucaria araucana)": {
+    "index": 8,
+    "nameGerman": "Andentanne",
+    "nameScientific": "Araucaria araucana"
+  },
+  "Apfelbaum (Malus spec.)": {
+    "index": 9,
+    "nameGerman": "Apfelbaum",
+    "nameScientific": "Malus spec."
+  },
+  "Arizonazypresse (Cupressus arizonica 'Fastigiata')": {
+    "index": 10,
+    "nameGerman": "Arizonazypresse",
+    "nameScientific": "Cupressus arizonica 'Fastigiata'"
+  },
+  "Atlaszeder (Cedrus atlantica)": {
+    "index": 11,
+    "nameGerman": "Atlaszeder",
+    "nameScientific": "Cedrus atlantica"
+  },
+  "Balkan-Ahorn (Acer hyrcanum)": {
+    "index": 12,
+    "nameGerman": "Balkan-Ahorn",
+    "nameScientific": "Acer hyrcanum"
+  },
+  "Balsam-Pappel (Populus balsamifera)": {
+    "index": 13,
+    "nameGerman": "Balsam-Pappel",
+    "nameScientific": "Populus balsamifera"
+  },
+  "Baumhasel (Corylus colurna)": {
+    "index": 14,
+    "nameGerman": "Baumhasel",
+    "nameScientific": "Corylus colurna"
+  },
+  "Baummagnolie (Magnolia kobus)": {
+    "index": 15,
+    "nameGerman": "Baummagnolie",
+    "nameScientific": "Magnolia kobus"
+  },
+  "Baumwacholder (Juniperus virginiana)": {
+    "index": 16,
+    "nameGerman": "Baumwacholder",
+    "nameScientific": "Juniperus virginiana"
+  },
+  "Bergahorn (Acer pseudoplatanus)": {
+    "index": 17,
+    "nameGerman": "Bergahorn",
+    "nameScientific": "Acer pseudoplatanus"
+  },
+  "Bergahorn 'Purpurascens' (Acer pseudoplatanus 'Purpurascens')": {
+    "index": 18,
+    "nameGerman": "Bergahorn 'Purpurascens'",
+    "nameScientific": "Acer pseudoplatanus 'Purpurascens'"
+  },
+  "Biegsame Kiefer (Pinus flexilis)": {
+    "index": 19,
+    "nameGerman": "Biegsame Kiefer",
+    "nameScientific": "Pinus flexilis"
+  },
+  "Birke (Betula spec.)": {
+    "index": 20,
+    "nameGerman": "Birke",
+    "nameScientific": "Betula spec."
+  },
+  "Birkenpappel (Populus simonii)": {
+    "index": 21,
+    "nameGerman": "Birkenpappel",
+    "nameScientific": "Populus simonii"
+  },
+  "Bitternuss (Carya cordiformis)": {
+    "index": 22,
+    "nameGerman": "Bitternuss",
+    "nameScientific": "Carya cordiformis"
+  },
+  "Bl.Scheinzypr. (Chamaecyparis lawsoniana 'Triomf van Boskoop')": {
+    "index": 23,
+    "nameGerman": "Bl.Scheinzypr.",
+    "nameScientific": "Chamaecyparis lawsoniana 'Triomf van Boskoop'"
+  },
+  "Blasenbaum (Koelreuteria spec.)": {
+    "index": 24,
+    "nameGerman": "Blasenbaum",
+    "nameScientific": "Koelreuteria spec."
+  },
+  "Blaue Arizonazypresse (Cupressus arizonica 'Glauca')": {
+    "index": 25,
+    "nameGerman": "Blaue Arizonazypresse",
+    "nameScientific": "Cupressus arizonica 'Glauca'"
+  },
+  "Blaue Atlaszeder (Cedrus atlantica 'Glauca')": {
+    "index": 26,
+    "nameGerman": "Blaue Atlaszeder",
+    "nameScientific": "Cedrus atlantica 'Glauca'"
+  },
+  "Blaufichte (Picea pungens 'Glauca')": {
+    "index": 27,
+    "nameGerman": "Blaufichte",
+    "nameScientific": "Picea pungens 'Glauca'"
+  },
+  "Blaufichte, Silberfichte (Picea pungens 'Koster')": {
+    "index": 28,
+    "nameGerman": "Blaufichte, Silberfichte",
+    "nameScientific": "Picea pungens 'Koster'"
+  },
+  "Blauglockenbaum (Paulownia tomentosa)": {
+    "index": 29,
+    "nameGerman": "Blauglockenbaum",
+    "nameScientific": "Paulownia tomentosa"
+  },
+  "Blaugrüne Spanische Tanne (Abies pinsapo 'Glauca')": {
+    "index": 30,
+    "nameGerman": "Blaugrüne Spanische Tanne",
+    "nameScientific": "Abies pinsapo 'Glauca'"
+  },
+  "Blumen-Esche 'Arie Peters' (Fraxinus ornus 'Arie Peters')": {
+    "index": 31,
+    "nameGerman": "Blumen-Esche 'Arie Peters'",
+    "nameScientific": "Fraxinus ornus 'Arie Peters'"
+  },
+  "Blumen-Esche 'Louisa Lady' (Fraxinus ornus 'Louisa Lady')": {
+    "index": 32,
+    "nameGerman": "Blumen-Esche 'Louisa Lady'",
+    "nameScientific": "Fraxinus ornus 'Louisa Lady'"
+  },
+  "Blumenesche (Fraxinus ornus)": {
+    "index": 33,
+    "nameGerman": "Blumenesche",
+    "nameScientific": "Fraxinus ornus"
+  },
+  "Blut-Trompetenbaum (Catalpa erubescens 'Purpurea')": {
+    "index": 34,
+    "nameGerman": "Blut-Trompetenbaum",
+    "nameScientific": "Catalpa erubescens 'Purpurea'"
+  },
+  "Blutahorn (Acer platanoides 'Crimson King')": {
+    "index": 35,
+    "nameGerman": "Blutahorn",
+    "nameScientific": "Acer platanoides 'Crimson King'"
+  },
+  "Blutbirke (Betula pendula 'Purpurea')": {
+    "index": 36,
+    "nameGerman": "Blutbirke",
+    "nameScientific": "Betula pendula 'Purpurea'"
+  },
+  "Blutbuche (Fagus sylvatica 'Atropurpurea')": {
+    "index": 37,
+    "nameGerman": "Blutbuche",
+    "nameScientific": "Fagus sylvatica 'Atropurpurea'"
+  },
+  "Blutlederhülsenbaum (Gleditsia triacanthos 'Ruby Lace')": {
+    "index": 38,
+    "nameGerman": "Blutlederhülsenbaum",
+    "nameScientific": "Gleditsia triacanthos 'Ruby Lace'"
+  },
+  "Blutpflaume (Prunus cerasifera 'Nigra')": {
+    "index": 39,
+    "nameGerman": "Blutpflaume",
+    "nameScientific": "Prunus cerasifera 'Nigra'"
+  },
+  "Blutroter Fächerahorn (Acer palmatum 'Bloodgood')": {
+    "index": 40,
+    "nameGerman": "Blutroter Fächerahorn",
+    "nameScientific": "Acer palmatum 'Bloodgood'"
+  },
+  "Blutroter Hartriegel (Cornus sanguinea)": {
+    "index": 41,
+    "nameGerman": "Blutroter Hartriegel",
+    "nameScientific": "Cornus sanguinea"
+  },
+  "Breitkegelförmiger Bergahorn (Acer pseudoplatanus 'Rotterdam')": {
+    "index": 42,
+    "nameGerman": "Breitkegelförmiger Bergahorn",
+    "nameScientific": "Acer pseudoplatanus 'Rotterdam'"
+  },
+  "Buche (Fagus spec.)": {
+    "index": 43,
+    "nameGerman": "Buche",
+    "nameScientific": "Fagus spec."
+  },
+  "Buntblättrige Buche (Fagus sylvatica 'Roseomarginata')": {
+    "index": 44,
+    "nameGerman": "Buntblättrige Buche",
+    "nameScientific": "Fagus sylvatica 'Roseomarginata'"
+  },
+  "Buntlaubige Rot-Buche (Fagus sylvatica 'Albomarginata')": {
+    "index": 45,
+    "nameGerman": "Buntlaubige Rot-Buche",
+    "nameScientific": "Fagus sylvatica 'Albomarginata'"
+  },
+  "Carolina-Rosskastanie (Aesculus x neglecta)": {
+    "index": 46,
+    "nameGerman": "Carolina-Rosskastanie",
+    "nameScientific": "Aesculus x neglecta"
+  },
+  "Chinesischer Wacholder (Juniperus chinensis)": {
+    "index": 47,
+    "nameGerman": "Chinesischer Wacholder",
+    "nameScientific": "Juniperus chinensis"
+  },
+  "Cissusblättriger Ahorn (Acer cissifolium)": {
+    "index": 48,
+    "nameGerman": "Cissusblättriger Ahorn",
+    "nameScientific": "Acer cissifolium"
+  },
+  "Colorado-Tanne (Abies concolor)": {
+    "index": 49,
+    "nameGerman": "Colorado-Tanne",
+    "nameScientific": "Abies concolor"
+  },
+  "Davids-Ahorn (Acer davidii)": {
+    "index": 50,
+    "nameGerman": "Davids-Ahorn",
+    "nameScientific": "Acer davidii"
+  },
+  "Dirndlstrauch (Cornus mas)": {
+    "index": 51,
+    "nameGerman": "Dirndlstrauch",
+    "nameScientific": "Cornus mas"
+  },
+  "Dorn (Crataegus spec.)": {
+    "index": 52,
+    "nameGerman": "Dorn",
+    "nameScientific": "Crataegus spec."
+  },
+  "Dornenloser Lederhülsenbaum (Gleditsia triacanthos 'Inermis')": {
+    "index": 53,
+    "nameGerman": "Dornenloser Lederhülsenbaum",
+    "nameScientific": "Gleditsia triacanthos 'Inermis'"
+  },
+  "Dreilappiger Apfel (Malus trilobata)": {
+    "index": 54,
+    "nameGerman": "Dreilappiger Apfel",
+    "nameScientific": "Malus trilobata"
+  },
+  "Dreizähniger Ahorn (Acer buergerianum)": {
+    "index": 55,
+    "nameGerman": "Dreizähniger Ahorn",
+    "nameScientific": "Acer buergerianum"
+  },
+  "Echte Hängebirke (Betula pendula 'Youngii')": {
+    "index": 56,
+    "nameGerman": "Echte Hängebirke",
+    "nameScientific": "Betula pendula 'Youngii'"
+  },
+  "Echte Mispel (Mespilus germanica)": {
+    "index": 57,
+    "nameGerman": "Echte Mispel",
+    "nameScientific": "Mespilus germanica"
+  },
+  "Echte Zypresse (Cupressus sempervierens 'Pyramidalis')": {
+    "index": 58,
+    "nameGerman": "Echte Zypresse",
+    "nameScientific": "Cupressus sempervierens 'Pyramidalis'"
+  },
+  "Edelkastanie (Castanea sativa)": {
+    "index": 59,
+    "nameGerman": "Edelkastanie",
+    "nameScientific": "Castanea sativa"
+  },
+  "Eibisch (Hibiscus syriacus)": {
+    "index": 60,
+    "nameGerman": "Eibisch",
+    "nameScientific": "Hibiscus syriacus"
+  },
+  "Eichenblättrige Blutbuche (Fagus sylvatica 'Quercifolia')": {
+    "index": 61,
+    "nameGerman": "Eichenblättrige Blutbuche",
+    "nameScientific": "Fagus sylvatica 'Quercifolia'"
+  },
+  "Einblättrige Esche (Fraxinus excelsior 'Diversifolia')": {
+    "index": 62,
+    "nameGerman": "Einblättrige Esche",
+    "nameScientific": "Fraxinus excelsior 'Diversifolia'"
+  },
+  "Eisenholzbaum (Parrotia persica)": {
+    "index": 63,
+    "nameGerman": "Eisenholzbaum",
+    "nameScientific": "Parrotia persica"
+  },
+  "Eisenhutblättriger Japan-Ahorn (Acer japonicum 'Aconitifolium')": {
+    "index": 64,
+    "nameGerman": "Eisenhutblättriger Japan-Ahorn",
+    "nameScientific": "Acer japonicum 'Aconitifolium'"
+  },
+  "Erle (Alnus spec.)": {
+    "index": 65,
+    "nameGerman": "Erle",
+    "nameScientific": "Alnus spec."
+  },
+  "Esche (Fraxinus spec.)": {
+    "index": 66,
+    "nameGerman": "Esche",
+    "nameScientific": "Fraxinus spec."
+  },
+  "Eschenahorn (Acer negundo)": {
+    "index": 67,
+    "nameGerman": "Eschenahorn",
+    "nameScientific": "Acer negundo"
+  },
+  "Essbare Felsenbirne (Amelanchier laevis 'Ballerina')": {
+    "index": 68,
+    "nameGerman": "Essbare Felsenbirne",
+    "nameScientific": "Amelanchier laevis 'Ballerina'"
+  },
+  "Europäische Lärche (Larix decidua)": {
+    "index": 69,
+    "nameGerman": "Europäische Lärche",
+    "nameScientific": "Larix decidua"
+  },
+  "Fadenzypresse (Chamaecyparis pisifera)": {
+    "index": 70,
+    "nameGerman": "Fadenzypresse",
+    "nameScientific": "Chamaecyparis pisifera"
+  },
+  "Feldahorn (Acer campestre)": {
+    "index": 71,
+    "nameGerman": "Feldahorn",
+    "nameScientific": "Acer campestre"
+  },
+  "Feldahorn 'Royal Ruby' (Acer campestre 'Royal Ruby')": {
+    "index": 72,
+    "nameGerman": "Feldahorn 'Royal Ruby'",
+    "nameScientific": "Acer campestre 'Royal Ruby'"
+  },
+  "Felsen-Walnuss (Juglans microcarpa)": {
+    "index": 73,
+    "nameGerman": "Felsen-Walnuss",
+    "nameScientific": "Juglans microcarpa"
+  },
+  "Felsenbirne (Amelanchier spec.)": {
+    "index": 74,
+    "nameGerman": "Felsenbirne",
+    "nameScientific": "Amelanchier spec."
+  },
+  "Feuerahorn (Acer tataricum)": {
+    "index": 75,
+    "nameGerman": "Feuerahorn",
+    "nameScientific": "Acer tataricum"
+  },
+  "Fichte (Picea spec.)": {
+    "index": 76,
+    "nameGerman": "Fichte",
+    "nameScientific": "Picea spec."
+  },
+  "Fiederblatt-Rotbuche (Fagus sylvatica 'Laciniata')": {
+    "index": 77,
+    "nameGerman": "Fiederblatt-Rotbuche",
+    "nameScientific": "Fagus sylvatica 'Laciniata'"
+  },
+  "Flaumige Felsenbirne (Amelanchier arborea 'Robin Hill')": {
+    "index": 78,
+    "nameGerman": "Flaumige Felsenbirne",
+    "nameScientific": "Amelanchier arborea 'Robin Hill'"
+  },
+  "Fontanesie (Fontanesia phillyreoides)": {
+    "index": 79,
+    "nameGerman": "Fontanesie",
+    "nameScientific": "Fontanesia phillyreoides"
+  },
+  "Französischer Ahorn (Acer monspessulanum)": {
+    "index": 80,
+    "nameGerman": "Französischer Ahorn",
+    "nameScientific": "Acer monspessulanum"
+  },
+  "Freemanii-Ahorn (Acer x freemanii 'Armstrong')": {
+    "index": 81,
+    "nameGerman": "Freemanii-Ahorn",
+    "nameScientific": "Acer x freemanii 'Armstrong'"
+  },
+  "Fruchloser Weißer Maulbeerbaum (Morus alba 'Fruitless')": {
+    "index": 82,
+    "nameGerman": "Fruchloser Weißer Maulbeerbaum",
+    "nameScientific": "Morus alba 'Fruitless'"
+  },
+  "Fudji-Kirsche (Prunus incisa 'February Pink')": {
+    "index": 83,
+    "nameGerman": "Fudji-Kirsche",
+    "nameScientific": "Prunus incisa 'February Pink'"
+  },
+  "Fächerahorn (Acer palmatum)": {
+    "index": 84,
+    "nameGerman": "Fächerahorn",
+    "nameScientific": "Acer palmatum"
+  },
+  "Fächerahorn 'Hessei' (Acer palmatum 'Hessei')": {
+    "index": 85,
+    "nameGerman": "Fächerahorn 'Hessei'",
+    "nameScientific": "Acer palmatum 'Hessei'"
+  },
+  "Fächerblattbaum (Ginkgo biloba)": {
+    "index": 86,
+    "nameGerman": "Fächerblattbaum",
+    "nameScientific": "Ginkgo biloba"
+  },
+  "Garteneibisch (Hibiscus syriacus 'White Chiffon')": {
+    "index": 87,
+    "nameGerman": "Garteneibisch",
+    "nameScientific": "Hibiscus syriacus 'White Chiffon'"
+  },
+  "Gefülltblühende Kastanie (Aesculus hippocastanum 'Baumannii')": {
+    "index": 88,
+    "nameGerman": "Gefülltblühende Kastanie",
+    "nameScientific": "Aesculus hippocastanum 'Baumannii'"
+  },
+  "Gefülltblühende Kirsche (Prunus avium 'Flore Plena')": {
+    "index": 89,
+    "nameGerman": "Gefülltblühende Kirsche",
+    "nameScientific": "Prunus avium 'Flore Plena'"
+  },
+  "Gefülltblühende Vogelkirsche (Prunus avium 'Plena')": {
+    "index": 90,
+    "nameGerman": "Gefülltblühende Vogelkirsche",
+    "nameScientific": "Prunus avium 'Plena'"
+  },
+  "Gefülltblühende Zier-Sauerkirsche (Prunus cerasus 'Rhexii')": {
+    "index": 91,
+    "nameGerman": "Gefülltblühende Zier-Sauerkirsche",
+    "nameScientific": "Prunus cerasus 'Rhexii'"
+  },
+  "Geisterfichte (Picea abies 'Inversa')": {
+    "index": 92,
+    "nameGerman": "Geisterfichte",
+    "nameScientific": "Picea abies 'Inversa'"
+  },
+  "Gelbbunte Buche (Fagus sylvatica 'Bicolor Sartinii')": {
+    "index": 93,
+    "nameGerman": "Gelbbunte Buche",
+    "nameScientific": "Fagus sylvatica 'Bicolor Sartinii'"
+  },
+  "Gelbe Kastanie (Aesculus flava)": {
+    "index": 94,
+    "nameGerman": "Gelbe Kastanie",
+    "nameScientific": "Aesculus flava"
+  },
+  "Gelbe Sternmagnolie (Magnolia 'Goldstar')": {
+    "index": 95,
+    "nameGerman": "Gelbe Sternmagnolie",
+    "nameScientific": "Magnolia 'Goldstar'"
+  },
+  "Gelber Lederhülsenbaum (Gleditsia triacanthos 'Sunburst')": {
+    "index": 96,
+    "nameGerman": "Gelber Lederhülsenbaum",
+    "nameScientific": "Gleditsia triacanthos 'Sunburst'"
+  },
+  "Gelber Perückenstrauch (Cotinus coggyria 'Golden Spirit')": {
+    "index": 97,
+    "nameGerman": "Gelber Perückenstrauch",
+    "nameScientific": "Cotinus coggyria 'Golden Spirit'"
+  },
+  "Gelbgerandete Stechpalme (Ilex aquifolium 'Aurea Marginata')": {
+    "index": 98,
+    "nameGerman": "Gelbgerandete Stechpalme",
+    "nameScientific": "Ilex aquifolium 'Aurea Marginata'"
+  },
+  "Gelbholz (Cladrastis lutea)": {
+    "index": 99,
+    "nameGerman": "Gelbholz",
+    "nameScientific": "Cladrastis lutea"
+  },
+  "Gelbkiefer (Pinus ponderosa)": {
+    "index": 100,
+    "nameGerman": "Gelbkiefer",
+    "nameScientific": "Pinus ponderosa"
+  },
+  "Gemeine Esche (Fraxinus excelsior)": {
+    "index": 101,
+    "nameGerman": "Gemeine Esche",
+    "nameScientific": "Fraxinus excelsior"
+  },
+  "Gemeine Fichte (Picea abies)": {
+    "index": 102,
+    "nameGerman": "Gemeine Fichte",
+    "nameScientific": "Picea abies"
+  },
+  "Gemeine Hasel (Corylus avellana)": {
+    "index": 103,
+    "nameGerman": "Gemeine Hasel",
+    "nameScientific": "Corylus avellana"
+  },
+  "Gemeine Kiefer (Pinus sylvestris)": {
+    "index": 104,
+    "nameGerman": "Gemeine Kiefer",
+    "nameScientific": "Pinus sylvestris"
+  },
+  "Gemeiner Goldregen (Laburnum anagyroides)": {
+    "index": 105,
+    "nameGerman": "Gemeiner Goldregen",
+    "nameScientific": "Laburnum anagyroides"
+  },
+  "Geschlitztblättrige Buche (Fagus sylvatica 'Asplenifolia')": {
+    "index": 106,
+    "nameGerman": "Geschlitztblättrige Buche",
+    "nameScientific": "Fagus sylvatica 'Asplenifolia'"
+  },
+  "Geschlitztblättrige Schwarzerle (Alnus glutinosa 'Imperialis')": {
+    "index": 107,
+    "nameGerman": "Geschlitztblättrige Schwarzerle",
+    "nameScientific": "Alnus glutinosa 'Imperialis'"
+  },
+  "Geschlitzter Silber-Ahorn (Acer saccharinum 'Wieri')": {
+    "index": 108,
+    "nameGerman": "Geschlitzter Silber-Ahorn",
+    "nameScientific": "Acer saccharinum 'Wieri'"
+  },
+  "Geschlitzter Silberahorn (Acer saccharinum 'Born's Gracious')": {
+    "index": 109,
+    "nameGerman": "Geschlitzter Silberahorn",
+    "nameScientific": "Acer saccharinum 'Born's Gracious'"
+  },
+  "Geweihbaum (Gymnocladus dioicus)": {
+    "index": 110,
+    "nameGerman": "Geweihbaum",
+    "nameScientific": "Gymnocladus dioicus"
+  },
+  "Gewöhnliche Felsenbirne (Amelanchier ovalis)": {
+    "index": 111,
+    "nameGerman": "Gewöhnliche Felsenbirne",
+    "nameScientific": "Amelanchier ovalis"
+  },
+  "Gewöhnlicher Buchsbaum (Buxus sempervirens)": {
+    "index": 112,
+    "nameGerman": "Gewöhnlicher Buchsbaum",
+    "nameScientific": "Buxus sempervirens"
+  },
+  "Gewöhnlicher Wacholder (Juniperus communis)": {
+    "index": 113,
+    "nameGerman": "Gewöhnlicher Wacholder",
+    "nameScientific": "Juniperus communis"
+  },
+  "Glanzmispel (Photinia x fraseri)": {
+    "index": 114,
+    "nameGerman": "Glanzmispel",
+    "nameScientific": "Photinia x fraseri"
+  },
+  "Gold-Birke (Betula ermanii)": {
+    "index": 115,
+    "nameGerman": "Gold-Birke",
+    "nameScientific": "Betula ermanii"
+  },
+  "Goldregen (Laburnum spec.)": {
+    "index": 116,
+    "nameGerman": "Goldregen",
+    "nameScientific": "Laburnum spec."
+  },
+  "Goldzypresse (Chamaecyparis lawsoniana 'Stewartii')": {
+    "index": 117,
+    "nameGerman": "Goldzypresse",
+    "nameScientific": "Chamaecyparis lawsoniana 'Stewartii'"
+  },
+  "Grannen-Kiefer (Pinus aristata)": {
+    "index": 118,
+    "nameGerman": "Grannen-Kiefer",
+    "nameScientific": "Pinus aristata"
+  },
+  "Grauerle (Alnus incana)": {
+    "index": 119,
+    "nameGerman": "Grauerle",
+    "nameScientific": "Alnus incana"
+  },
+  "Graupappel (Populus x canescens)": {
+    "index": 120,
+    "nameGerman": "Graupappel",
+    "nameScientific": "Populus x canescens"
+  },
+  "Griechische Tanne (Abies cephalonica)": {
+    "index": 121,
+    "nameGerman": "Griechische Tanne",
+    "nameScientific": "Abies cephalonica"
+  },
+  "Grossers Ahorn (Acer davidii subsp. grosseri)": {
+    "index": 122,
+    "nameGerman": "Grossers Ahorn",
+    "nameScientific": "Acer davidii subsp. grosseri"
+  },
+  "Götterbaum (Ailanthus spec.)": {
+    "index": 123,
+    "nameGerman": "Götterbaum",
+    "nameScientific": "Ailanthus spec."
+  },
+  "Hafer-Pflaume (Prunus domestica subsp. insititia)": {
+    "index": 124,
+    "nameGerman": "Hafer-Pflaume",
+    "nameScientific": "Prunus domestica subsp. insititia"
+  },
+  "Hahnendorn (Crataegus x lavallei)": {
+    "index": 125,
+    "nameGerman": "Hahnendorn",
+    "nameScientific": "Crataegus x lavallei"
+  },
+  "Hainbuche (Carpinus spec.)": {
+    "index": 126,
+    "nameGerman": "Hainbuche",
+    "nameScientific": "Carpinus spec."
+  },
+  "Haken-Kiefer (Pinus uncinata)": {
+    "index": 127,
+    "nameGerman": "Haken-Kiefer",
+    "nameScientific": "Pinus uncinata"
+  },
+  "Harlequin-Rotbuche (Fagus sylvatica 'Purpurea Tricolor')": {
+    "index": 128,
+    "nameGerman": "Harlequin-Rotbuche",
+    "nameScientific": "Fagus sylvatica 'Purpurea Tricolor'"
+  },
+  "Harringtons Kopfeibe (Cephalotaxus harringtonia)": {
+    "index": 129,
+    "nameGerman": "Harringtons Kopfeibe",
+    "nameScientific": "Cephalotaxus harringtonia"
+  },
+  "Hartriegel (Cornus spec.)": {
+    "index": 130,
+    "nameGerman": "Hartriegel",
+    "nameScientific": "Cornus spec."
+  },
+  "Haselnuss (Corylus spec.)": {
+    "index": 131,
+    "nameGerman": "Haselnuss",
+    "nameScientific": "Corylus spec."
+  },
+  "Hellroter Spitzahorn (Acer platanoides 'Deborah')": {
+    "index": 132,
+    "nameGerman": "Hellroter Spitzahorn",
+    "nameScientific": "Acer platanoides 'Deborah'"
+  },
+  "Himalajazeder (Cedrus deodara)": {
+    "index": 133,
+    "nameGerman": "Himalajazeder",
+    "nameScientific": "Cedrus deodara"
+  },
+  "Himalaya-Birke (Betula utilis var. utilis)": {
+    "index": 134,
+    "nameGerman": "Himalaya-Birke",
+    "nameScientific": "Betula utilis var. utilis"
+  },
+  "Holzapfel (Malus sylvestris)": {
+    "index": 135,
+    "nameGerman": "Holzapfel",
+    "nameScientific": "Malus sylvestris"
+  },
+  "Hopfenbuche (Ostrya carpinifolia)": {
+    "index": 136,
+    "nameGerman": "Hopfenbuche",
+    "nameScientific": "Ostrya carpinifolia"
+  },
+  "Hängebaumhasel (Corylus colurna 'pendula')": {
+    "index": 137,
+    "nameGerman": "Hängebaumhasel",
+    "nameScientific": "Corylus colurna 'pendula'"
+  },
+  "Hängebirke 'Laciniata' (Betula pendula 'Laciniata')": {
+    "index": 138,
+    "nameGerman": "Hängebirke 'Laciniata'",
+    "nameScientific": "Betula pendula 'Laciniata'"
+  },
+  "Hängeblutbuche (Fagus sylvatica 'Purpurea Pendula')": {
+    "index": 139,
+    "nameGerman": "Hängeblutbuche",
+    "nameScientific": "Fagus sylvatica 'Purpurea Pendula'"
+  },
+  "Hängeesche (Fraxinus excelsior 'Pendula')": {
+    "index": 140,
+    "nameGerman": "Hängeesche",
+    "nameScientific": "Fraxinus excelsior 'Pendula'"
+  },
+  "Hängehimalajazeder (Cedrus deodara 'Pendula')": {
+    "index": 141,
+    "nameGerman": "Hängehimalajazeder",
+    "nameScientific": "Cedrus deodara 'Pendula'"
+  },
+  "Hängemaulbeere (Morus alba 'Pendula')": {
+    "index": 142,
+    "nameGerman": "Hängemaulbeere",
+    "nameScientific": "Morus alba 'Pendula'"
+  },
+  "Hängerotbuche (Fagus sylvatica 'Pendula')": {
+    "index": 143,
+    "nameGerman": "Hängerotbuche",
+    "nameScientific": "Fagus sylvatica 'Pendula'"
+  },
+  "Hängezypresse (Chamaecyparis nootkatensis 'Pendula')": {
+    "index": 144,
+    "nameGerman": "Hängezypresse",
+    "nameScientific": "Chamaecyparis nootkatensis 'Pendula'"
+  },
+  "Immergrüne Magnolie (Magnolia grandiflora)": {
+    "index": 145,
+    "nameGerman": "Immergrüne Magnolie",
+    "nameScientific": "Magnolia grandiflora"
+  },
+  "Indische Rosskastanie (Aesculus indica)": {
+    "index": 146,
+    "nameGerman": "Indische Rosskastanie",
+    "nameScientific": "Aesculus indica"
+  },
+  "Italienische Erle (Alnus cordata)": {
+    "index": 147,
+    "nameGerman": "Italienische Erle",
+    "nameScientific": "Alnus cordata"
+  },
+  "Italienischer Ahorn (Acer opalus)": {
+    "index": 148,
+    "nameGerman": "Italienischer Ahorn",
+    "nameScientific": "Acer opalus"
+  },
+  "Japanische Lärche (Larix kaempferi)": {
+    "index": 149,
+    "nameGerman": "Japanische Lärche",
+    "nameScientific": "Larix kaempferi"
+  },
+  "Japanische Sicheltanne (Cryptomeria japonica)": {
+    "index": 150,
+    "nameGerman": "Japanische Sicheltanne",
+    "nameScientific": "Cryptomeria japonica"
+  },
+  "Japanischer Blumen-Hartriegel (Cornus kousa)": {
+    "index": 151,
+    "nameGerman": "Japanischer Blumen-Hartriegel",
+    "nameScientific": "Cornus kousa"
+  },
+  "Japanischer Kräuselahorn (Acer palmatum 'Shishigashira')": {
+    "index": 152,
+    "nameGerman": "Japanischer Kräuselahorn",
+    "nameScientific": "Acer palmatum 'Shishigashira'"
+  },
+  "Japanischer Losbaum (Clerodendrum trichotomun)": {
+    "index": 153,
+    "nameGerman": "Japanischer Losbaum",
+    "nameScientific": "Clerodendrum trichotomun"
+  },
+  "Japanischer Rosinenbaum (Hovenia dulcis)": {
+    "index": 154,
+    "nameGerman": "Japanischer Rosinenbaum",
+    "nameScientific": "Hovenia dulcis"
+  },
+  "Judasbaum (Cercis siliquastrum)": {
+    "index": 155,
+    "nameGerman": "Judasbaum",
+    "nameScientific": "Cercis siliquastrum"
+  },
+  "Kahle Felsenbirne (Amelanchier laevis)": {
+    "index": 156,
+    "nameGerman": "Kahle Felsenbirne",
+    "nameScientific": "Amelanchier laevis"
+  },
+  "Kalifornische Flusszeder (Calocedrus decurrens)": {
+    "index": 157,
+    "nameGerman": "Kalifornische Flusszeder",
+    "nameScientific": "Calocedrus decurrens"
+  },
+  "Kanadische Pappel (Populus x canadensis)": {
+    "index": 158,
+    "nameGerman": "Kanadische Pappel",
+    "nameScientific": "Populus x canadensis"
+  },
+  "Kanadischer Judasbaum (Cercis canadensis)": {
+    "index": 159,
+    "nameGerman": "Kanadischer Judasbaum",
+    "nameScientific": "Cercis canadensis"
+  },
+  "Kastanie (Aesculus spec.)": {
+    "index": 160,
+    "nameGerman": "Kastanie",
+    "nameScientific": "Aesculus spec."
+  },
+  "Katsurabaum (Cercidiphyllum japonicum)": {
+    "index": 161,
+    "nameGerman": "Katsurabaum",
+    "nameScientific": "Cercidiphyllum japonicum"
+  },
+  "Kaukasus-Fichte (Picea orientalis)": {
+    "index": 162,
+    "nameGerman": "Kaukasus-Fichte",
+    "nameScientific": "Picea orientalis"
+  },
+  "Kegelförmiger Bergahorn (Acer pseudoplatanus 'Negenia')": {
+    "index": 163,
+    "nameGerman": "Kegelförmiger Bergahorn",
+    "nameScientific": "Acer pseudoplatanus 'Negenia'"
+  },
+  "Kegelförmiger Spitzahorn (Acer platanoides 'Emerald Queen')": {
+    "index": 164,
+    "nameGerman": "Kegelförmiger Spitzahorn",
+    "nameScientific": "Acer platanoides 'Emerald Queen'"
+  },
+  "Kiefer, Föhre (Pinus spec.)": {
+    "index": 165,
+    "nameGerman": "Kiefer, Föhre",
+    "nameScientific": "Pinus spec."
+  },
+  "Kirschlorbeer (Prunus laurocerasus)": {
+    "index": 166,
+    "nameGerman": "Kirschlorbeer",
+    "nameScientific": "Prunus laurocerasus"
+  },
+  "Kirschpflaume (Prunus cerasifera)": {
+    "index": 167,
+    "nameGerman": "Kirschpflaume",
+    "nameScientific": "Prunus cerasifera"
+  },
+  "Kleinblütiger Trompetenbaum (Catalpa ovata)": {
+    "index": 168,
+    "nameGerman": "Kleinblütiger Trompetenbaum",
+    "nameScientific": "Catalpa ovata"
+  },
+  "Kolchischer Ahorn (Acer cappadocicum)": {
+    "index": 169,
+    "nameGerman": "Kolchischer Ahorn",
+    "nameScientific": "Acer cappadocicum"
+  },
+  "Kopfeibe (Cephalotaxus spec.)": {
+    "index": 170,
+    "nameGerman": "Kopfeibe",
+    "nameScientific": "Cephalotaxus spec."
+  },
+  "Korea-Tanne (Abies koreana)": {
+    "index": 171,
+    "nameGerman": "Korea-Tanne",
+    "nameScientific": "Abies koreana"
+  },
+  "Korsische Kiefer (Pinus nigra laricio)": {
+    "index": 172,
+    "nameGerman": "Korsische Kiefer",
+    "nameScientific": "Pinus nigra laricio"
+  },
+  "Kugel-Fächerblattbaum (Ginkgo biloba 'Globosa')": {
+    "index": 173,
+    "nameGerman": "Kugel-Fächerblattbaum",
+    "nameScientific": "Ginkgo biloba 'Globosa'"
+  },
+  "Kugelblumenesche (Fraxinus ornus 'Meczek')": {
+    "index": 174,
+    "nameGerman": "Kugelblumenesche",
+    "nameScientific": "Fraxinus ornus 'Meczek'"
+  },
+  "Kugelesche (Fraxinus excelsior 'Nana')": {
+    "index": 175,
+    "nameGerman": "Kugelesche",
+    "nameScientific": "Fraxinus excelsior 'Nana'"
+  },
+  "Kugelfeldahorn (Acer campestre 'Nanum')": {
+    "index": 176,
+    "nameGerman": "Kugelfeldahorn",
+    "nameScientific": "Acer campestre 'Nanum'"
+  },
+  "Kugelförmiger Maulbeerbaum (Morus alba 'Globosa')": {
+    "index": 177,
+    "nameGerman": "Kugelförmiger Maulbeerbaum",
+    "nameScientific": "Morus alba 'Globosa'"
+  },
+  "Kugelkirsche (Prunus fruticosa 'Globosa‘)": {
+    "index": 178,
+    "nameGerman": "Kugelkirsche",
+    "nameScientific": "Prunus fruticosa 'Globosa‘"
+  },
+  "Kugelplatane (Platanus x acerifolia 'Alphens Globe')": {
+    "index": 179,
+    "nameGerman": "Kugelplatane",
+    "nameScientific": "Platanus x acerifolia 'Alphens Globe'"
+  },
+  "Kugelspitzahorn (Acer platanoides 'Globosum')": {
+    "index": 180,
+    "nameGerman": "Kugelspitzahorn",
+    "nameScientific": "Acer platanoides 'Globosum'"
+  },
+  "Kultur-Apfel (Malus domestica)": {
+    "index": 181,
+    "nameGerman": "Kultur-Apfel",
+    "nameScientific": "Malus domestica"
+  },
+  "Kupfer-Felsenbirne (Amelanchier lamarckii)": {
+    "index": 182,
+    "nameGerman": "Kupfer-Felsenbirne",
+    "nameScientific": "Amelanchier lamarckii"
+  },
+  "Küsten Tanne (Abies grandis)": {
+    "index": 183,
+    "nameGerman": "Küsten Tanne",
+    "nameScientific": "Abies grandis"
+  },
+  "Lederhülsenbaum (Gleditsia triacanthos)": {
+    "index": 184,
+    "nameGerman": "Lederhülsenbaum",
+    "nameScientific": "Gleditsia triacanthos"
+  },
+  "Libanonzeder (Cedrus libani)": {
+    "index": 185,
+    "nameGerman": "Libanonzeder",
+    "nameScientific": "Cedrus libani"
+  },
+  "Lärche (Larix spec.)": {
+    "index": 186,
+    "nameGerman": "Lärche",
+    "nameScientific": "Larix spec."
+  },
+  "Magnolie (Magnolia spec.)": {
+    "index": 187,
+    "nameGerman": "Magnolie",
+    "nameScientific": "Magnolia spec."
+  },
+  "Mandelbaum (Prunus dulcis)": {
+    "index": 188,
+    "nameGerman": "Mandelbaum",
+    "nameScientific": "Prunus dulcis"
+  },
+  "Marille (Prunus armeniaca)": {
+    "index": 189,
+    "nameGerman": "Marille",
+    "nameScientific": "Prunus armeniaca"
+  },
+  "Maulbeerbaum (Morus spec.)": {
+    "index": 190,
+    "nameGerman": "Maulbeerbaum",
+    "nameScientific": "Morus spec."
+  },
+  "Moor-Birke (Betula pubescens)": {
+    "index": 191,
+    "nameGerman": "Moor-Birke",
+    "nameScientific": "Betula pubescens"
+  },
+  "Morgenländischer Lebensbaum (Platycladus orientalis)": {
+    "index": 192,
+    "nameGerman": "Morgenländischer Lebensbaum",
+    "nameScientific": "Platycladus orientalis"
+  },
+  "Mostgummi-Eukalyptus (Eucalyptus gunnii)": {
+    "index": 193,
+    "nameGerman": "Mostgummi-Eukalyptus",
+    "nameScientific": "Eucalyptus gunnii"
+  },
+  "Muschelzypresse (Chamaecyparis obtusa)": {
+    "index": 194,
+    "nameGerman": "Muschelzypresse",
+    "nameScientific": "Chamaecyparis obtusa"
+  },
+  "Mädchen-Kiefer (Pinus parviflora)": {
+    "index": 195,
+    "nameGerman": "Mädchen-Kiefer",
+    "nameScientific": "Pinus parviflora"
+  },
+  "Mädchenkiefer (Pinus parviflora 'Negishi')": {
+    "index": 196,
+    "nameGerman": "Mädchenkiefer",
+    "nameScientific": "Pinus parviflora 'Negishi'"
+  },
+  "Netznerviger Zürgelbaum (Celtis reticulata)": {
+    "index": 197,
+    "nameGerman": "Netznerviger Zürgelbaum",
+    "nameScientific": "Celtis reticulata"
+  },
+  "Nordmannstanne (Abies nordmanniana)": {
+    "index": 198,
+    "nameGerman": "Nordmannstanne",
+    "nameScientific": "Abies nordmanniana"
+  },
+  "Nutka-Scheinzypresse (Chamaecyparis nootkatensis)": {
+    "index": 199,
+    "nameGerman": "Nutka-Scheinzypresse",
+    "nameScientific": "Chamaecyparis nootkatensis"
+  },
+  "Orientalische Platane (Platanus orientalis)": {
+    "index": 200,
+    "nameGerman": "Orientalische Platane",
+    "nameScientific": "Platanus orientalis"
+  },
+  "Orientalische Säulenplatane (Platanus orientalis 'Minaret')": {
+    "index": 201,
+    "nameGerman": "Orientalische Säulenplatane",
+    "nameScientific": "Platanus orientalis 'Minaret'"
+  },
+  "Osagedorn (Maclura pomifera)": {
+    "index": 202,
+    "nameGerman": "Osagedorn",
+    "nameScientific": "Maclura pomifera"
+  },
+  "Papierbirke (Betula papyrifera)": {
+    "index": 203,
+    "nameGerman": "Papierbirke",
+    "nameScientific": "Betula papyrifera"
+  },
+  "Papiermaulbeere (Broussonetia papyrifera)": {
+    "index": 204,
+    "nameGerman": "Papiermaulbeere",
+    "nameScientific": "Broussonetia papyrifera"
+  },
+  "Pappel (Populus spec.)": {
+    "index": 205,
+    "nameGerman": "Pappel",
+    "nameScientific": "Populus spec."
+  },
+  "Pavie (Aesculus pavia)": {
+    "index": 206,
+    "nameGerman": "Pavie",
+    "nameScientific": "Aesculus pavia"
+  },
+  "Pazifischer Ahorn (Acer truncatum 'Pacific Sunset')": {
+    "index": 207,
+    "nameGerman": "Pazifischer Ahorn",
+    "nameScientific": "Acer truncatum 'Pacific Sunset'"
+  },
+  "Pekannuss (Carya illinoinensis)": {
+    "index": 208,
+    "nameGerman": "Pekannuss",
+    "nameScientific": "Carya illinoinensis"
+  },
+  "Perückenstrauch (Cotinus coggygria)": {
+    "index": 209,
+    "nameGerman": "Perückenstrauch",
+    "nameScientific": "Cotinus coggygria"
+  },
+  "Pfarrerkapperl (Euonymus europaeus)": {
+    "index": 210,
+    "nameGerman": "Pfarrerkapperl",
+    "nameScientific": "Euonymus europaeus"
+  },
+  "Pflaume (Prunus domestica)": {
+    "index": 211,
+    "nameGerman": "Pflaume",
+    "nameScientific": "Prunus domestica"
+  },
+  "Platane (Platanus spec.)": {
+    "index": 212,
+    "nameGerman": "Platane",
+    "nameScientific": "Platanus spec."
+  },
+  "Pracht-Apfel (Malus spectabilis)": {
+    "index": 213,
+    "nameGerman": "Pracht-Apfel",
+    "nameScientific": "Malus spectabilis"
+  },
+  "Purpur-Erle (Alnus x spaethii 'Spaeth‘)": {
+    "index": 214,
+    "nameGerman": "Purpur-Erle",
+    "nameScientific": "Alnus x spaethii 'Spaeth‘"
+  },
+  "Purpur-Magnolie (Magnolia liliiflora 'Nigra')": {
+    "index": 215,
+    "nameGerman": "Purpur-Magnolie",
+    "nameScientific": "Magnolia liliiflora 'Nigra'"
+  },
+  "Purpur-Magnolie 'Susan' (Magnolia liliiflora 'Susan')": {
+    "index": 216,
+    "nameGerman": "Purpur-Magnolie 'Susan'",
+    "nameScientific": "Magnolia liliiflora 'Susan'"
+  },
+  "Purpurner Bergahorn (Acer pseudoplatanus 'Atropurpureum')": {
+    "index": 217,
+    "nameGerman": "Purpurner Bergahorn",
+    "nameScientific": "Acer pseudoplatanus 'Atropurpureum'"
+  },
+  "Pyramidaler Silberahorn (Acer saccharinum 'Pyramidalis')": {
+    "index": 218,
+    "nameGerman": "Pyramidaler Silberahorn",
+    "nameScientific": "Acer saccharinum 'Pyramidalis'"
+  },
+  "Pyramidenhainbuche (Carpinus betulus 'Columnaris')": {
+    "index": 219,
+    "nameGerman": "Pyramidenhainbuche",
+    "nameScientific": "Carpinus betulus 'Columnaris'"
+  },
+  "Pyramidenkastanie (Aesculus hippocastanum 'Pyramidalis')": {
+    "index": 220,
+    "nameGerman": "Pyramidenkastanie",
+    "nameScientific": "Aesculus hippocastanum 'Pyramidalis'"
+  },
+  "Pyramidenmaulbeere (Morus alba 'Pyramidalis')": {
+    "index": 221,
+    "nameGerman": "Pyramidenmaulbeere",
+    "nameScientific": "Morus alba 'Pyramidalis'"
+  },
+  "Pyramidenpappel (Populus nigra 'Italica')": {
+    "index": 222,
+    "nameGerman": "Pyramidenpappel",
+    "nameScientific": "Populus nigra 'Italica'"
+  },
+  "Quitte (Cydonia oblonga)": {
+    "index": 223,
+    "nameGerman": "Quitte",
+    "nameScientific": "Cydonia oblonga"
+  },
+  "Raketen-Wacholder (Juniperus scopulorum 'Skyrocket')": {
+    "index": 224,
+    "nameGerman": "Raketen-Wacholder",
+    "nameScientific": "Juniperus scopulorum 'Skyrocket'"
+  },
+  "Rauchzypresse (Calocedrus decurrens 'Aureovariegata')": {
+    "index": 225,
+    "nameGerman": "Rauchzypresse",
+    "nameScientific": "Calocedrus decurrens 'Aureovariegata'"
+  },
+  "Riesenzypresse (Cupressocyparis leylandii)": {
+    "index": 226,
+    "nameGerman": "Riesenzypresse",
+    "nameScientific": "Cupressocyparis leylandii"
+  },
+  "Rosa Sternmagnolie (Magnolia stellata 'Rosea')": {
+    "index": 227,
+    "nameGerman": "Rosa Sternmagnolie",
+    "nameScientific": "Magnolia stellata 'Rosea'"
+  },
+  "Rosskastanie (Aesculus hippocastanum)": {
+    "index": 228,
+    "nameGerman": "Rosskastanie",
+    "nameScientific": "Aesculus hippocastanum"
+  },
+  "Rot-Ahorn (Acer x freemanii)": {
+    "index": 229,
+    "nameGerman": "Rot-Ahorn",
+    "nameScientific": "Acer x freemanii"
+  },
+  "Rot-Ahorn 'Autumn Blaze' (Acer x freemanii 'Autumn Blaze')": {
+    "index": 230,
+    "nameGerman": "Rot-Ahorn 'Autumn Blaze'",
+    "nameScientific": "Acer x freemanii 'Autumn Blaze'"
+  },
+  "Rot-Ahorn 'Celzam' (Acer x freemanii 'Celzam')": {
+    "index": 231,
+    "nameGerman": "Rot-Ahorn 'Celzam'",
+    "nameScientific": "Acer x freemanii 'Celzam'"
+  },
+  "Rot-Ahorn 'Marmo' (Acer x freemanii 'Marmo')": {
+    "index": 232,
+    "nameGerman": "Rot-Ahorn 'Marmo'",
+    "nameScientific": "Acer x freemanii 'Marmo'"
+  },
+  "Rotahorn (Acer rubrum)": {
+    "index": 233,
+    "nameGerman": "Rotahorn",
+    "nameScientific": "Acer rubrum"
+  },
+  "Rotblättrige Baumhasel (Corylus colurna 'Granat')": {
+    "index": 234,
+    "nameGerman": "Rotblättrige Baumhasel",
+    "nameScientific": "Corylus colurna 'Granat'"
+  },
+  "Rotblättrige Säulenblutbuche (Fagus sylvatica 'Dawyk Purple')": {
+    "index": 235,
+    "nameGerman": "Rotblättrige Säulenblutbuche",
+    "nameScientific": "Fagus sylvatica 'Dawyk Purple'"
+  },
+  "Rotblättrige Traubenkirsche (Prunus virginiana 'Shubert')": {
+    "index": 236,
+    "nameGerman": "Rotblättrige Traubenkirsche",
+    "nameScientific": "Prunus virginiana 'Shubert'"
+  },
+  "Rotblättriger Judasbaum (Cercis canadensis 'Forest Pansy')": {
+    "index": 237,
+    "nameGerman": "Rotblättriger Judasbaum",
+    "nameScientific": "Cercis canadensis 'Forest Pansy'"
+  },
+  "Rotblättriger Spitzahorn (Acer platanoides 'Schwedleri')": {
+    "index": 238,
+    "nameGerman": "Rotblättriger Spitzahorn",
+    "nameScientific": "Acer platanoides 'Schwedleri'"
+  },
+  "Rotblühende Kastanie (Aesculus x carnea)": {
+    "index": 239,
+    "nameGerman": "Rotblühende Kastanie",
+    "nameScientific": "Aesculus x carnea"
+  },
+  "Rotblühende Rosskastanie (Aesculus x carnea 'Plantierensis')": {
+    "index": 240,
+    "nameGerman": "Rotblühende Rosskastanie",
+    "nameScientific": "Aesculus x carnea 'Plantierensis'"
+  },
+  "Rotbuche (Fagus sylvatica)": {
+    "index": 241,
+    "nameGerman": "Rotbuche",
+    "nameScientific": "Fagus sylvatica"
+  },
+  "Rotdorn (Crataegus laevigata 'Pauls Scarlet')": {
+    "index": 242,
+    "nameGerman": "Rotdorn",
+    "nameScientific": "Crataegus laevigata 'Pauls Scarlet'"
+  },
+  "Roter Fächerahorn (Acer palmatum 'Atropurpureum')": {
+    "index": 243,
+    "nameGerman": "Roter Fächerahorn",
+    "nameScientific": "Acer palmatum 'Atropurpureum'"
+  },
+  "Roter Judasblattbaum (Cercidiphyllum japonicum 'Rotfuchs')": {
+    "index": 244,
+    "nameGerman": "Roter Judasblattbaum",
+    "nameScientific": "Cercidiphyllum japonicum 'Rotfuchs'"
+  },
+  "Roter Kugelahorn (Acer platanoides 'Crimson Sentry')": {
+    "index": 245,
+    "nameGerman": "Roter Kugelahorn",
+    "nameScientific": "Acer platanoides 'Crimson Sentry'"
+  },
+  "Roter Perückenstrauch (Cotinus coggygria 'Royal Purple')": {
+    "index": 246,
+    "nameGerman": "Roter Perückenstrauch",
+    "nameScientific": "Cotinus coggygria 'Royal Purple'"
+  },
+  "Roter Schlangenhaut-Ahorn (Acer capillipes)": {
+    "index": 247,
+    "nameGerman": "Roter Schlangenhaut-Ahorn",
+    "nameScientific": "Acer capillipes"
+  },
+  "Roter Spitzahorn 'Royal Red' (Acer platanoides 'Royal Red')": {
+    "index": 248,
+    "nameGerman": "Roter Spitzahorn 'Royal Red'",
+    "nameScientific": "Acer platanoides 'Royal Red'"
+  },
+  "Rotesche (Fraxinus pennsylvanica)": {
+    "index": 249,
+    "nameGerman": "Rotesche",
+    "nameScientific": "Fraxinus pennsylvanica"
+  },
+  "Rotfichte (Picea rubens)": {
+    "index": 250,
+    "nameGerman": "Rotfichte",
+    "nameScientific": "Picea rubens"
+  },
+  "Rotlaubiger Zierapfel (Malus 'Scarlet')": {
+    "index": 251,
+    "nameGerman": "Rotlaubiger Zierapfel",
+    "nameScientific": "Malus 'Scarlet'"
+  },
+  "Rumelische Kiefer (Pinus peuce)": {
+    "index": 252,
+    "nameGerman": "Rumelische Kiefer",
+    "nameScientific": "Pinus peuce"
+  },
+  "Sauerkirsche (Prunus cerasus)": {
+    "index": 253,
+    "nameGerman": "Sauerkirsche",
+    "nameScientific": "Prunus cerasus"
+  },
+  "Scharlachkastanie (Aesculus x carnea 'Briotii')": {
+    "index": 254,
+    "nameGerman": "Scharlachkastanie",
+    "nameScientific": "Aesculus x carnea 'Briotii'"
+  },
+  "Scheinzypresse (Chamaecyparis spec.)": {
+    "index": 255,
+    "nameGerman": "Scheinzypresse",
+    "nameScientific": "Chamaecyparis spec."
+  },
+  "Schirm-Ginkgo (Ginkgo biloba 'Horizontalis')": {
+    "index": 256,
+    "nameGerman": "Schirm-Ginkgo",
+    "nameScientific": "Ginkgo biloba 'Horizontalis'"
+  },
+  "Schirm-Seidenakazie (Albizia julibrissin 'Ombrella')": {
+    "index": 257,
+    "nameGerman": "Schirm-Seidenakazie",
+    "nameScientific": "Albizia julibrissin 'Ombrella'"
+  },
+  "Schirmgleditschie (Gleditsia triacanthos 'Shademaster')": {
+    "index": 258,
+    "nameGerman": "Schirmgleditschie",
+    "nameScientific": "Gleditsia triacanthos 'Shademaster'"
+  },
+  "Schlangenhautkiefer (Pinus leucodermis)": {
+    "index": 259,
+    "nameGerman": "Schlangenhautkiefer",
+    "nameScientific": "Pinus leucodermis"
+  },
+  "Schlanke Säulenhainbuche (Carpinus betulus 'Frans Fontaine')": {
+    "index": 260,
+    "nameGerman": "Schlanke Säulenhainbuche",
+    "nameScientific": "Carpinus betulus 'Frans Fontaine'"
+  },
+  "Schlitzblättrige Schwarzerle (Alnus glutinosa 'Luciniata')": {
+    "index": 261,
+    "nameGerman": "Schlitzblättrige Schwarzerle",
+    "nameScientific": "Alnus glutinosa 'Luciniata'"
+  },
+  "Schmalblättrige Esche (Fraxinus angustifolia)": {
+    "index": 262,
+    "nameGerman": "Schmalblättrige Esche",
+    "nameScientific": "Fraxinus angustifolia"
+  },
+  "Schmalblättrige Kastanie (Aesculus hippocastanum 'Laciniata')": {
+    "index": 263,
+    "nameGerman": "Schmalblättrige Kastanie",
+    "nameScientific": "Aesculus hippocastanum 'Laciniata'"
+  },
+  "Schmalkronige Platane (Platanus x acerifolia 'Tremonia')": {
+    "index": 264,
+    "nameGerman": "Schmalkronige Platane",
+    "nameScientific": "Platanus x acerifolia 'Tremonia'"
+  },
+  "Schmalkroniger Bergahorn (Acer pseudoplatanus 'Erectum')": {
+    "index": 265,
+    "nameGerman": "Schmalkroniger Bergahorn",
+    "nameScientific": "Acer pseudoplatanus 'Erectum'"
+  },
+  "Schottische Waldkiefer (Pinus sylvestris 'Scotica')": {
+    "index": 266,
+    "nameGerman": "Schottische Waldkiefer",
+    "nameScientific": "Pinus sylvestris 'Scotica'"
+  },
+  "Schwarz-Erle 'Pyramidalis' (Alnus glutinosa 'Pyramidalis')": {
+    "index": 267,
+    "nameGerman": "Schwarz-Erle 'Pyramidalis'",
+    "nameScientific": "Alnus glutinosa 'Pyramidalis'"
+  },
+  "Schwarzbirke (Betula nigra)": {
+    "index": 268,
+    "nameGerman": "Schwarzbirke",
+    "nameScientific": "Betula nigra"
+  },
+  "Schwarzer Maulbeerbaum (Morus nigra)": {
+    "index": 269,
+    "nameGerman": "Schwarzer Maulbeerbaum",
+    "nameScientific": "Morus nigra"
+  },
+  "Schwarzerle (Alnus glutinosa)": {
+    "index": 270,
+    "nameGerman": "Schwarzerle",
+    "nameScientific": "Alnus glutinosa"
+  },
+  "Schwarzkiefer, Schwarzföhre (Pinus nigra)": {
+    "index": 271,
+    "nameGerman": "Schwarzkiefer, Schwarzföhre",
+    "nameScientific": "Pinus nigra"
+  },
+  "Schwarznussbaum (Juglans nigra)": {
+    "index": 272,
+    "nameGerman": "Schwarznussbaum",
+    "nameScientific": "Juglans nigra"
+  },
+  "Schwarzpappel (Populus nigra)": {
+    "index": 273,
+    "nameGerman": "Schwarzpappel",
+    "nameScientific": "Populus nigra"
+  },
+  "Seidenakazie (Albizia julibrissin)": {
+    "index": 274,
+    "nameGerman": "Seidenakazie",
+    "nameScientific": "Albizia julibrissin"
+  },
+  "Serbische Fichte (Picea omorika)": {
+    "index": 275,
+    "nameGerman": "Serbische Fichte",
+    "nameScientific": "Picea omorika"
+  },
+  "Sieben Söhne des Himmels Strauch (Heptacodium miconioides)": {
+    "index": 276,
+    "nameGerman": "Sieben Söhne des Himmels Strauch",
+    "nameScientific": "Heptacodium miconioides"
+  },
+  "Silber-Eschenahorn (Acer negundo 'Variegatum')": {
+    "index": 277,
+    "nameGerman": "Silber-Eschenahorn",
+    "nameScientific": "Acer negundo 'Variegatum'"
+  },
+  "Silberahorn (Acer saccharinum)": {
+    "index": 278,
+    "nameGerman": "Silberahorn",
+    "nameScientific": "Acer saccharinum"
+  },
+  "Silberpappel (Populus alba)": {
+    "index": 279,
+    "nameGerman": "Silberpappel",
+    "nameScientific": "Populus alba"
+  },
+  "Silberpyramidenpappel (Populus alba 'Raket')": {
+    "index": 280,
+    "nameGerman": "Silberpyramidenpappel",
+    "nameScientific": "Populus alba 'Raket'"
+  },
+  "Siskiyou-Fichte (Picea breweriana)": {
+    "index": 281,
+    "nameGerman": "Siskiyou-Fichte",
+    "nameScientific": "Picea breweriana"
+  },
+  "Spanische Tanne (Abies pinsapo)": {
+    "index": 282,
+    "nameGerman": "Spanische Tanne",
+    "nameScientific": "Abies pinsapo"
+  },
+  "Spitz-Ahorn (Acer platanoides 'Norwegian Sunset')": {
+    "index": 283,
+    "nameGerman": "Spitz-Ahorn",
+    "nameScientific": "Acer platanoides 'Norwegian Sunset'"
+  },
+  "Spitzahorn (Acer platanoides)": {
+    "index": 284,
+    "nameGerman": "Spitzahorn",
+    "nameScientific": "Acer platanoides"
+  },
+  "Stechpalme (Ilex aquifolium)": {
+    "index": 285,
+    "nameGerman": "Stechpalme",
+    "nameScientific": "Ilex aquifolium"
+  },
+  "Stechpalme 'Alaska' (Ilex aquifolium 'Alaska')": {
+    "index": 286,
+    "nameGerman": "Stechpalme 'Alaska'",
+    "nameScientific": "Ilex aquifolium 'Alaska'"
+  },
+  "Steinweichsel (Prunus mahaleb)": {
+    "index": 287,
+    "nameGerman": "Steinweichsel",
+    "nameScientific": "Prunus mahaleb"
+  },
+  "Sternmagnolie (Magnolia stellata)": {
+    "index": 288,
+    "nameGerman": "Sternmagnolie",
+    "nameScientific": "Magnolia stellata"
+  },
+  "Strauchkastanie (Aesculus parviflora)": {
+    "index": 289,
+    "nameGerman": "Strauchkastanie",
+    "nameScientific": "Aesculus parviflora"
+  },
+  "Streifen-Ahorn (Acer pensylvanicum)": {
+    "index": 290,
+    "nameGerman": "Streifen-Ahorn",
+    "nameScientific": "Acer pensylvanicum"
+  },
+  "Syrischer Wacholder (Juniperus drupacea)": {
+    "index": 291,
+    "nameGerman": "Syrischer Wacholder",
+    "nameScientific": "Juniperus drupacea"
+  },
+  "Sämlings Blutbuche (Fagus sylvatica 'Atropunicea')": {
+    "index": 292,
+    "nameGerman": "Sämlings Blutbuche",
+    "nameScientific": "Fagus sylvatica 'Atropunicea'"
+  },
+  "Säulen-Feldahorn (Acer campestre 'Green Column')": {
+    "index": 293,
+    "nameGerman": "Säulen-Feldahorn",
+    "nameScientific": "Acer campestre 'Green Column'"
+  },
+  "Säulen-Felsenbirne (Amelanchier alnifolia 'Obelisk')": {
+    "index": 294,
+    "nameGerman": "Säulen-Felsenbirne",
+    "nameScientific": "Amelanchier alnifolia 'Obelisk'"
+  },
+  "Säulen-Purpurpappel (Populus deltoides 'Purple Tower')": {
+    "index": 295,
+    "nameGerman": "Säulen-Purpurpappel",
+    "nameScientific": "Populus deltoides 'Purple Tower'"
+  },
+  "Säulen-Traubenkirsche (Prunus padus 'Obelisk')": {
+    "index": 296,
+    "nameGerman": "Säulen-Traubenkirsche",
+    "nameScientific": "Prunus padus 'Obelisk'"
+  },
+  "Säulenahorn (Acer platanoides 'Columnare')": {
+    "index": 297,
+    "nameGerman": "Säulenahorn",
+    "nameScientific": "Acer platanoides 'Columnare'"
+  },
+  "Säulenbirke (Betula pendula 'Fastigiata')": {
+    "index": 298,
+    "nameGerman": "Säulenbirke",
+    "nameScientific": "Betula pendula 'Fastigiata'"
+  },
+  "Säulenblumenesche (Fraxinus ornus 'Obelisk')": {
+    "index": 299,
+    "nameGerman": "Säulenblumenesche",
+    "nameScientific": "Fraxinus ornus 'Obelisk'"
+  },
+  "Säulenblutbuche (Fagus sylvatica 'Rohan Obelisk')": {
+    "index": 300,
+    "nameGerman": "Säulenblutbuche",
+    "nameScientific": "Fagus sylvatica 'Rohan Obelisk'"
+  },
+  "Säulenfichte (Picea abies 'Cupressina')": {
+    "index": 301,
+    "nameGerman": "Säulenfichte",
+    "nameScientific": "Picea abies 'Cupressina'"
+  },
+  "Säulenfächerblattbaum (Ginkgo biloba 'Fastigiata Blagon')": {
+    "index": 302,
+    "nameGerman": "Säulenfächerblattbaum",
+    "nameScientific": "Ginkgo biloba 'Fastigiata Blagon'"
+  },
+  "Säulenginkgo (Ginkgo biloba 'Tremonia')": {
+    "index": 303,
+    "nameGerman": "Säulenginkgo",
+    "nameScientific": "Ginkgo biloba 'Tremonia'"
+  },
+  "Säulengleditschie (Gleditsia triacanthos 'Skyline')": {
+    "index": 304,
+    "nameGerman": "Säulengleditschie",
+    "nameScientific": "Gleditsia triacanthos 'Skyline'"
+  },
+  "Säulenhainbuche (Carpinus betulus 'Fastigiata')": {
+    "index": 305,
+    "nameGerman": "Säulenhainbuche",
+    "nameScientific": "Carpinus betulus 'Fastigiata'"
+  },
+  "Säulenlederhülsenbaum (Gleditsia triacanthos 'Elegantissima')": {
+    "index": 306,
+    "nameGerman": "Säulenlederhülsenbaum",
+    "nameScientific": "Gleditsia triacanthos 'Elegantissima'"
+  },
+  "Säulenmaulbeere (Morus alba 'Fastigiata')": {
+    "index": 307,
+    "nameGerman": "Säulenmaulbeere",
+    "nameScientific": "Morus alba 'Fastigiata'"
+  },
+  "Säulenpappel (Populus simonii 'Fastigiata')": {
+    "index": 308,
+    "nameGerman": "Säulenpappel",
+    "nameScientific": "Populus simonii 'Fastigiata'"
+  },
+  "Säulenrotbuche (Fagus sylvatica 'Fastigiata')": {
+    "index": 309,
+    "nameGerman": "Säulenrotbuche",
+    "nameScientific": "Fagus sylvatica 'Fastigiata'"
+  },
+  "Säulenscheinzypresse (Chamaecyparis lawsoniana 'Alumii')": {
+    "index": 310,
+    "nameGerman": "Säulenscheinzypresse",
+    "nameScientific": "Chamaecyparis lawsoniana 'Alumii'"
+  },
+  "Säulenschwarzkiefer (Pinus nigra 'Pyramidalis')": {
+    "index": 311,
+    "nameGerman": "Säulenschwarzkiefer",
+    "nameScientific": "Pinus nigra 'Pyramidalis'"
+  },
+  "Säulenspitzahorn (Acer platanoides 'Olmstedt')": {
+    "index": 312,
+    "nameGerman": "Säulenspitzahorn",
+    "nameScientific": "Acer platanoides 'Olmstedt'"
+  },
+  "Säulentulpenbaum (Liriodendron tulipifera 'Fastigiatum')": {
+    "index": 313,
+    "nameGerman": "Säulentulpenbaum",
+    "nameScientific": "Liriodendron tulipifera 'Fastigiatum'"
+  },
+  "Säulenweißdorn (Crataegus monogyna 'Stricta')": {
+    "index": 314,
+    "nameGerman": "Säulenweißdorn",
+    "nameScientific": "Crataegus monogyna 'Stricta'"
+  },
+  "Säulenzitterpappel (Populus tremula 'Erecta')": {
+    "index": 315,
+    "nameGerman": "Säulenzitterpappel",
+    "nameScientific": "Populus tremula 'Erecta'"
+  },
+  "Südlicher Zürgelbaum (Celtis australis)": {
+    "index": 316,
+    "nameGerman": "Südlicher Zürgelbaum",
+    "nameScientific": "Celtis australis"
+  },
+  "Süßkirsche (Prunus avium 'Sunburst')": {
+    "index": 317,
+    "nameGerman": "Süßkirsche",
+    "nameScientific": "Prunus avium 'Sunburst'"
+  },
+  "Tafelapfel (Malus domestica 'Winter Goldpermäne')": {
+    "index": 318,
+    "nameGerman": "Tafelapfel",
+    "nameScientific": "Malus domestica 'Winter Goldpermäne'"
+  },
+  "Tanne (Abies spec.)": {
+    "index": 319,
+    "nameGerman": "Tanne",
+    "nameScientific": "Abies spec."
+  },
+  "Taubenbaum (Davidia involucrata)": {
+    "index": 320,
+    "nameGerman": "Taubenbaum",
+    "nameScientific": "Davidia involucrata"
+  },
+  "Toringo-Apfel (Malus toringo)": {
+    "index": 321,
+    "nameGerman": "Toringo-Apfel",
+    "nameScientific": "Malus toringo"
+  },
+  "Tourneforts Zürgelbaum (Celtis tournefortii)": {
+    "index": 322,
+    "nameGerman": "Tourneforts Zürgelbaum",
+    "nameScientific": "Celtis tournefortii"
+  },
+  "Traubenkirsche (Prunus padus)": {
+    "index": 323,
+    "nameGerman": "Traubenkirsche",
+    "nameScientific": "Prunus padus"
+  },
+  "Tränenkiefer (Pinus wallichiana)": {
+    "index": 324,
+    "nameGerman": "Tränenkiefer",
+    "nameScientific": "Pinus wallichiana"
+  },
+  "Tulpen-Magnolie (Magnolia x soulangeana 'Lennei')": {
+    "index": 325,
+    "nameGerman": "Tulpen-Magnolie",
+    "nameScientific": "Magnolia x soulangeana 'Lennei'"
+  },
+  "Tulpenbaum (Liriodendron tulipifera)": {
+    "index": 326,
+    "nameGerman": "Tulpenbaum",
+    "nameScientific": "Liriodendron tulipifera"
+  },
+  "Tulpenmagnolie (Magnolia x soulangiana)": {
+    "index": 327,
+    "nameGerman": "Tulpenmagnolie",
+    "nameScientific": "Magnolia x soulangiana"
+  },
+  "Türkische Kiefer (Pinus brutia)": {
+    "index": 328,
+    "nameGerman": "Türkische Kiefer",
+    "nameScientific": "Pinus brutia"
+  },
+  "Urweltmammutbaum (Metasequoia glyptostroboides)": {
+    "index": 329,
+    "nameGerman": "Urweltmammutbaum",
+    "nameScientific": "Metasequoia glyptostroboides"
+  },
+  "Veitchs Tanne (Abies veitchii)": {
+    "index": 330,
+    "nameGerman": "Veitchs Tanne",
+    "nameScientific": "Abies veitchii"
+  },
+  "Vielblütiger Apfel (Malus floribunda)": {
+    "index": 331,
+    "nameGerman": "Vielblütiger Apfel",
+    "nameScientific": "Malus floribunda"
+  },
+  "Vilmorins Tanne (Abies x vilmorinii)": {
+    "index": 332,
+    "nameGerman": "Vilmorins Tanne",
+    "nameScientific": "Abies x vilmorinii"
+  },
+  "Virginischer Baumwacholder (Juniperus virginiana 'Canaertii')": {
+    "index": 333,
+    "nameGerman": "Virginischer Baumwacholder",
+    "nameScientific": "Juniperus virginiana 'Canaertii'"
+  },
+  "Vogelkirsche (Prunus avium)": {
+    "index": 334,
+    "nameGerman": "Vogelkirsche",
+    "nameScientific": "Prunus avium"
+  },
+  "Wald-Tupelobaum (Nyssa sylvatica)": {
+    "index": 335,
+    "nameGerman": "Wald-Tupelobaum",
+    "nameScientific": "Nyssa sylvatica"
+  },
+  "Walnussbaum (Juglans spec.)": {
+    "index": 336,
+    "nameGerman": "Walnussbaum",
+    "nameScientific": "Juglans spec."
+  },
+  "Weinblättriger Japan-Ahorn (Acer japonicum 'Vitifolium')": {
+    "index": 337,
+    "nameGerman": "Weinblättriger Japan-Ahorn",
+    "nameScientific": "Acer japonicum 'Vitifolium'"
+  },
+  "Weiß-Esche (Fraxinus americana)": {
+    "index": 338,
+    "nameGerman": "Weiß-Esche",
+    "nameScientific": "Fraxinus americana"
+  },
+  "Weiß-Esche 'Autumn Purple' (Fraxinus americana 'Autumn Purple')": {
+    "index": 339,
+    "nameGerman": "Weiß-Esche 'Autumn Purple'",
+    "nameScientific": "Fraxinus americana 'Autumn Purple'"
+  },
+  "Weißbirke (Betula pendula)": {
+    "index": 340,
+    "nameGerman": "Weißbirke",
+    "nameScientific": "Betula pendula"
+  },
+  "Weißbunte Edelkastanie (Castanea sativa 'Albomarginata')": {
+    "index": 341,
+    "nameGerman": "Weißbunte Edelkastanie",
+    "nameScientific": "Castanea sativa 'Albomarginata'"
+  },
+  "Weißbunte Rotbuche (Fagus sylvatica 'Albovariegata')": {
+    "index": 342,
+    "nameGerman": "Weißbunte Rotbuche",
+    "nameScientific": "Fagus sylvatica 'Albovariegata'"
+  },
+  "Weißbunter Eschenahorn (Acer negundo 'Flamingo')": {
+    "index": 343,
+    "nameGerman": "Weißbunter Eschenahorn",
+    "nameScientific": "Acer negundo 'Flamingo'"
+  },
+  "Weißdorn (Crataegus monogyna)": {
+    "index": 344,
+    "nameGerman": "Weißdorn",
+    "nameScientific": "Crataegus monogyna"
+  },
+  "Weißdorn 'Plena' (Crataegus laevigata 'Plena')": {
+    "index": 345,
+    "nameGerman": "Weißdorn 'Plena'",
+    "nameScientific": "Crataegus laevigata 'Plena'"
+  },
+  "Weiße Scheinzypresse (Chamaecyparis thyoides)": {
+    "index": 346,
+    "nameGerman": "Weiße Scheinzypresse",
+    "nameScientific": "Chamaecyparis thyoides"
+  },
+  "Weißer Maulbeerbaum (Morus alba)": {
+    "index": 347,
+    "nameGerman": "Weißer Maulbeerbaum",
+    "nameScientific": "Morus alba"
+  },
+  "Weißgerandeter  Spitzahorn (Acer platanoides 'Drummondii')": {
+    "index": 348,
+    "nameGerman": "Weißgerandeter  Spitzahorn",
+    "nameScientific": "Acer platanoides 'Drummondii'"
+  },
+  "Weißtanne (Abies alba)": {
+    "index": 349,
+    "nameGerman": "Weißtanne",
+    "nameScientific": "Abies alba"
+  },
+  "Westlicher Zürgelbaum (Celtis occidentalis)": {
+    "index": 350,
+    "nameGerman": "Westlicher Zürgelbaum",
+    "nameScientific": "Celtis occidentalis"
+  },
+  "Weymouthskiefer (Pinus strobus)": {
+    "index": 351,
+    "nameGerman": "Weymouthskiefer",
+    "nameScientific": "Pinus strobus"
+  },
+  "Worplesdon-Amberbaum (Liquidambar styraciflua 'Worplesdon')": {
+    "index": 352,
+    "nameGerman": "Worplesdon-Amberbaum",
+    "nameScientific": "Liquidambar styraciflua 'Worplesdon'"
+  },
+  "Yulan-Magnolie (Magnolia denudata)": {
+    "index": 353,
+    "nameGerman": "Yulan-Magnolie",
+    "nameScientific": "Magnolia denudata"
+  },
+  "Zierapfel (Malus x purpurea)": {
+    "index": 354,
+    "nameGerman": "Zierapfel",
+    "nameScientific": "Malus x purpurea"
+  },
+  "Zierapfel Royal Beauty (Malus 'Royal Beauty')": {
+    "index": 355,
+    "nameGerman": "Zierapfel Royal Beauty",
+    "nameScientific": "Malus 'Royal Beauty'"
+  },
+  "Zimtahorn (Acer griseum)": {
+    "index": 356,
+    "nameGerman": "Zimtahorn",
+    "nameScientific": "Acer griseum"
+  },
+  "Zirbel-Kiefer (Pinus cembra)": {
+    "index": 357,
+    "nameGerman": "Zirbel-Kiefer",
+    "nameScientific": "Pinus cembra"
+  },
+  "Zitterpappel (Populus tremula)": {
+    "index": 358,
+    "nameGerman": "Zitterpappel",
+    "nameScientific": "Populus tremula"
+  },
+  "Zucker-Ahorn (Acer saccharum)": {
+    "index": 359,
+    "nameGerman": "Zucker-Ahorn",
+    "nameScientific": "Acer saccharum"
+  },
+  "Zwerg-Libanonzeder (Cedrus libani 'Nana')": {
+    "index": 360,
+    "nameGerman": "Zwerg-Libanonzeder",
+    "nameScientific": "Cedrus libani 'Nana'"
+  },
+  "Zypressen-Wacholder 'Ketele.' (Juniperus chinensis 'Keteleeri')": {
+    "index": 361,
+    "nameGerman": "Zypressen-Wacholder 'Ketele.'",
+    "nameScientific": "Juniperus chinensis 'Keteleeri'"
+  },
+  "Zöschener Ahorn (Acer x zoeschense 'Annae')": {
+    "index": 362,
+    "nameGerman": "Zöschener Ahorn",
+    "nameScientific": "Acer x zoeschense 'Annae'"
+  },
+  "Zürgelbaum (Celtis spec.)": {
+    "index": 363,
+    "nameGerman": "Zürgelbaum",
+    "nameScientific": "Celtis spec."
+  },
+  "Ölweide (Elaeagnus angustifolia)": {
+    "index": 364,
+    "nameGerman": "Ölweide",
+    "nameScientific": "Elaeagnus angustifolia"
+  },
+  "Österreichische Schwarzkiefer (Pinus nigra nigra)": {
+    "index": 365,
+    "nameGerman": "Österreichische Schwarzkiefer",
+    "nameScientific": "Pinus nigra nigra"
+  }
+}
