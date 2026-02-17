@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Bäume in Wien</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.navigation</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Wir benötigen deinen Standort, um Bäume in deiner Nähe anzuzeigen und für die Rallye-Funktion.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Wir benötigen deinen Standort, um Bäume in deiner Nähe anzuzeigen und für die Rallye-Funktion.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Wir benötigen Zugriff auf die Kamera für den AR-Modus, um Bäume in deiner Umgebung anzuzeigen.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>HostGrotesk-Variable.ttf</string>
+		<string>HostGrotesk-Italic-Variable.ttf</string>
+	</array>
+</dict>
+</plist>

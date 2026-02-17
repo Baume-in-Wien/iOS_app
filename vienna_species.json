@@ -1,0 +1,3322 @@
+[
+  {
+    "german": "Weißtanne",
+    "latin": "Abies alba",
+    "raw": "Abies alba (Weißtanne)"
+  },
+  {
+    "german": "Griechische Tanne",
+    "latin": "Abies cephalonica",
+    "raw": "Abies cephalonica (Griechische Tanne)"
+  },
+  {
+    "german": "Colorado-Tanne",
+    "latin": "Abies concolor",
+    "raw": "Abies concolor (Colorado-Tanne)"
+  },
+  {
+    "german": "Küsten Tanne",
+    "latin": "Abies grandis",
+    "raw": "Abies grandis (Küsten Tanne)"
+  },
+  {
+    "german": "Korea-Tanne",
+    "latin": "Abies koreana",
+    "raw": "Abies koreana (Korea-Tanne)"
+  },
+  {
+    "german": "Nordmannstanne",
+    "latin": "Abies nordmanniana",
+    "raw": "Abies nordmanniana (Nordmannstanne)"
+  },
+  {
+    "german": "Blaugrüne Spanische Tanne",
+    "latin": "Abies pinsapo 'Glauca'",
+    "raw": "Abies pinsapo 'Glauca' (Blaugrüne Spanische Tanne)"
+  },
+  {
+    "german": "Spanische Tanne",
+    "latin": "Abies pinsapo",
+    "raw": "Abies pinsapo (Spanische Tanne)"
+  },
+  {
+    "german": "Tanne",
+    "latin": "Abies spec.",
+    "raw": "Abies spec. (Tanne)"
+  },
+  {
+    "german": "Veitchs Tanne",
+    "latin": "Abies veitchii",
+    "raw": "Abies veitchii (Veitchs Tanne)"
+  },
+  {
+    "german": "Vilmorins Tanne",
+    "latin": "Abies x vilmorinii",
+    "raw": "Abies x vilmorinii (Vilmorins Tanne)"
+  },
+  {
+    "german": "Dreizähniger Ahorn",
+    "latin": "Acer buergerianum",
+    "raw": "Acer buergerianum (Dreizähniger Ahorn)"
+  },
+  {
+    "german": "Feldahorn",
+    "latin": "Acer campestre 'Elsrijk'",
+    "raw": "Acer campestre 'Elsrijk' (Feldahorn)"
+  },
+  {
+    "german": "Säulen-Feldahorn",
+    "latin": "Acer campestre 'Green Column'",
+    "raw": "Acer campestre 'Green Column' (Säulen-Feldahorn)"
+  },
+  {
+    "german": "Feldahorn",
+    "latin": "Acer campestre 'Huibers Elegant'",
+    "raw": "Acer campestre 'Huibers Elegant' (Feldahorn)"
+  },
+  {
+    "german": "Feldahorn",
+    "latin": "Acer campestre 'Korinthosz'",
+    "raw": "Acer campestre 'Korinthosz' (Feldahorn)"
+  },
+  {
+    "german": "Kugelfeldahorn",
+    "latin": "Acer campestre 'Nanum'",
+    "raw": "Acer campestre 'Nanum' (Kugelfeldahorn)"
+  },
+  {
+    "german": "Feldahorn",
+    "latin": "Acer campestre 'Queen Elizabeth'",
+    "raw": "Acer campestre 'Queen Elizabeth' (Feldahorn)"
+  },
+  {
+    "german": "Feldahorn 'Royal Ruby'",
+    "latin": "Acer campestre 'Royal Ruby'",
+    "raw": "Acer campestre 'Royal Ruby' (Feldahorn 'Royal Ruby')"
+  },
+  {
+    "german": "Feldahorn",
+    "latin": "Acer campestre",
+    "raw": "Acer campestre (Feldahorn)"
+  },
+  {
+    "german": "Roter Schlangenhaut-Ahorn",
+    "latin": "Acer capillipes",
+    "raw": "Acer capillipes (Roter Schlangenhaut-Ahorn)"
+  },
+  {
+    "german": "Kolchischer Ahorn",
+    "latin": "Acer cappadocicum",
+    "raw": "Acer cappadocicum (Kolchischer Ahorn)"
+  },
+  {
+    "german": "Italienischer Ahorn",
+    "latin": "Acer cappadocicum lobelii",
+    "raw": "Acer cappadocicum lobelii (Italienischer Ahorn)"
+  },
+  {
+    "german": "Cissusblättriger Ahorn",
+    "latin": "Acer cissifolium",
+    "raw": "Acer cissifolium (Cissusblättriger Ahorn)"
+  },
+  {
+    "german": "Davids-Ahorn",
+    "latin": "Acer davidii",
+    "raw": "Acer davidii (Davids-Ahorn)"
+  },
+  {
+    "german": "Grossers Ahorn",
+    "latin": "Acer davidii subsp. grosseri",
+    "raw": "Acer davidii subsp. grosseri (Grossers Ahorn)"
+  },
+  {
+    "german": "Amerik. Felsenahorn",
+    "latin": "Acer glabrum",
+    "raw": "Acer glabrum (Amerik. Felsenahorn)"
+  },
+  {
+    "german": "Zimtahorn",
+    "latin": "Acer griseum",
+    "raw": "Acer griseum (Zimtahorn)"
+  },
+  {
+    "german": "Balkan-Ahorn",
+    "latin": "Acer hyrcanum",
+    "raw": "Acer hyrcanum (Balkan-Ahorn)"
+  },
+  {
+    "german": "Eisenhutblättriger Japan-Ahorn",
+    "latin": "Acer japonicum 'Aconitifolium'",
+    "raw": "Acer japonicum 'Aconitifolium' (Eisenhutblättriger Japan-Ahorn)"
+  },
+  {
+    "german": "Weinblättriger Japan-Ahorn",
+    "latin": "Acer japonicum 'Vitifolium'",
+    "raw": "Acer japonicum 'Vitifolium' (Weinblättriger Japan-Ahorn)"
+  },
+  {
+    "german": "Französischer Ahorn",
+    "latin": "Acer monspessulanum",
+    "raw": "Acer monspessulanum (Französischer Ahorn)"
+  },
+  {
+    "german": "Weißbunter Eschenahorn",
+    "latin": "Acer negundo 'Flamingo'",
+    "raw": "Acer negundo 'Flamingo' (Weißbunter Eschenahorn)"
+  },
+  {
+    "german": "Silber-Eschenahorn",
+    "latin": "Acer negundo 'Variegatum'",
+    "raw": "Acer negundo 'Variegatum' (Silber-Eschenahorn)"
+  },
+  {
+    "german": "Eschenahorn",
+    "latin": "Acer negundo",
+    "raw": "Acer negundo (Eschenahorn)"
+  },
+  {
+    "german": "Italienischer Ahorn",
+    "latin": "Acer opalus",
+    "raw": "Acer opalus (Italienischer Ahorn)"
+  },
+  {
+    "german": "Roter Fächerahorn",
+    "latin": "Acer palmatum 'Atropurpureum'",
+    "raw": "Acer palmatum 'Atropurpureum' (Roter Fächerahorn)"
+  },
+  {
+    "german": "Blutroter Fächerahorn",
+    "latin": "Acer palmatum 'Bloodgood'",
+    "raw": "Acer palmatum 'Bloodgood' (Blutroter Fächerahorn)"
+  },
+  {
+    "german": "Fächerahorn 'Hessei'",
+    "latin": "Acer palmatum 'Hessei'",
+    "raw": "Acer palmatum 'Hessei' (Fächerahorn 'Hessei')"
+  },
+  {
+    "german": "Japanischer Kräuselahorn",
+    "latin": "Acer palmatum 'Shishigashira'",
+    "raw": "Acer palmatum 'Shishigashira' (Japanischer Kräuselahorn)"
+  },
+  {
+    "german": "Fächerahorn",
+    "latin": "Acer palmatum",
+    "raw": "Acer palmatum (Fächerahorn)"
+  },
+  {
+    "german": "Streifen-Ahorn",
+    "latin": "Acer pensylvanicum",
+    "raw": "Acer pensylvanicum (Streifen-Ahorn)"
+  },
+  {
+    "german": "Spitz-Ahorn",
+    "latin": "Acer platanoides 'Allershausen'",
+    "raw": "Acer platanoides 'Allershausen' (Spitz-Ahorn)"
+  },
+  {
+    "german": "Kegelspitzahorn",
+    "latin": "Acer platanoides 'Cleveland'",
+    "raw": "Acer platanoides 'Cleveland' (Kegelspitzahorn)"
+  },
+  {
+    "german": "Säulenahorn",
+    "latin": "Acer platanoides 'Columnare'",
+    "raw": "Acer platanoides 'Columnare' (Säulenahorn)"
+  },
+  {
+    "german": "Blutahorn",
+    "latin": "Acer platanoides 'Crimson King'",
+    "raw": "Acer platanoides 'Crimson King' (Blutahorn)"
+  },
+  {
+    "german": "Roter Kugelahorn",
+    "latin": "Acer platanoides 'Crimson Sentry'",
+    "raw": "Acer platanoides 'Crimson Sentry' (Roter Kugelahorn)"
+  },
+  {
+    "german": "Hellroter Spitzahorn",
+    "latin": "Acer platanoides 'Deborah'",
+    "raw": "Acer platanoides 'Deborah' (Hellroter Spitzahorn)"
+  },
+  {
+    "german": "Weißgerandeter  Spitzahorn",
+    "latin": "Acer platanoides 'Drummondii'",
+    "raw": "Acer platanoides 'Drummondii' (Weißgerandeter  Spitzahorn)"
+  },
+  {
+    "german": "Kegelförmiger Spitzahorn",
+    "latin": "Acer platanoides 'Emerald Queen'",
+    "raw": "Acer platanoides 'Emerald Queen' (Kegelförmiger Spitzahorn)"
+  },
+  {
+    "german": "Spitzahorn",
+    "latin": "Acer platanoides 'Eurostar'",
+    "raw": "Acer platanoides 'Eurostar' (Spitzahorn)"
+  },
+  {
+    "german": "Spitzahorn",
+    "latin": "Acer platanoides 'Farlakes Green'",
+    "raw": "Acer platanoides 'Farlakes Green' (Spitzahorn)"
+  },
+  {
+    "german": "Kugelspitzahorn",
+    "latin": "Acer platanoides 'Globosum'",
+    "raw": "Acer platanoides 'Globosum' (Kugelspitzahorn)"
+  },
+  {
+    "german": "Spitz-Ahorn",
+    "latin": "Acer platanoides 'Norwegian Sunset'",
+    "raw": "Acer platanoides 'Norwegian Sunset' (Spitz-Ahorn)"
+  },
+  {
+    "german": "Säulenspitzahorn",
+    "latin": "Acer platanoides 'Olmstedt'",
+    "raw": "Acer platanoides 'Olmstedt' (Säulenspitzahorn)"
+  },
+  {
+    "german": "Roter Spitzahorn 'Royal Red'",
+    "latin": "Acer platanoides 'Royal Red'",
+    "raw": "Acer platanoides 'Royal Red'  (Roter Spitzahorn 'Royal Red')"
+  },
+  {
+    "german": "Rotblättriger Spitzahorn",
+    "latin": "Acer platanoides 'Schwedleri'",
+    "raw": "Acer platanoides 'Schwedleri' (Rotblättriger Spitzahorn)"
+  },
+  {
+    "german": "Spitzahorn",
+    "latin": "Acer platanoides",
+    "raw": "Acer platanoides (Spitzahorn)"
+  },
+  {
+    "german": "Purpurner Bergahorn",
+    "latin": "Acer pseudoplatanus 'Atropurpureum'",
+    "raw": "Acer pseudoplatanus 'Atropurpureum' (Purpurner Bergahorn)"
+  },
+  {
+    "german": "Schmalkroniger Bergahorn",
+    "latin": "Acer pseudoplatanus 'Erectum'",
+    "raw": "Acer pseudoplatanus 'Erectum' (Schmalkroniger Bergahorn)"
+  },
+  {
+    "german": "Bergahorn",
+    "latin": "Acer pseudoplatanus 'Leopoldii'",
+    "raw": "Acer pseudoplatanus 'Leopoldii' (Bergahorn)"
+  },
+  {
+    "german": "Kegelförmiger Bergahorn",
+    "latin": "Acer pseudoplatanus 'Negenia'",
+    "raw": "Acer pseudoplatanus 'Negenia' (Kegelförmiger Bergahorn)"
+  },
+  {
+    "german": "Bergahorn 'Purpurascens'",
+    "latin": "Acer pseudoplatanus 'Purpurascens'",
+    "raw": "Acer pseudoplatanus 'Purpurascens' (Bergahorn 'Purpurascens')"
+  },
+  {
+    "german": "Breitkegelförmiger Bergahorn",
+    "latin": "Acer pseudoplatanus 'Rotterdam'",
+    "raw": "Acer pseudoplatanus 'Rotterdam' (Breitkegelförmiger Bergahorn)"
+  },
+  {
+    "german": "Bergahorn",
+    "latin": "Acer pseudoplatanus",
+    "raw": "Acer pseudoplatanus (Bergahorn)"
+  },
+  {
+    "german": "Rotahorn",
+    "latin": "Acer rubrum 'Red Sunset'",
+    "raw": "Acer rubrum 'Red Sunset' (Rotahorn)"
+  },
+  {
+    "german": "Rotahorn",
+    "latin": "Acer rubrum",
+    "raw": "Acer rubrum (Rotahorn)"
+  },
+  {
+    "german": "Geschlitzter Silberahorn",
+    "latin": "Acer saccharinum 'Born's Gracious'",
+    "raw": "Acer saccharinum 'Born's Gracious' (Geschlitzter Silberahorn)"
+  },
+  {
+    "german": "Pyramidaler Silberahorn",
+    "latin": "Acer saccharinum 'Pyramidalis'",
+    "raw": "Acer saccharinum 'Pyramidalis' (Pyramidaler Silberahorn)"
+  },
+  {
+    "german": "Geschlitzter Silber-Ahorn",
+    "latin": "Acer saccharinum 'Wieri'",
+    "raw": "Acer saccharinum 'Wieri' (Geschlitzter Silber-Ahorn)"
+  },
+  {
+    "german": "Silberahorn",
+    "latin": "Acer saccharinum",
+    "raw": "Acer saccharinum (Silberahorn)"
+  },
+  {
+    "german": "Zucker-Ahorn",
+    "latin": "Acer saccharum",
+    "raw": "Acer saccharum (Zucker-Ahorn)"
+  },
+  {
+    "german": "Ahorn",
+    "latin": "Acer spec.",
+    "raw": "Acer spec. (Ahorn)"
+  },
+  {
+    "german": "Feuerahorn",
+    "latin": "Acer tataricum",
+    "raw": "Acer tataricum (Feuerahorn)"
+  },
+  {
+    "german": "Ahorn 'Norwegian Sunset'",
+    "latin": "Acer truncatum 'Norwegian Sunset'",
+    "raw": "Acer truncatum 'Norwegian Sunset' (Ahorn 'Norwegian Sunset')"
+  },
+  {
+    "german": "Pazifischer Ahorn",
+    "latin": "Acer truncatum 'Pacific Sunset'",
+    "raw": "Acer truncatum 'Pacific Sunset' (Pazifischer Ahorn)"
+  },
+  {
+    "german": "Freemanii-Ahorn",
+    "latin": "Acer x freemanii 'Armstrong'",
+    "raw": "Acer x freemanii 'Armstrong' (Freemanii-Ahorn)"
+  },
+  {
+    "german": "Rot-Ahorn 'Autumn Blaze'",
+    "latin": "Acer x freemanii 'Autumn Blaze'",
+    "raw": "Acer x freemanii 'Autumn Blaze' (Rot-Ahorn 'Autumn Blaze')"
+  },
+  {
+    "german": "Rot-Ahorn 'Celzam'",
+    "latin": "Acer x freemanii 'Celzam'",
+    "raw": "Acer x freemanii 'Celzam' (Rot-Ahorn 'Celzam')"
+  },
+  {
+    "german": "Rot-Ahorn 'Marmo'",
+    "latin": "Acer x freemanii 'Marmo'",
+    "raw": "Acer x freemanii 'Marmo' (Rot-Ahorn 'Marmo')"
+  },
+  {
+    "german": "Rot-Ahorn",
+    "latin": "Acer x freemanii",
+    "raw": "Acer x freemanii (Rot-Ahorn)"
+  },
+  {
+    "german": "Zöschener Ahorn",
+    "latin": "Acer x zoeschense 'Annae'",
+    "raw": "Acer x zoeschense 'Annae' (Zöschener Ahorn)"
+  },
+  {
+    "german": "Gelbe Kastanie",
+    "latin": "Aesculus flava",
+    "raw": "Aesculus flava (Gelbe Kastanie)"
+  },
+  {
+    "german": "Gefülltblühende Kastanie",
+    "latin": "Aesculus hippocastanum 'Baumannii'",
+    "raw": "Aesculus hippocastanum 'Baumannii' (Gefülltblühende Kastanie)"
+  },
+  {
+    "german": "Schmalblättrige Kastanie",
+    "latin": "Aesculus hippocastanum 'Laciniata'",
+    "raw": "Aesculus hippocastanum 'Laciniata' (Schmalblättrige Kastanie)"
+  },
+  {
+    "german": "Pyramidenkastanie",
+    "latin": "Aesculus hippocastanum 'Pyramidalis'",
+    "raw": "Aesculus hippocastanum 'Pyramidalis' (Pyramidenkastanie)"
+  },
+  {
+    "german": "Rosskastanie",
+    "latin": "Aesculus hippocastanum",
+    "raw": "Aesculus hippocastanum (Rosskastanie)"
+  },
+  {
+    "german": "Indische Rosskastanie",
+    "latin": "Aesculus indica",
+    "raw": "Aesculus indica (Indische Rosskastanie)"
+  },
+  {
+    "german": "Strauchkastanie",
+    "latin": "Aesculus parviflora",
+    "raw": "Aesculus parviflora (Strauchkastanie)"
+  },
+  {
+    "german": "Pavie",
+    "latin": "Aesculus pavia",
+    "raw": "Aesculus pavia (Pavie)"
+  },
+  {
+    "german": "Kastanie",
+    "latin": "Aesculus spec.",
+    "raw": "Aesculus spec. (Kastanie)"
+  },
+  {
+    "german": "Scharlachkastanie",
+    "latin": "Aesculus x carnea 'Briotii'",
+    "raw": "Aesculus x carnea 'Briotii' (Scharlachkastanie)"
+  },
+  {
+    "german": "Rotblühende Rosskastanie",
+    "latin": "Aesculus x carnea 'Plantierensis'",
+    "raw": "Aesculus x carnea 'Plantierensis' (Rotblühende Rosskastanie)"
+  },
+  {
+    "german": "Rotblühende Kastanie",
+    "latin": "Aesculus x carnea",
+    "raw": "Aesculus x carnea (Rotblühende Kastanie)"
+  },
+  {
+    "german": "Carolina-Rosskastanie",
+    "latin": "Aesculus x neglecta",
+    "raw": "Aesculus x neglecta (Carolina-Rosskastanie)"
+  },
+  {
+    "german": "Götterbaum",
+    "latin": "Ailanthus altissima",
+    "raw": "Ailanthus altissima (Götterbaum)"
+  },
+  {
+    "german": "Götterbaum",
+    "latin": "Ailanthus spec.",
+    "raw": "Ailanthus spec. (Götterbaum)"
+  },
+  {
+    "german": "Schirm-Seidenakazie",
+    "latin": "Albizia julibrissin 'Ombrella'",
+    "raw": "Albizia julibrissin 'Ombrella' (Schirm-Seidenakazie)"
+  },
+  {
+    "german": "Seidenakazie",
+    "latin": "Albizia julibrissin",
+    "raw": "Albizia julibrissin (Seidenakazie)"
+  },
+  {
+    "german": "Italienische Erle",
+    "latin": "Alnus cordata",
+    "raw": "Alnus cordata (Italienische Erle)"
+  },
+  {
+    "german": "Geschlitztblättrige Schwarzerle",
+    "latin": "Alnus glutinosa 'Imperialis'",
+    "raw": "Alnus glutinosa 'Imperialis' (Geschlitztblättrige Schwarzerle)"
+  },
+  {
+    "german": "Schlitzblättrige Schwarzerle",
+    "latin": "Alnus glutinosa 'Luciniata'",
+    "raw": "Alnus glutinosa 'Luciniata' (Schlitzblättrige Schwarzerle)"
+  },
+  {
+    "german": "Schwarz-Erle 'Pyramidalis'",
+    "latin": "Alnus glutinosa 'Pyramidalis'",
+    "raw": "Alnus glutinosa 'Pyramidalis' (Schwarz-Erle 'Pyramidalis')"
+  },
+  {
+    "german": "Schwarzerle",
+    "latin": "Alnus glutinosa",
+    "raw": "Alnus glutinosa (Schwarzerle)"
+  },
+  {
+    "german": "Grauerle",
+    "latin": "Alnus incana",
+    "raw": "Alnus incana (Grauerle)"
+  },
+  {
+    "german": "Purpur-Erle",
+    "latin": "Alnus spaethii",
+    "raw": "Alnus spaethii (Purpur-Erle)"
+  },
+  {
+    "german": "Erle",
+    "latin": "Alnus spec.",
+    "raw": "Alnus spec. (Erle)"
+  },
+  {
+    "german": "Purpur-Erle",
+    "latin": "Alnus x spaethii 'Spaeth‘",
+    "raw": "Alnus x spaethii 'Spaeth‘  (Purpur-Erle)"
+  },
+  {
+    "german": "Säulen-Felsenbirne",
+    "latin": "Amelanchier alnifolia 'Obelisk'",
+    "raw": "Amelanchier alnifolia 'Obelisk' (Säulen-Felsenbirne)"
+  },
+  {
+    "german": "Flaumige Felsenbirne",
+    "latin": "Amelanchier arborea 'Robin Hill'",
+    "raw": "Amelanchier arborea 'Robin Hill' (Flaumige Felsenbirne)"
+  },
+  {
+    "german": "Essbare Felsenbirne",
+    "latin": "Amelanchier laevis 'Ballerina'",
+    "raw": "Amelanchier laevis 'Ballerina' (Essbare Felsenbirne)"
+  },
+  {
+    "german": "Felsenbirne",
+    "latin": "Amelanchier laevis 'Snowflakes'",
+    "raw": "Amelanchier laevis 'Snowflakes' (Felsenbirne)"
+  },
+  {
+    "german": "Kahle Felsenbirne",
+    "latin": "Amelanchier laevis",
+    "raw": "Amelanchier laevis (Kahle Felsenbirne)"
+  },
+  {
+    "german": "Kupfer-Felsenbirne",
+    "latin": "Amelanchier lamarckii",
+    "raw": "Amelanchier lamarckii (Kupfer-Felsenbirne)"
+  },
+  {
+    "german": "Gewöhnliche Felsenbirne",
+    "latin": "Amelanchier ovalis",
+    "raw": "Amelanchier ovalis (Gewöhnliche Felsenbirne)"
+  },
+  {
+    "german": "Felsenbirne",
+    "latin": "Amelanchier spec.",
+    "raw": "Amelanchier spec. (Felsenbirne)"
+  },
+  {
+    "german": "Andentanne",
+    "latin": "Araucaria araucana",
+    "raw": "Araucaria araucana (Andentanne)"
+  },
+  {
+    "german": "Baumgruppe",
+    "latin": "",
+    "raw": "Baumgruppe"
+  },
+  {
+    "german": "Gold-Birke",
+    "latin": "Betula ermanii",
+    "raw": "Betula ermanii (Gold-Birke)"
+  },
+  {
+    "german": "Schwarzbirke",
+    "latin": "Betula nigra",
+    "raw": "Betula nigra (Schwarzbirke)"
+  },
+  {
+    "german": "Papierbirke",
+    "latin": "Betula papyrifera",
+    "raw": "Betula papyrifera (Papierbirke)"
+  },
+  {
+    "german": "Weißbirke",
+    "latin": "Betula pendula 'Crispa'",
+    "raw": "Betula pendula 'Crispa' (Weißbirke)"
+  },
+  {
+    "german": "Säulenbirke",
+    "latin": "Betula pendula 'Fastigiata'",
+    "raw": "Betula pendula 'Fastigiata' (Säulenbirke)"
+  },
+  {
+    "german": "Hängebirke 'Laciniata'",
+    "latin": "Betula pendula 'Laciniata'",
+    "raw": "Betula pendula 'Laciniata' (Hängebirke 'Laciniata')"
+  },
+  {
+    "german": "Blutbirke",
+    "latin": "Betula pendula 'Purpurea'",
+    "raw": "Betula pendula 'Purpurea' (Blutbirke)"
+  },
+  {
+    "german": "Echte Hängebirke",
+    "latin": "Betula pendula 'Youngii'",
+    "raw": "Betula pendula 'Youngii' (Echte Hängebirke)"
+  },
+  {
+    "german": "Weißbirke",
+    "latin": "Betula pendula",
+    "raw": "Betula pendula (Weißbirke)"
+  },
+  {
+    "german": "Moor-Birke",
+    "latin": "Betula pubescens",
+    "raw": "Betula pubescens (Moor-Birke)"
+  },
+  {
+    "german": "Birke",
+    "latin": "Betula spec.",
+    "raw": "Betula spec. (Birke)"
+  },
+  {
+    "german": "Himalaya-Birke",
+    "latin": "Betula utilis var. utilis",
+    "raw": "Betula utilis var. utilis (Himalaya-Birke)"
+  },
+  {
+    "german": "Papiermaulbeere",
+    "latin": "Broussonetia papyrifera",
+    "raw": "Broussonetia papyrifera (Papiermaulbeere)"
+  },
+  {
+    "german": "Gewöhnlicher Buchsbaum",
+    "latin": "Buxus sempervirens",
+    "raw": "Buxus sempervirens (Gewöhnlicher Buchsbaum)"
+  },
+  {
+    "german": "Rauchzypresse",
+    "latin": "Calocedrus decurrens 'Aureovariegata'",
+    "raw": "Calocedrus decurrens 'Aureovariegata' (Rauchzypresse)"
+  },
+  {
+    "german": "Kalifornische Flusszeder",
+    "latin": "Calocedrus decurrens",
+    "raw": "Calocedrus decurrens (Kalifornische Flusszeder)"
+  },
+  {
+    "german": "Pyramidenhainbuche",
+    "latin": "Carpinus betulus 'Columnaris'",
+    "raw": "Carpinus betulus 'Columnaris' (Pyramidenhainbuche)"
+  },
+  {
+    "german": "Säulenhainbuche",
+    "latin": "Carpinus betulus 'Fastigiata'",
+    "raw": "Carpinus betulus 'Fastigiata' (Säulenhainbuche)"
+  },
+  {
+    "german": "Schlanke Säulenhainbuche",
+    "latin": "Carpinus betulus 'Frans Fontaine'",
+    "raw": "Carpinus betulus 'Frans Fontaine' (Schlanke Säulenhainbuche)"
+  },
+  {
+    "german": "Hainbuche",
+    "latin": "Carpinus betulus",
+    "raw": "Carpinus betulus (Hainbuche)"
+  },
+  {
+    "german": "Hainbuche",
+    "latin": "Carpinus spec.",
+    "raw": "Carpinus spec. (Hainbuche)"
+  },
+  {
+    "german": "Bitternuss",
+    "latin": "Carya cordiformis",
+    "raw": "Carya cordiformis (Bitternuss)"
+  },
+  {
+    "german": "Pekannuss",
+    "latin": "Carya illinoinensis",
+    "raw": "Carya illinoinensis (Pekannuss)"
+  },
+  {
+    "german": "Schuppenrinden-Hickorynuss",
+    "latin": "Carya ovata",
+    "raw": "Carya ovata (Schuppenrinden-Hickorynuss)"
+  },
+  {
+    "german": "Weißbunte Edelkastanie",
+    "latin": "Castanea sativa 'Albomarginata'",
+    "raw": "Castanea sativa 'Albomarginata' (Weißbunte Edelkastanie)"
+  },
+  {
+    "german": "Edelkastanie",
+    "latin": "Castanea sativa",
+    "raw": "Castanea sativa (Edelkastanie)"
+  },
+  {
+    "german": "Zwerg-Trompetenbaum",
+    "latin": "Catalpa bignonioides 'Nana'",
+    "raw": "Catalpa bignonioides 'Nana' (Zwerg-Trompetenbaum)"
+  },
+  {
+    "german": "Trompetenbaum",
+    "latin": "Catalpa bignonioides",
+    "raw": "Catalpa bignonioides (Trompetenbaum)"
+  },
+  {
+    "german": "Blut-Trompetenbaum",
+    "latin": "Catalpa erubescens 'Purpurea'",
+    "raw": "Catalpa erubescens 'Purpurea' (Blut-Trompetenbaum)"
+  },
+  {
+    "german": "Kleinblütiger Trompetenbaum",
+    "latin": "Catalpa ovata",
+    "raw": "Catalpa ovata (Kleinblütiger Trompetenbaum)"
+  },
+  {
+    "german": "Trompetenbaum",
+    "latin": "Catalpa spec.",
+    "raw": "Catalpa spec. (Trompetenbaum)"
+  },
+  {
+    "german": "Blaue Atlaszeder",
+    "latin": "Cedrus atlantica 'Glauca Pendula'",
+    "raw": "Cedrus atlantica 'Glauca Pendula' (Blaue Atlaszeder)"
+  },
+  {
+    "german": "Blaue Atlaszeder",
+    "latin": "Cedrus atlantica 'Glauca'",
+    "raw": "Cedrus atlantica 'Glauca' (Blaue Atlaszeder)"
+  },
+  {
+    "german": "Atlaszeder",
+    "latin": "Cedrus atlantica",
+    "raw": "Cedrus atlantica (Atlaszeder)"
+  },
+  {
+    "german": "Hängehimalajazeder",
+    "latin": "Cedrus deodara 'Pendula'",
+    "raw": "Cedrus deodara 'Pendula' (Hängehimalajazeder)"
+  },
+  {
+    "german": "Himalajazeder",
+    "latin": "Cedrus deodara",
+    "raw": "Cedrus deodara (Himalajazeder)"
+  },
+  {
+    "german": "Zwerg-Libanonzeder",
+    "latin": "Cedrus libani 'Nana'",
+    "raw": "Cedrus libani 'Nana' (Zwerg-Libanonzeder)"
+  },
+  {
+    "german": "Libanonzeder",
+    "latin": "Cedrus libani",
+    "raw": "Cedrus libani (Libanonzeder)"
+  },
+  {
+    "german": "Südlicher Zürgelbaum",
+    "latin": "Celtis australis",
+    "raw": "Celtis australis (Südlicher Zürgelbaum)"
+  },
+  {
+    "german": "Westlicher Zürgelbaum",
+    "latin": "Celtis occidentalis",
+    "raw": "Celtis occidentalis (Westlicher Zürgelbaum)"
+  },
+  {
+    "german": "Netznerviger Zürgelbaum",
+    "latin": "Celtis reticulata",
+    "raw": "Celtis reticulata (Netznerviger Zürgelbaum)"
+  },
+  {
+    "german": "Zürgelbaum",
+    "latin": "Celtis spec.",
+    "raw": "Celtis spec. (Zürgelbaum)"
+  },
+  {
+    "german": "Tourneforts Zürgelbaum",
+    "latin": "Celtis tournefortii",
+    "raw": "Celtis tournefortii (Tourneforts Zürgelbaum)"
+  },
+  {
+    "german": "Harringtons Kopfeibe",
+    "latin": "Cephalotaxus harringtonia",
+    "raw": "Cephalotaxus harringtonia (Harringtons Kopfeibe)"
+  },
+  {
+    "german": "Kopfeibe",
+    "latin": "Cephalotaxus spec.",
+    "raw": "Cephalotaxus spec. (Kopfeibe)"
+  },
+  {
+    "german": "Roter Judasblattbaum",
+    "latin": "Cercidiphyllum japonicum 'Rotfuchs'",
+    "raw": "Cercidiphyllum japonicum 'Rotfuchs' (Roter Judasblattbaum)"
+  },
+  {
+    "german": "Katsurabaum",
+    "latin": "Cercidiphyllum japonicum",
+    "raw": "Cercidiphyllum japonicum (Katsurabaum)"
+  },
+  {
+    "german": "Rotblättriger Judasbaum",
+    "latin": "Cercis canadensis 'Forest Pansy'",
+    "raw": "Cercis canadensis 'Forest Pansy' (Rotblättriger Judasbaum)"
+  },
+  {
+    "german": "Kanadischer Judasbaum",
+    "latin": "Cercis canadensis 'Ruby Falls'",
+    "raw": "Cercis canadensis 'Ruby Falls' (Kanadischer Judasbaum)"
+  },
+  {
+    "german": "Kanadischer Judasbaum",
+    "latin": "Cercis canadensis",
+    "raw": "Cercis canadensis (Kanadischer Judasbaum)"
+  },
+  {
+    "german": "Judasbaum",
+    "latin": "Cercis siliquastrum",
+    "raw": "Cercis siliquastrum (Judasbaum)"
+  },
+  {
+    "german": "Säulenscheinzypresse",
+    "latin": "Chamaecyparis lawsoniana 'Alumii'",
+    "raw": "Chamaecyparis lawsoniana 'Alumii' (Säulenscheinzypresse)"
+  },
+  {
+    "german": "Goldzypresse",
+    "latin": "Chamaecyparis lawsoniana 'Stewartii'",
+    "raw": "Chamaecyparis lawsoniana 'Stewartii' (Goldzypresse)"
+  },
+  {
+    "german": "Bl.Scheinzypr.",
+    "latin": "Chamaecyparis lawsoniana 'Triomf van Boskoop'",
+    "raw": "Chamaecyparis lawsoniana 'Triomf van Boskoop' (Bl.Scheinzypr.)"
+  },
+  {
+    "german": "Scheinzypresse",
+    "latin": "Chamaecyparis lawsoniana",
+    "raw": "Chamaecyparis lawsoniana (Scheinzypresse)"
+  },
+  {
+    "german": "Hängezypresse",
+    "latin": "Chamaecyparis nootkatensis 'Pendula'",
+    "raw": "Chamaecyparis nootkatensis 'Pendula' (Hängezypresse)"
+  },
+  {
+    "german": "Nutka-Scheinzypresse",
+    "latin": "Chamaecyparis nootkatensis",
+    "raw": "Chamaecyparis nootkatensis (Nutka-Scheinzypresse)"
+  },
+  {
+    "german": "Muschelzypresse",
+    "latin": "Chamaecyparis obtusa",
+    "raw": "Chamaecyparis obtusa (Muschelzypresse)"
+  },
+  {
+    "german": "Fadenzypresse",
+    "latin": "Chamaecyparis pisifera",
+    "raw": "Chamaecyparis pisifera (Fadenzypresse)"
+  },
+  {
+    "german": "Scheinzypresse",
+    "latin": "Chamaecyparis spec.",
+    "raw": "Chamaecyparis spec. (Scheinzypresse)"
+  },
+  {
+    "german": "Weiße Scheinzypresse",
+    "latin": "Chamaecyparis thyoides",
+    "raw": "Chamaecyparis thyoides (Weiße Scheinzypresse)"
+  },
+  {
+    "german": "Chinesischer Schneeflockenstrauch",
+    "latin": "Chionantus retusus",
+    "raw": "Chionantus retusus (Chinesischer Schneeflockenstrauch)"
+  },
+  {
+    "german": "Baumoleander",
+    "latin": "Chitalpa x tashkentensis",
+    "raw": "Chitalpa x tashkentensis (Baumoleander)"
+  },
+  {
+    "german": "Gelbholz",
+    "latin": "Cladrastis lutea",
+    "raw": "Cladrastis lutea (Gelbholz)"
+  },
+  {
+    "german": "Japanischer Losbaum",
+    "latin": "Clerodendrum trichotomun",
+    "raw": "Clerodendrum trichotomun (Japanischer Losbaum)"
+  },
+  {
+    "german": "Japanischer Blumen-Hartriegel",
+    "latin": "Cornus kousa",
+    "raw": "Cornus kousa (Japanischer Blumen-Hartriegel)"
+  },
+  {
+    "german": "Dirndlstrauch",
+    "latin": "Cornus mas",
+    "raw": "Cornus mas (Dirndlstrauch)"
+  },
+  {
+    "german": "Blutroter Hartriegel",
+    "latin": "Cornus sanguinea",
+    "raw": "Cornus sanguinea (Blutroter Hartriegel)"
+  },
+  {
+    "german": "Hartriegel",
+    "latin": "Cornus spec.",
+    "raw": "Cornus spec. (Hartriegel)"
+  },
+  {
+    "german": "Gemeine Hasel",
+    "latin": "Corylus avellana",
+    "raw": "Corylus avellana (Gemeine Hasel)"
+  },
+  {
+    "german": "Rotblättrige Baumhasel",
+    "latin": "Corylus colurna 'Granat'",
+    "raw": "Corylus colurna 'Granat' (Rotblättrige Baumhasel)"
+  },
+  {
+    "german": "Hängebaumhasel",
+    "latin": "Corylus colurna 'pendula'",
+    "raw": "Corylus colurna 'pendula' (Hängebaumhasel)"
+  },
+  {
+    "german": "Baumhasel",
+    "latin": "Corylus colurna",
+    "raw": "Corylus colurna (Baumhasel)"
+  },
+  {
+    "german": "Haselnuss",
+    "latin": "Corylus spec.",
+    "raw": "Corylus spec. (Haselnuss)"
+  },
+  {
+    "german": "Roter Perückenstrauch",
+    "latin": "Cotinus coggygria 'Royal Purple'",
+    "raw": "Cotinus coggygria 'Royal Purple' (Roter Perückenstrauch)"
+  },
+  {
+    "german": "Perückenstrauch",
+    "latin": "Cotinus coggygria",
+    "raw": "Cotinus coggygria (Perückenstrauch)"
+  },
+  {
+    "german": "Gelber Perückenstrauch",
+    "latin": "Cotinus coggyria 'Golden Spirit'",
+    "raw": "Cotinus coggyria 'Golden Spirit' (Gelber Perückenstrauch)"
+  },
+  {
+    "german": "Rotdorn",
+    "latin": "Crataegus laevigata 'Pauls Scarlet'",
+    "raw": "Crataegus laevigata 'Pauls Scarlet' (Rotdorn)"
+  },
+  {
+    "german": "Weißdorn 'Plena'",
+    "latin": "Crataegus laevigata 'Plena'",
+    "raw": "Crataegus laevigata 'Plena' (Weißdorn 'Plena')"
+  },
+  {
+    "german": "Weißdorn",
+    "latin": "Crataegus laevigata",
+    "raw": "Crataegus laevigata (Weißdorn)"
+  },
+  {
+    "german": "Säulenweißdorn",
+    "latin": "Crataegus monogyna 'Stricta'",
+    "raw": "Crataegus monogyna 'Stricta' (Säulenweißdorn)"
+  },
+  {
+    "german": "Weißdorn",
+    "latin": "Crataegus monogyna",
+    "raw": "Crataegus monogyna (Weißdorn)"
+  },
+  {
+    "german": "Dorn",
+    "latin": "Crataegus spec.",
+    "raw": "Crataegus spec. (Dorn)"
+  },
+  {
+    "german": "Hahnendorn",
+    "latin": "Crataegus x lavallei",
+    "raw": "Crataegus x lavallei (Hahnendorn)"
+  },
+  {
+    "german": "Japanische Sicheltanne",
+    "latin": "Cryptomeria japonica",
+    "raw": "Cryptomeria japonica (Japanische Sicheltanne)"
+  },
+  {
+    "german": "Riesenzypresse",
+    "latin": "Cupressocyparis leylandii",
+    "raw": "Cupressocyparis leylandii (Riesenzypresse)"
+  },
+  {
+    "german": "Arizonazypresse",
+    "latin": "Cupressus arizonica 'Fastigiata'",
+    "raw": "Cupressus arizonica 'Fastigiata' (Arizonazypresse)"
+  },
+  {
+    "german": "Blaue Arizonazypresse",
+    "latin": "Cupressus arizonica 'Glauca'",
+    "raw": "Cupressus arizonica 'Glauca' (Blaue Arizonazypresse)"
+  },
+  {
+    "german": "Echte Zypresse",
+    "latin": "Cupressus sempervierens 'Pyramidalis'",
+    "raw": "Cupressus sempervierens 'Pyramidalis' (Echte Zypresse)"
+  },
+  {
+    "german": "Quitte",
+    "latin": "Cydonia oblonga",
+    "raw": "Cydonia oblonga (Quitte)"
+  },
+  {
+    "german": "Taubenbaum",
+    "latin": "Davidia involucrata",
+    "raw": "Davidia involucrata (Taubenbaum)"
+  },
+  {
+    "german": "Ölweide",
+    "latin": "Elaeagnus angustifolia",
+    "raw": "Elaeagnus angustifolia (Ölweide)"
+  },
+  {
+    "german": "Mostgummi-Eukalyptus",
+    "latin": "Eucalyptus gunnii",
+    "raw": "Eucalyptus gunnii (Mostgummi-Eukalyptus)"
+  },
+  {
+    "german": "Guttaperchabaum",
+    "latin": "Eucommina ulmoides",
+    "raw": "Eucommina ulmoides (Guttaperchabaum)"
+  },
+  {
+    "german": "Pfarrerkapperl",
+    "latin": "Euonymus europaeus",
+    "raw": "Euonymus europaeus (Pfarrerkapperl)"
+  },
+  {
+    "german": "Buche",
+    "latin": "Fagus spec.",
+    "raw": "Fagus spec. (Buche)"
+  },
+  {
+    "german": "Buntlaubige Rot-Buche",
+    "latin": "Fagus sylvatica 'Albomarginata'",
+    "raw": "Fagus sylvatica 'Albomarginata' (Buntlaubige Rot-Buche)"
+  },
+  {
+    "german": "Weißbunte Rotbuche",
+    "latin": "Fagus sylvatica 'Albovariegata'",
+    "raw": "Fagus sylvatica 'Albovariegata' (Weißbunte Rotbuche)"
+  },
+  {
+    "german": "Geschlitztblättrige Buche",
+    "latin": "Fagus sylvatica 'Asplenifolia'",
+    "raw": "Fagus sylvatica 'Asplenifolia' (Geschlitztblättrige Buche)"
+  },
+  {
+    "german": "Sämlings Blutbuche",
+    "latin": "Fagus sylvatica 'Atropunicea'",
+    "raw": "Fagus sylvatica 'Atropunicea' (Sämlings Blutbuche)"
+  },
+  {
+    "german": "Blutbuche",
+    "latin": "Fagus sylvatica 'Atropurpurea'",
+    "raw": "Fagus sylvatica 'Atropurpurea' (Blutbuche)"
+  },
+  {
+    "german": "Gelbbunte Buche",
+    "latin": "Fagus sylvatica 'Bicolor Sartinii'",
+    "raw": "Fagus sylvatica 'Bicolor Sartinii' (Gelbbunte Buche)"
+  },
+  {
+    "german": "Rotblättrige Säulenblutbuche",
+    "latin": "Fagus sylvatica 'Dawyk Purple'",
+    "raw": "Fagus sylvatica 'Dawyk Purple' (Rotblättrige Säulenblutbuche)"
+  },
+  {
+    "german": "Säulenrotbuche",
+    "latin": "Fagus sylvatica 'Dawyk'",
+    "raw": "Fagus sylvatica 'Dawyk' (Säulenrotbuche)"
+  },
+  {
+    "german": "Säulenrotbuche",
+    "latin": "Fagus sylvatica 'Fastigiata'",
+    "raw": "Fagus sylvatica 'Fastigiata' (Säulenrotbuche)"
+  },
+  {
+    "german": "Fiederblatt-Rotbuche",
+    "latin": "Fagus sylvatica 'Laciniata'",
+    "raw": "Fagus sylvatica 'Laciniata' (Fiederblatt-Rotbuche)"
+  },
+  {
+    "german": "Hängerotbuche",
+    "latin": "Fagus sylvatica 'Pendula'",
+    "raw": "Fagus sylvatica 'Pendula' (Hängerotbuche)"
+  },
+  {
+    "german": "Hängeblutbuche",
+    "latin": "Fagus sylvatica 'Purpurea Pendula'",
+    "raw": "Fagus sylvatica 'Purpurea Pendula' (Hängeblutbuche)"
+  },
+  {
+    "german": "Harlequin-Rotbuche",
+    "latin": "Fagus sylvatica 'Purpurea Tricolor'",
+    "raw": "Fagus sylvatica 'Purpurea Tricolor' (Harlequin-Rotbuche)"
+  },
+  {
+    "german": "Eichenblättrige Blutbuche",
+    "latin": "Fagus sylvatica 'Quercifolia'",
+    "raw": "Fagus sylvatica 'Quercifolia' (Eichenblättrige Blutbuche)"
+  },
+  {
+    "german": "Säulenblutbuche",
+    "latin": "Fagus sylvatica 'Rohan Obelisk'",
+    "raw": "Fagus sylvatica 'Rohan Obelisk' (Säulenblutbuche)"
+  },
+  {
+    "german": "Buntblättrige Buche",
+    "latin": "Fagus sylvatica 'Roseomarginata'",
+    "raw": "Fagus sylvatica 'Roseomarginata' (Buntblättrige Buche)"
+  },
+  {
+    "german": "Rotbuche",
+    "latin": "Fagus sylvatica",
+    "raw": "Fagus sylvatica (Rotbuche)"
+  },
+  {
+    "german": "Feigenbaum",
+    "latin": "Ficus carica",
+    "raw": "Ficus carica (Feigenbaum)"
+  },
+  {
+    "german": "Fontanesie",
+    "latin": "Fontanesia phillyreoides",
+    "raw": "Fontanesia phillyreoides (Fontanesie)"
+  },
+  {
+    "german": "Weiß-Esche 'Autumn Purple'",
+    "latin": "Fraxinus americana 'Autumn Purple'",
+    "raw": "Fraxinus americana 'Autumn Purple' (Weiß-Esche 'Autumn Purple')"
+  },
+  {
+    "german": "Weiß-Esche",
+    "latin": "Fraxinus americana 'Skyline'",
+    "raw": "Fraxinus americana 'Skyline' (Weiß-Esche)"
+  },
+  {
+    "german": "Weiß-Esche",
+    "latin": "Fraxinus americana",
+    "raw": "Fraxinus americana (Weiß-Esche)"
+  },
+  {
+    "german": "Schmalblättrige Esche",
+    "latin": "Fraxinus angustifolia 'Raywood'",
+    "raw": "Fraxinus angustifolia 'Raywood' (Schmalblättrige Esche)"
+  },
+  {
+    "german": "Schmalblättrige Esche",
+    "latin": "Fraxinus angustifolia",
+    "raw": "Fraxinus angustifolia (Schmalblättrige Esche)"
+  },
+  {
+    "german": "Gemeine Esche",
+    "latin": "Fraxinus excelsior 'Altena'",
+    "raw": "Fraxinus excelsior 'Altena' (Gemeine Esche)"
+  },
+  {
+    "german": "Gemeine Esche",
+    "latin": "Fraxinus excelsior 'Atlas'",
+    "raw": "Fraxinus excelsior 'Atlas' (Gemeine Esche)"
+  },
+  {
+    "german": "Einblättrige Esche",
+    "latin": "Fraxinus excelsior 'Diversifolia'",
+    "raw": "Fraxinus excelsior 'Diversifolia' (Einblättrige Esche)"
+  },
+  {
+    "german": "Gemeine Esche",
+    "latin": "Fraxinus excelsior 'Geessink'",
+    "raw": "Fraxinus excelsior 'Geessink' (Gemeine Esche)"
+  },
+  {
+    "german": "Kugelesche",
+    "latin": "Fraxinus excelsior 'Globosa'",
+    "raw": "Fraxinus excelsior 'Globosa' (Kugelesche)"
+  },
+  {
+    "german": "Kugelesche",
+    "latin": "Fraxinus excelsior 'Nana'",
+    "raw": "Fraxinus excelsior 'Nana' (Kugelesche)"
+  },
+  {
+    "german": "Hängeesche",
+    "latin": "Fraxinus excelsior 'Pendula'",
+    "raw": "Fraxinus excelsior 'Pendula' (Hängeesche)"
+  },
+  {
+    "german": "Esche",
+    "latin": "Fraxinus excelsior 'Westhofs Glorie'",
+    "raw": "Fraxinus excelsior 'Westhofs Glorie' (Esche)"
+  },
+  {
+    "german": "Gemeine Esche",
+    "latin": "Fraxinus excelsior",
+    "raw": "Fraxinus excelsior (Gemeine Esche)"
+  },
+  {
+    "german": "Balkanesche",
+    "latin": "Fraxinus holotricha 'Moraine'",
+    "raw": "Fraxinus holotricha 'Moraine' (Balkanesche)"
+  },
+  {
+    "german": "Blumen-Esche 'Arie Peters'",
+    "latin": "Fraxinus ornus 'Arie Peters'",
+    "raw": "Fraxinus ornus 'Arie Peters' (Blumen-Esche 'Arie Peters')"
+  },
+  {
+    "german": "Blumen-Esche 'Louisa Lady'",
+    "latin": "Fraxinus ornus 'Louisa Lady'",
+    "raw": "Fraxinus ornus 'Louisa Lady' (Blumen-Esche 'Louisa Lady')"
+  },
+  {
+    "german": "Kugelblumenesche",
+    "latin": "Fraxinus ornus 'Meczek'",
+    "raw": "Fraxinus ornus 'Meczek' (Kugelblumenesche)"
+  },
+  {
+    "german": "Säulenblumenesche",
+    "latin": "Fraxinus ornus 'Obelisk'",
+    "raw": "Fraxinus ornus 'Obelisk' (Säulenblumenesche)"
+  },
+  {
+    "german": "Blumenesche",
+    "latin": "Fraxinus ornus",
+    "raw": "Fraxinus ornus (Blumenesche)"
+  },
+  {
+    "german": "Rotesche",
+    "latin": "Fraxinus pennsylvanica 'Cimmaron'",
+    "raw": "Fraxinus pennsylvanica 'Cimmaron' (Rotesche)"
+  },
+  {
+    "german": "Rotesche",
+    "latin": "Fraxinus pennsylvanica 'Patmore'",
+    "raw": "Fraxinus pennsylvanica 'Patmore' (Rotesche)"
+  },
+  {
+    "german": "Rotesche",
+    "latin": "Fraxinus pennsylvanica 'Summit'",
+    "raw": "Fraxinus pennsylvanica 'Summit' (Rotesche)"
+  },
+  {
+    "german": "Rotesche",
+    "latin": "Fraxinus pennsylvanica 'Zundert'",
+    "raw": "Fraxinus pennsylvanica 'Zundert' (Rotesche)"
+  },
+  {
+    "german": "Rotesche",
+    "latin": "Fraxinus pennsylvanica",
+    "raw": "Fraxinus pennsylvanica (Rotesche)"
+  },
+  {
+    "german": "Esche",
+    "latin": "Fraxinus spec.",
+    "raw": "Fraxinus spec. (Esche)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Autumn Gold'",
+    "raw": "Ginkgo biloba 'Autumn Gold' (Fächerblattbaum)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Fairmount'",
+    "raw": "Ginkgo biloba 'Fairmount' (Fächerblattbaum)"
+  },
+  {
+    "german": "Säulenfächerblattbaum",
+    "latin": "Ginkgo biloba 'Fastigiata Blagon'",
+    "raw": "Ginkgo biloba 'Fastigiata Blagon' (Säulenfächerblattbaum)"
+  },
+  {
+    "german": "Kugel-Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Globosa'",
+    "raw": "Ginkgo biloba 'Globosa' (Kugel-Fächerblattbaum)"
+  },
+  {
+    "german": "Schirm-Ginkgo",
+    "latin": "Ginkgo biloba 'Horizontalis'",
+    "raw": "Ginkgo biloba 'Horizontalis' (Schirm-Ginkgo)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Katlan'",
+    "raw": "Ginkgo biloba 'Katlan' (Fächerblattbaum)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Lakeview'",
+    "raw": "Ginkgo biloba 'Lakeview' (Fächerblattbaum)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Mayfield'",
+    "raw": "Ginkgo biloba 'Mayfield' (Fächerblattbaum)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Princeton Sentry'",
+    "raw": "Ginkgo biloba 'Princeton Sentry' (Fächerblattbaum)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba 'Saratoga'",
+    "raw": "Ginkgo biloba 'Saratoga' (Fächerblattbaum)"
+  },
+  {
+    "german": "Säulenginkgo",
+    "latin": "Ginkgo biloba 'Tremonia'",
+    "raw": "Ginkgo biloba 'Tremonia' (Säulenginkgo)"
+  },
+  {
+    "german": "Fächerblattbaum",
+    "latin": "Ginkgo biloba",
+    "raw": "Ginkgo biloba (Fächerblattbaum)"
+  },
+  {
+    "german": "Lederhülsenbaum",
+    "latin": "Gleditsia spec.",
+    "raw": "Gleditsia spec. (Lederhülsenbaum)"
+  },
+  {
+    "german": "Säulenlederhülsenbaum",
+    "latin": "Gleditsia triacanthos 'Elegantissima'",
+    "raw": "Gleditsia triacanthos 'Elegantissima' (Säulenlederhülsenbaum)"
+  },
+  {
+    "german": "Dornenloser Lederhülsenbaum",
+    "latin": "Gleditsia triacanthos 'Inermis'",
+    "raw": "Gleditsia triacanthos 'Inermis' (Dornenloser Lederhülsenbaum)"
+  },
+  {
+    "german": "Blutlederhülsenbaum",
+    "latin": "Gleditsia triacanthos 'Ruby Lace'",
+    "raw": "Gleditsia triacanthos 'Ruby Lace' (Blutlederhülsenbaum)"
+  },
+  {
+    "german": "Schirmgleditschie",
+    "latin": "Gleditsia triacanthos 'Shademaster'",
+    "raw": "Gleditsia triacanthos 'Shademaster' (Schirmgleditschie)"
+  },
+  {
+    "german": "Säulengleditschie",
+    "latin": "Gleditsia triacanthos 'Skyline'",
+    "raw": "Gleditsia triacanthos 'Skyline' (Säulengleditschie)"
+  },
+  {
+    "german": "Gelber Lederhülsenbaum",
+    "latin": "Gleditsia triacanthos 'Sunburst'",
+    "raw": "Gleditsia triacanthos 'Sunburst' (Gelber Lederhülsenbaum)"
+  },
+  {
+    "german": "Lederhülsenbaum",
+    "latin": "Gleditsia triacanthos",
+    "raw": "Gleditsia triacanthos (Lederhülsenbaum)"
+  },
+  {
+    "german": "Geweihbaum",
+    "latin": "Gymnocladus dioicus",
+    "raw": "Gymnocladus dioicus (Geweihbaum)"
+  },
+  {
+    "german": "Sieben Söhne des Himmels Strauch",
+    "latin": "Heptacodium miconioides",
+    "raw": "Heptacodium miconioides (Sieben Söhne des Himmels Strauch)"
+  },
+  {
+    "german": "Garteneibisch",
+    "latin": "Hibiscus syriacus 'Blue Bird'",
+    "raw": "Hibiscus syriacus 'Blue Bird' (Garteneibisch)"
+  },
+  {
+    "german": "Garteneibisch",
+    "latin": "Hibiscus syriacus 'China Chiffon'",
+    "raw": "Hibiscus syriacus 'China Chiffon' (Garteneibisch)"
+  },
+  {
+    "german": "Garteneibisch",
+    "latin": "Hibiscus syriacus 'Lavender Chiffon'",
+    "raw": "Hibiscus syriacus 'Lavender Chiffon' (Garteneibisch)"
+  },
+  {
+    "german": "Garteneibisch",
+    "latin": "Hibiscus syriacus 'Russian Violet'",
+    "raw": "Hibiscus syriacus 'Russian Violet' (Garteneibisch)"
+  },
+  {
+    "german": "Garteneibisch",
+    "latin": "Hibiscus syriacus 'White Chiffon'",
+    "raw": "Hibiscus syriacus 'White Chiffon' (Garteneibisch)"
+  },
+  {
+    "german": "Eibisch",
+    "latin": "Hibiscus syriacus",
+    "raw": "Hibiscus syriacus (Eibisch)"
+  },
+  {
+    "german": "Japanischer Rosinenbaum",
+    "latin": "Hovenia dulcis",
+    "raw": "Hovenia dulcis (Japanischer Rosinenbaum)"
+  },
+  {
+    "german": "Stechpalme 'Alaska'",
+    "latin": "Ilex aquifolium 'Alaska'",
+    "raw": "Ilex aquifolium 'Alaska' (Stechpalme 'Alaska')"
+  },
+  {
+    "german": "Gelbgerandete Stechpalme",
+    "latin": "Ilex aquifolium 'Aurea Marginata'",
+    "raw": "Ilex aquifolium 'Aurea Marginata' (Gelbgerandete Stechpalme)"
+  },
+  {
+    "german": "Stechpalme",
+    "latin": "Ilex aquifolium",
+    "raw": "Ilex aquifolium (Stechpalme)"
+  },
+  {
+    "german": "Mandschurische Walnuss",
+    "latin": "Juglans mandshurica",
+    "raw": "Juglans mandshurica (Mandschurische Walnuss)"
+  },
+  {
+    "german": "Felsen-Walnuss",
+    "latin": "Juglans microcarpa",
+    "raw": "Juglans microcarpa (Felsen-Walnuss)"
+  },
+  {
+    "german": "Schwarznussbaum",
+    "latin": "Juglans nigra",
+    "raw": "Juglans nigra (Schwarznussbaum)"
+  },
+  {
+    "german": "Walnussbaum",
+    "latin": "Juglans regia",
+    "raw": "Juglans regia (Walnussbaum)"
+  },
+  {
+    "german": "Walnussbaum",
+    "latin": "Juglans spec.",
+    "raw": "Juglans spec. (Walnussbaum)"
+  },
+  {
+    "german": "Jungbaum wird gepflanzt",
+    "latin": "",
+    "raw": "Jungbaum wird gepflanzt"
+  },
+  {
+    "german": "Zypressen-Wacholder 'Ketele.'",
+    "latin": "Juniperus chinensis 'Keteleeri'",
+    "raw": "Juniperus chinensis 'Keteleeri' (Zypressen-Wacholder 'Ketele.')"
+  },
+  {
+    "german": "Chinesischer Wacholder",
+    "latin": "Juniperus chinensis",
+    "raw": "Juniperus chinensis (Chinesischer Wacholder)"
+  },
+  {
+    "german": "Gewöhnlicher Wacholder",
+    "latin": "Juniperus communis",
+    "raw": "Juniperus communis (Gewöhnlicher Wacholder)"
+  },
+  {
+    "german": "Syrischer Wacholder",
+    "latin": "Juniperus drupacea",
+    "raw": "Juniperus drupacea (Syrischer Wacholder)"
+  },
+  {
+    "german": "Raketen-Wacholder",
+    "latin": "Juniperus scopulorum 'Skyrocket'",
+    "raw": "Juniperus scopulorum 'Skyrocket' (Raketen-Wacholder)"
+  },
+  {
+    "german": "Virginischer Baumwacholder",
+    "latin": "Juniperus virginiana 'Canaertii'",
+    "raw": "Juniperus virginiana 'Canaertii' (Virginischer Baumwacholder)"
+  },
+  {
+    "german": "Baumwacholder",
+    "latin": "Juniperus virginiana",
+    "raw": "Juniperus virginiana (Baumwacholder)"
+  },
+  {
+    "german": "Säulenblasenbaum",
+    "latin": "Koelreuteria paniculata 'Fastigiata'",
+    "raw": "Koelreuteria paniculata 'Fastigiata' (Säulenblasenbaum)"
+  },
+  {
+    "german": "Blasenbaum",
+    "latin": "Koelreuteria paniculata",
+    "raw": "Koelreuteria paniculata (Blasenbaum)"
+  },
+  {
+    "german": "Blasenbaum",
+    "latin": "Koelreuteria spec.",
+    "raw": "Koelreuteria spec. (Blasenbaum)"
+  },
+  {
+    "german": "Gemeiner Goldregen",
+    "latin": "Laburnum anagyroides",
+    "raw": "Laburnum anagyroides (Gemeiner Goldregen)"
+  },
+  {
+    "german": "Goldregen",
+    "latin": "Laburnum spec.",
+    "raw": "Laburnum spec. (Goldregen)"
+  },
+  {
+    "german": "Europäische Lärche",
+    "latin": "Larix decidua",
+    "raw": "Larix decidua (Europäische Lärche)"
+  },
+  {
+    "german": "Japanische Lärche",
+    "latin": "Larix kaempferi",
+    "raw": "Larix kaempferi (Japanische Lärche)"
+  },
+  {
+    "german": "Lärche",
+    "latin": "Larix spec.",
+    "raw": "Larix spec. (Lärche)"
+  },
+  {
+    "german": "Laubbaum",
+    "latin": "",
+    "raw": "Laubbaum"
+  },
+  {
+    "german": "Amberbaum",
+    "latin": "Liquidambar spec.",
+    "raw": "Liquidambar spec. (Amberbaum)"
+  },
+  {
+    "german": "Worplesdon-Amberbaum",
+    "latin": "Liquidambar styraciflua 'Worplesdon'",
+    "raw": "Liquidambar styraciflua 'Worplesdon' (Worplesdon-Amberbaum)"
+  },
+  {
+    "german": "Amberbaum",
+    "latin": "Liquidambar styraciflua",
+    "raw": "Liquidambar styraciflua (Amberbaum)"
+  },
+  {
+    "german": "Säulentulpenbaum",
+    "latin": "Liriodendron tulipifera 'Arnold'",
+    "raw": "Liriodendron tulipifera 'Arnold' (Säulentulpenbaum)"
+  },
+  {
+    "german": "Gelbbunt.Tulpenbaum",
+    "latin": "Liriodendron tulipifera 'Aureomarginatum'",
+    "raw": "Liriodendron tulipifera 'Aureomarginatum' (Gelbbunt.Tulpenbaum)"
+  },
+  {
+    "german": "Säulentulpenbaum",
+    "latin": "Liriodendron tulipifera 'Fastigiatum'",
+    "raw": "Liriodendron tulipifera 'Fastigiatum' (Säulentulpenbaum)"
+  },
+  {
+    "german": "Tulpenbaum",
+    "latin": "Liriodendron tulipifera",
+    "raw": "Liriodendron tulipifera (Tulpenbaum)"
+  },
+  {
+    "german": "Osagedorn",
+    "latin": "Maclura pomifera",
+    "raw": "Maclura pomifera (Osagedorn)"
+  },
+  {
+    "german": "Gelbe Sternmagnolie",
+    "latin": "Magnolia 'Goldstar'",
+    "raw": "Magnolia 'Goldstar' (Gelbe Sternmagnolie)"
+  },
+  {
+    "german": "Magnolie",
+    "latin": "Magnolia 'Royal Crown'",
+    "raw": "Magnolia 'Royal Crown' (Magnolie)"
+  },
+  {
+    "german": "Yulan-Magnolie",
+    "latin": "Magnolia denudata",
+    "raw": "Magnolia denudata (Yulan-Magnolie)"
+  },
+  {
+    "german": "Immergrüne Magnolie",
+    "latin": "Magnolia grandiflora",
+    "raw": "Magnolia grandiflora (Immergrüne Magnolie)"
+  },
+  {
+    "german": "Baummagnolie",
+    "latin": "Magnolia kobus",
+    "raw": "Magnolia kobus (Baummagnolie)"
+  },
+  {
+    "german": "Purpur-Magnolie",
+    "latin": "Magnolia liliiflora 'Nigra'",
+    "raw": "Magnolia liliiflora 'Nigra' (Purpur-Magnolie)"
+  },
+  {
+    "german": "Purpur-Magnolie 'Susan'",
+    "latin": "Magnolia liliiflora 'Susan'",
+    "raw": "Magnolia liliiflora 'Susan' (Purpur-Magnolie 'Susan')"
+  },
+  {
+    "german": "Magnolie",
+    "latin": "Magnolia spec.",
+    "raw": "Magnolia spec. (Magnolie)"
+  },
+  {
+    "german": "Großblumige-Magnolie",
+    "latin": "Magnolia sprengeri 'Galaxy'",
+    "raw": "Magnolia sprengeri 'Galaxy' (Großblumige-Magnolie)"
+  },
+  {
+    "german": "Rosa Sternmagnolie",
+    "latin": "Magnolia stellata 'Rosea'",
+    "raw": "Magnolia stellata 'Rosea' (Rosa Sternmagnolie)"
+  },
+  {
+    "german": "Sternmagnolie",
+    "latin": "Magnolia stellata",
+    "raw": "Magnolia stellata (Sternmagnolie)"
+  },
+  {
+    "german": "Tulpen-Magnolie",
+    "latin": "Magnolia x soulangeana 'Alba Superba'",
+    "raw": "Magnolia x soulangeana 'Alba Superba' (Tulpen-Magnolie)"
+  },
+  {
+    "german": "Tulpen-Magnolie",
+    "latin": "Magnolia x soulangeana 'Lennei'",
+    "raw": "Magnolia x soulangeana 'Lennei' (Tulpen-Magnolie)"
+  },
+  {
+    "german": "Tulpenmagnolie",
+    "latin": "Magnolia x soulangiana",
+    "raw": "Magnolia x soulangiana (Tulpenmagnolie)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus 'Evereste'",
+    "raw": "Malus 'Evereste' (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus 'Golden Hornet'",
+    "raw": "Malus 'Golden Hornet' (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel Royal Beauty",
+    "latin": "Malus 'Royal Beauty'",
+    "raw": "Malus 'Royal Beauty' (Zierapfel Royal Beauty)"
+  },
+  {
+    "german": "Rotlaubiger Zierapfel",
+    "latin": "Malus 'Scarlet'",
+    "raw": "Malus 'Scarlet' (Rotlaubiger Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus 'Van Eseltine'",
+    "raw": "Malus 'Van Eseltine' (Zierapfel)"
+  },
+  {
+    "german": "Tafelapfel",
+    "latin": "Malus domestica 'James Grieve'",
+    "raw": "Malus domestica 'James Grieve' (Tafelapfel)"
+  },
+  {
+    "german": "Tafelapfel",
+    "latin": "Malus domestica 'Winter Goldpermäne'",
+    "raw": "Malus domestica 'Winter Goldpermäne' (Tafelapfel)"
+  },
+  {
+    "german": "Kultur-Apfel",
+    "latin": "Malus domestica",
+    "raw": "Malus domestica (Kultur-Apfel)"
+  },
+  {
+    "german": "Vielblütiger Apfel",
+    "latin": "Malus floribunda",
+    "raw": "Malus floribunda (Vielblütiger Apfel)"
+  },
+  {
+    "german": "Blutapfel",
+    "latin": "Malus hybrida 'Royalty'",
+    "raw": "Malus hybrida 'Royalty' (Blutapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus hybride 'John Downie'",
+    "raw": "Malus hybride 'John Downie' (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus hybride 'Professor Sprenger'",
+    "raw": "Malus hybride 'Professor Sprenger' (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus hybride 'Red Jade'",
+    "raw": "Malus hybride 'Red Jade' (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus hybride 'Street Parade'",
+    "raw": "Malus hybride 'Street Parade' (Zierapfel)"
+  },
+  {
+    "german": "Apfelbaum",
+    "latin": "Malus spec.",
+    "raw": "Malus spec. (Apfelbaum)"
+  },
+  {
+    "german": "Pracht-Apfel",
+    "latin": "Malus spectabilis",
+    "raw": "Malus spectabilis (Pracht-Apfel)"
+  },
+  {
+    "german": "Holzapfel",
+    "latin": "Malus sylvestris",
+    "raw": "Malus sylvestris (Holzapfel)"
+  },
+  {
+    "german": "Toringo-Apfel",
+    "latin": "Malus toringo 'Brouwers Beauty'",
+    "raw": "Malus toringo 'Brouwers Beauty' (Toringo-Apfel)"
+  },
+  {
+    "german": "Toringo-Apfel",
+    "latin": "Malus toringo",
+    "raw": "Malus toringo (Toringo-Apfel)"
+  },
+  {
+    "german": "Dreilappiger Apfel",
+    "latin": "Malus trilobata",
+    "raw": "Malus trilobata (Dreilappiger Apfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus tschonoskii",
+    "raw": "Malus tschonoskii (Zierapfel)"
+  },
+  {
+    "german": "Zierapfel",
+    "latin": "Malus x purpurea",
+    "raw": "Malus x purpurea (Zierapfel)"
+  },
+  {
+    "german": "Echte Mispel",
+    "latin": "Mespilus germanica",
+    "raw": "Mespilus germanica (Echte Mispel)"
+  },
+  {
+    "german": "Urweltmammutbaum",
+    "latin": "Metasequoia glyptostroboides",
+    "raw": "Metasequoia glyptostroboides (Urweltmammutbaum)"
+  },
+  {
+    "german": "Säulenmaulbeere",
+    "latin": "Morus alba 'Fastigiata'",
+    "raw": "Morus alba 'Fastigiata' (Säulenmaulbeere)"
+  },
+  {
+    "german": "Fruchloser Weißer Maulbeerbaum",
+    "latin": "Morus alba 'Fruitless'",
+    "raw": "Morus alba 'Fruitless' (Fruchloser Weißer Maulbeerbaum)"
+  },
+  {
+    "german": "Kugelförmiger Maulbeerbaum",
+    "latin": "Morus alba 'Globosa'",
+    "raw": "Morus alba 'Globosa' (Kugelförmiger Maulbeerbaum)"
+  },
+  {
+    "german": "Hängemaulbeere",
+    "latin": "Morus alba 'Pendula'",
+    "raw": "Morus alba 'Pendula' (Hängemaulbeere)"
+  },
+  {
+    "german": "Pyramidenmaulbeere",
+    "latin": "Morus alba 'Pyramidalis'",
+    "raw": "Morus alba 'Pyramidalis' (Pyramidenmaulbeere)"
+  },
+  {
+    "german": "Weißer Maulbeerbaum",
+    "latin": "Morus alba",
+    "raw": "Morus alba (Weißer Maulbeerbaum)"
+  },
+  {
+    "german": "Schwarzer Maulbeerbaum",
+    "latin": "Morus nigra",
+    "raw": "Morus nigra (Schwarzer Maulbeerbaum)"
+  },
+  {
+    "german": "Maulbeerbaum",
+    "latin": "Morus spec.",
+    "raw": "Morus spec. (Maulbeerbaum)"
+  },
+  {
+    "german": "Wald-Tupelobaum",
+    "latin": "Nyssa sylvatica",
+    "raw": "Nyssa sylvatica (Wald-Tupelobaum)"
+  },
+  {
+    "german": "Obstbaum",
+    "latin": "",
+    "raw": "Obstbaum"
+  },
+  {
+    "german": "Hopfenbuche",
+    "latin": "Ostrya carpinifolia",
+    "raw": "Ostrya carpinifolia (Hopfenbuche)"
+  },
+  {
+    "german": "Eisenholzbaum",
+    "latin": "Parrotia persica 'Vanessa'",
+    "raw": "Parrotia persica 'Vanessa' (Eisenholzbaum)"
+  },
+  {
+    "german": "Eisenholzbaum",
+    "latin": "Parrotia persica",
+    "raw": "Parrotia persica (Eisenholzbaum)"
+  },
+  {
+    "german": "Blauglockenbaum",
+    "latin": "Paulownia elongata",
+    "raw": "Paulownia elongata (Blauglockenbaum)"
+  },
+  {
+    "german": "Blauglockenbaum",
+    "latin": "Paulownia tomentosa",
+    "raw": "Paulownia tomentosa (Blauglockenbaum)"
+  },
+  {
+    "german": "Amur-Korkbaum",
+    "latin": "Phellodendron amurense",
+    "raw": "Phellodendron amurense (Amur-Korkbaum)"
+  },
+  {
+    "german": "Glanzmispel",
+    "latin": "Photinia x fraseri",
+    "raw": "Photinia x fraseri (Glanzmispel)"
+  },
+  {
+    "german": "Säulenfichte",
+    "latin": "Picea abies 'Cupressina'",
+    "raw": "Picea abies 'Cupressina' (Säulenfichte)"
+  },
+  {
+    "german": "Geisterfichte",
+    "latin": "Picea abies 'Inversa'",
+    "raw": "Picea abies 'Inversa' (Geisterfichte)"
+  },
+  {
+    "german": "Gemeine Fichte",
+    "latin": "Picea abies",
+    "raw": "Picea abies (Gemeine Fichte)"
+  },
+  {
+    "german": "Siskiyou-Fichte",
+    "latin": "Picea breweriana",
+    "raw": "Picea breweriana (Siskiyou-Fichte)"
+  },
+  {
+    "german": "Serbische Fichte",
+    "latin": "Picea omorika",
+    "raw": "Picea omorika (Serbische Fichte)"
+  },
+  {
+    "german": "Kaukasus-Fichte",
+    "latin": "Picea orientalis",
+    "raw": "Picea orientalis (Kaukasus-Fichte)"
+  },
+  {
+    "german": "Blaufichte",
+    "latin": "Picea pungens 'Glauca'",
+    "raw": "Picea pungens 'Glauca' (Blaufichte)"
+  },
+  {
+    "german": "Blaufichte, Silberfichte",
+    "latin": "Picea pungens 'Koster'",
+    "raw": "Picea pungens 'Koster' (Blaufichte, Silberfichte)"
+  },
+  {
+    "german": "Stechfichte",
+    "latin": "Picea pungens",
+    "raw": "Picea pungens (Stechfichte)"
+  },
+  {
+    "german": "Rotfichte",
+    "latin": "Picea rubens",
+    "raw": "Picea rubens (Rotfichte)"
+  },
+  {
+    "german": "Fichte",
+    "latin": "Picea spec.",
+    "raw": "Picea spec. (Fichte)"
+  },
+  {
+    "german": "Tigerschwanz-Fichte",
+    "latin": "Picea torano",
+    "raw": "Picea torano (Tigerschwanz-Fichte)"
+  },
+  {
+    "german": "Grannen-Kiefer",
+    "latin": "Pinus aristata",
+    "raw": "Pinus aristata (Grannen-Kiefer)"
+  },
+  {
+    "german": "Türkische Kiefer",
+    "latin": "Pinus brutia",
+    "raw": "Pinus brutia (Türkische Kiefer)"
+  },
+  {
+    "german": "Zirbel-Kiefer",
+    "latin": "Pinus cembra",
+    "raw": "Pinus cembra (Zirbel-Kiefer)"
+  },
+  {
+    "german": "Biegsame Kiefer",
+    "latin": "Pinus flexilis",
+    "raw": "Pinus flexilis (Biegsame Kiefer)"
+  },
+  {
+    "german": "Schlangenhautkiefer",
+    "latin": "Pinus leucodermis 'Satellit'",
+    "raw": "Pinus leucodermis 'Satellit' (Schlangenhautkiefer)"
+  },
+  {
+    "german": "Schlangenhautkiefer",
+    "latin": "Pinus leucodermis",
+    "raw": "Pinus leucodermis (Schlangenhautkiefer)"
+  },
+  {
+    "german": "Säulenschwarzkiefer",
+    "latin": "Pinus nigra 'Fastigiata'",
+    "raw": "Pinus nigra 'Fastigiata' (Säulenschwarzkiefer)"
+  },
+  {
+    "german": "Säulenschwarzkiefer",
+    "latin": "Pinus nigra 'Pyramidalis'",
+    "raw": "Pinus nigra 'Pyramidalis' (Säulenschwarzkiefer)"
+  },
+  {
+    "german": "Schwarzkiefer, Schwarzföhre",
+    "latin": "Pinus nigra",
+    "raw": "Pinus nigra (Schwarzkiefer, Schwarzföhre)"
+  },
+  {
+    "german": "Korsische Kiefer",
+    "latin": "Pinus nigra laricio",
+    "raw": "Pinus nigra laricio (Korsische Kiefer)"
+  },
+  {
+    "german": "Österreichische Schwarzkiefer",
+    "latin": "Pinus nigra nigra",
+    "raw": "Pinus nigra nigra (Österreichische Schwarzkiefer)"
+  },
+  {
+    "german": "Mädchenkiefer",
+    "latin": "Pinus parviflora 'Negishi'",
+    "raw": "Pinus parviflora 'Negishi' (Mädchenkiefer)"
+  },
+  {
+    "german": "Mädchen-Kiefer",
+    "latin": "Pinus parviflora",
+    "raw": "Pinus parviflora (Mädchen-Kiefer)"
+  },
+  {
+    "german": "Rumelische Kiefer",
+    "latin": "Pinus peuce",
+    "raw": "Pinus peuce (Rumelische Kiefer)"
+  },
+  {
+    "german": "Gelbkiefer",
+    "latin": "Pinus ponderosa",
+    "raw": "Pinus ponderosa (Gelbkiefer)"
+  },
+  {
+    "german": "Kiefer, Föhre",
+    "latin": "Pinus spec.",
+    "raw": "Pinus spec. (Kiefer, Föhre)"
+  },
+  {
+    "german": "Weymouthskiefer",
+    "latin": "Pinus strobus",
+    "raw": "Pinus strobus (Weymouthskiefer)"
+  },
+  {
+    "german": "Schottische Waldkiefer",
+    "latin": "Pinus sylvestris 'Scotica'",
+    "raw": "Pinus sylvestris 'Scotica' (Schottische Waldkiefer)"
+  },
+  {
+    "german": "Gemeine Kiefer",
+    "latin": "Pinus sylvestris",
+    "raw": "Pinus sylvestris (Gemeine Kiefer)"
+  },
+  {
+    "german": "Haken-Kiefer",
+    "latin": "Pinus uncinata",
+    "raw": "Pinus uncinata (Haken-Kiefer)"
+  },
+  {
+    "german": "Tränenkiefer",
+    "latin": "Pinus wallichiana",
+    "raw": "Pinus wallichiana (Tränenkiefer)"
+  },
+  {
+    "german": "Orientalische Säulenplatane",
+    "latin": "Platanus orientalis 'Minaret'",
+    "raw": "Platanus orientalis 'Minaret' (Orientalische Säulenplatane)"
+  },
+  {
+    "german": "Orientalische Platane",
+    "latin": "Platanus orientalis",
+    "raw": "Platanus orientalis (Orientalische Platane)"
+  },
+  {
+    "german": "Platane",
+    "latin": "Platanus spec.",
+    "raw": "Platanus spec. (Platane)"
+  },
+  {
+    "german": "Kugelplatane",
+    "latin": "Platanus x acerifolia 'Alphens Globe'",
+    "raw": "Platanus x acerifolia 'Alphens Globe' (Kugelplatane)"
+  },
+  {
+    "german": "Ahornblättrige Platane",
+    "latin": "Platanus x acerifolia 'Bloodgood'",
+    "raw": "Platanus x acerifolia 'Bloodgood' (Ahornblättrige Platane)"
+  },
+  {
+    "german": "Ahornblättrige Platane",
+    "latin": "Platanus x acerifolia 'Pyramidalis'",
+    "raw": "Platanus x acerifolia 'Pyramidalis' (Ahornblättrige Platane)"
+  },
+  {
+    "german": "Schmalkronige Platane",
+    "latin": "Platanus x acerifolia 'Tremonia'",
+    "raw": "Platanus x acerifolia 'Tremonia' (Schmalkronige Platane)"
+  },
+  {
+    "german": "Ahornblättrige Platane",
+    "latin": "Platanus x acerifolia",
+    "raw": "Platanus x acerifolia (Ahornblättrige Platane)"
+  },
+  {
+    "german": "Morgenländischer Lebensbaum",
+    "latin": "Platycladus orientalis",
+    "raw": "Platycladus orientalis (Morgenländischer Lebensbaum)"
+  },
+  {
+    "german": "Silberpappel",
+    "latin": "Populus alba 'Nivea'",
+    "raw": "Populus alba 'Nivea' (Silberpappel)"
+  },
+  {
+    "german": "Silberpyramidenpappel",
+    "latin": "Populus alba 'Raket'",
+    "raw": "Populus alba 'Raket' (Silberpyramidenpappel)"
+  },
+  {
+    "german": "Silberpappel",
+    "latin": "Populus alba",
+    "raw": "Populus alba (Silberpappel)"
+  },
+  {
+    "german": "Balsam-Pappel",
+    "latin": "Populus balsamifera",
+    "raw": "Populus balsamifera (Balsam-Pappel)"
+  },
+  {
+    "german": "Säulen-Purpurpappel",
+    "latin": "Populus deltoides 'Purple Tower'",
+    "raw": "Populus deltoides 'Purple Tower' (Säulen-Purpurpappel)"
+  },
+  {
+    "german": "Großblattpappel",
+    "latin": "Populus lasiocarpa",
+    "raw": "Populus lasiocarpa (Großblattpappel)"
+  },
+  {
+    "german": "Pyramidenpappel",
+    "latin": "Populus nigra 'Italica'",
+    "raw": "Populus nigra 'Italica' (Pyramidenpappel)"
+  },
+  {
+    "german": "Schwarzpappel",
+    "latin": "Populus nigra",
+    "raw": "Populus nigra (Schwarzpappel)"
+  },
+  {
+    "german": "Säulenpappel",
+    "latin": "Populus simonii 'Fastigiata'",
+    "raw": "Populus simonii 'Fastigiata' (Säulenpappel)"
+  },
+  {
+    "german": "Birkenpappel",
+    "latin": "Populus simonii",
+    "raw": "Populus simonii (Birkenpappel)"
+  },
+  {
+    "german": "Pappel",
+    "latin": "Populus spec.",
+    "raw": "Populus spec. (Pappel)"
+  },
+  {
+    "german": "Säulenzitterpappel",
+    "latin": "Populus tremula 'Erecta'",
+    "raw": "Populus tremula 'Erecta' (Säulenzitterpappel)"
+  },
+  {
+    "german": "Zitterpappel",
+    "latin": "Populus tremula",
+    "raw": "Populus tremula (Zitterpappel)"
+  },
+  {
+    "german": "Amerikanische Zitterpappel",
+    "latin": "Populus tremuloides",
+    "raw": "Populus tremuloides (Amerikanische Zitterpappel)"
+  },
+  {
+    "german": "Kanadische Pappel",
+    "latin": "Populus x canadensis 'Regenerata'",
+    "raw": "Populus x canadensis 'Regenerata' (Kanadische Pappel)"
+  },
+  {
+    "german": "Kanadische Pappel",
+    "latin": "Populus x canadensis",
+    "raw": "Populus x canadensis (Kanadische Pappel)"
+  },
+  {
+    "german": "Graupappel",
+    "latin": "Populus x canescens",
+    "raw": "Populus x canescens (Graupappel)"
+  },
+  {
+    "german": "Marille",
+    "latin": "Prunus armeniaca",
+    "raw": "Prunus armeniaca (Marille)"
+  },
+  {
+    "german": "Gefülltblühende Kirsche",
+    "latin": "Prunus avium 'Flore Plena'",
+    "raw": "Prunus avium 'Flore Plena' (Gefülltblühende Kirsche)"
+  },
+  {
+    "german": "Gefülltblühende Vogelkirsche",
+    "latin": "Prunus avium 'Plena'",
+    "raw": "Prunus avium 'Plena' (Gefülltblühende Vogelkirsche)"
+  },
+  {
+    "german": "Süßkirsche",
+    "latin": "Prunus avium 'Sunburst'",
+    "raw": "Prunus avium 'Sunburst' (Süßkirsche)"
+  },
+  {
+    "german": "Vogelkirsche",
+    "latin": "Prunus avium",
+    "raw": "Prunus avium (Vogelkirsche)"
+  },
+  {
+    "german": "Blutpflaume",
+    "latin": "Prunus cerasifera 'Nigra'",
+    "raw": "Prunus cerasifera 'Nigra' (Blutpflaume)"
+  },
+  {
+    "german": "Kirschpflaume",
+    "latin": "Prunus cerasifera",
+    "raw": "Prunus cerasifera (Kirschpflaume)"
+  },
+  {
+    "german": "Gefülltblühende Zier-Sauerkirsche",
+    "latin": "Prunus cerasus 'Rhexii'",
+    "raw": "Prunus cerasus 'Rhexii' (Gefülltblühende Zier-Sauerkirsche)"
+  },
+  {
+    "german": "Sauerkirsche",
+    "latin": "Prunus cerasus",
+    "raw": "Prunus cerasus (Sauerkirsche)"
+  },
+  {
+    "german": "Pflaume",
+    "latin": "Prunus domestica",
+    "raw": "Prunus domestica (Pflaume)"
+  },
+  {
+    "german": "Hafer-Pflaume",
+    "latin": "Prunus domestica subsp. insititia",
+    "raw": "Prunus domestica subsp. insititia (Hafer-Pflaume)"
+  },
+  {
+    "german": "Mandelbaum",
+    "latin": "Prunus dulcis",
+    "raw": "Prunus dulcis (Mandelbaum)"
+  },
+  {
+    "german": "Kugelkirsche",
+    "latin": "Prunus eminens 'Umbraculifera'",
+    "raw": "Prunus eminens 'Umbraculifera' (Kugelkirsche)"
+  },
+  {
+    "german": "Kugelkirsche",
+    "latin": "Prunus fruticosa 'Globosa‘",
+    "raw": "Prunus fruticosa 'Globosa‘ (Kugelkirsche)"
+  },
+  {
+    "german": "Fudji-Kirsche",
+    "latin": "Prunus incisa 'February Pink'",
+    "raw": "Prunus incisa 'February Pink' (Fudji-Kirsche)"
+  },
+  {
+    "german": "Kirschlorbeer",
+    "latin": "Prunus laurocerasus",
+    "raw": "Prunus laurocerasus (Kirschlorbeer)"
+  },
+  {
+    "german": "Amur-Traubenkirsche",
+    "latin": "Prunus maackii",
+    "raw": "Prunus maackii (Amur-Traubenkirsche)"
+  },
+  {
+    "german": "Steinweichsel",
+    "latin": "Prunus mahaleb",
+    "raw": "Prunus mahaleb (Steinweichsel)"
+  },
+  {
+    "german": "Rotblättrige Traubenkirsche",
+    "latin": "Prunus padus 'Colorata'",
+    "raw": "Prunus padus 'Colorata' (Rotblättrige Traubenkirsche)"
+  },
+  {
+    "german": "Säulen-Traubenkirsche",
+    "latin": "Prunus padus 'Obelisk'",
+    "raw": "Prunus padus 'Obelisk' (Säulen-Traubenkirsche)"
+  },
+  {
+    "german": "Traubenkirsche",
+    "latin": "Prunus padus 'Schloss Tiefurt'",
+    "raw": "Prunus padus 'Schloss Tiefurt' (Traubenkirsche)"
+  },
+  {
+    "german": "Schmetterlingskirsche",
+    "latin": "Prunus padus 'Watereri'",
+    "raw": "Prunus padus 'Watereri' (Schmetterlingskirsche)"
+  },
+  {
+    "german": "Traubenkirsche",
+    "latin": "Prunus padus",
+    "raw": "Prunus padus (Traubenkirsche)"
+  },
+  {
+    "german": "Pfirsich",
+    "latin": "Prunus persica",
+    "raw": "Prunus persica (Pfirsich)"
+  },
+  {
+    "german": "Nektarine",
+    "latin": "Prunus persica var. nucipersica",
+    "raw": "Prunus persica var. nucipersica (Nektarine)"
+  },
+  {
+    "german": "Scharlachkirsche",
+    "latin": "Prunus sargentii 'Charles Sargent'",
+    "raw": "Prunus sargentii 'Charles Sargent' (Scharlachkirsche)"
+  },
+  {
+    "german": "Scharlachkirsche",
+    "latin": "Prunus sargentii 'Rancho'",
+    "raw": "Prunus sargentii 'Rancho' (Scharlachkirsche)"
+  },
+  {
+    "german": "Scharlachkirsche",
+    "latin": "Prunus sargentii",
+    "raw": "Prunus sargentii (Scharlachkirsche)"
+  },
+  {
+    "german": "Späte Traubenkirsche",
+    "latin": "Prunus serotina",
+    "raw": "Prunus serotina (Späte Traubenkirsche)"
+  },
+  {
+    "german": "Tibetische Kirsche",
+    "latin": "Prunus serrula",
+    "raw": "Prunus serrula (Tibetische Kirsche)"
+  },
+  {
+    "german": "Säulenkirsche",
+    "latin": "Prunus serrulata 'Amanogawa'",
+    "raw": "Prunus serrulata 'Amanogawa' (Säulenkirsche)"
+  },
+  {
+    "german": "Japanische Blütenkirsche",
+    "latin": "Prunus serrulata 'Asano'",
+    "raw": "Prunus serrulata 'Asano' (Japanische Blütenkirsche)"
+  },
+  {
+    "german": "Japanische Blütenkirsche",
+    "latin": "Prunus serrulata 'Kanzan'",
+    "raw": "Prunus serrulata 'Kanzan' (Japanische Blütenkirsche)"
+  },
+  {
+    "german": "Jap.Hänge Nelkenkirsche",
+    "latin": "Prunus serrulata 'Kiki-shidare-zakura'",
+    "raw": "Prunus serrulata 'Kiki-shidare-zakura' (Jap.Hänge Nelkenkirsche)"
+  },
+  {
+    "german": "Rotblät. Jap. Blüten-Kirsche",
+    "latin": "Prunus serrulata 'Royal Burgundy'",
+    "raw": "Prunus serrulata 'Royal Burgundy' (Rotblät. Jap. Blüten-Kirsche)"
+  },
+  {
+    "german": "Japanische Blütenkirsche",
+    "latin": "Prunus serrulata 'Shirofugen'",
+    "raw": "Prunus serrulata 'Shirofugen' (Japanische Blütenkirsche)"
+  },
+  {
+    "german": "Weisse Zierkirsche 'Tai-Haku'",
+    "latin": "Prunus serrulata 'Tai-Haku'",
+    "raw": "Prunus serrulata 'Tai-Haku' (Weisse Zierkirsche 'Tai-Haku')"
+  },
+  {
+    "german": "Japanische Blütenkirsche 'Ukon'",
+    "latin": "Prunus serrulata 'Ukon'",
+    "raw": "Prunus serrulata 'Ukon' (Japanische Blütenkirsche 'Ukon')"
+  },
+  {
+    "german": "Kirsche",
+    "latin": "Prunus spec.",
+    "raw": "Prunus spec. (Kirsche)"
+  },
+  {
+    "german": "Schlehdorn",
+    "latin": "Prunus spinosa",
+    "raw": "Prunus spinosa (Schlehdorn)"
+  },
+  {
+    "german": "Jap. Blütenkirsche rosa",
+    "latin": "Prunus subhirtella 'Accolade'",
+    "raw": "Prunus subhirtella 'Accolade' (Jap. Blütenkirsche rosa)"
+  },
+  {
+    "german": "Herbstblüh.Schneekirsche",
+    "latin": "Prunus subhirtella 'Autumnalis Rosea'",
+    "raw": "Prunus subhirtella 'Autumnalis Rosea' (Herbstblüh.Schneekirsche)"
+  },
+  {
+    "german": "Weiße Winterkirsche",
+    "latin": "Prunus subhirtella 'Autumnalis'",
+    "raw": "Prunus subhirtella 'Autumnalis' (Weiße Winterkirsche)"
+  },
+  {
+    "german": "Rotblättrige Traubenkirsche",
+    "latin": "Prunus virginiana 'Shubert'",
+    "raw": "Prunus virginiana 'Shubert' (Rotblättrige Traubenkirsche)"
+  },
+  {
+    "german": "Spiegelrinden-Kirsche",
+    "latin": "Prunus x schmittii",
+    "raw": "Prunus x schmittii (Spiegelrinden-Kirsche)"
+  },
+  {
+    "german": "Trauerkirsche",
+    "latin": "Prunus x yedoensis 'Shidare Yoshino'",
+    "raw": "Prunus x yedoensis 'Shidare Yoshino' (Trauerkirsche)"
+  },
+  {
+    "german": "Tokyokirsche",
+    "latin": "Prunus x yedoensis",
+    "raw": "Prunus x yedoensis (Tokyokirsche)"
+  },
+  {
+    "german": "Blaue Douglasie",
+    "latin": "Pseudotsuga menziesii 'Glauca'",
+    "raw": "Pseudotsuga menziesii 'Glauca' (Blaue Douglasie)"
+  },
+  {
+    "german": "Küstendouglasie",
+    "latin": "Pseudotsuga menziesii",
+    "raw": "Pseudotsuga menziesii (Küstendouglasie)"
+  },
+  {
+    "german": "Kaukasische Flügelnuss",
+    "latin": "Pterocarya fraxinifolia",
+    "raw": "Pterocarya fraxinifolia (Kaukasische Flügelnuss)"
+  },
+  {
+    "german": "Japanische Flügelnuss",
+    "latin": "Pterocarya rhoifolia 'Kyoto Convention'",
+    "raw": "Pterocarya rhoifolia 'Kyoto Convention' (Japanische Flügelnuss)"
+  },
+  {
+    "german": "Flügelnuss",
+    "latin": "Pterocarya spec.",
+    "raw": "Pterocarya spec. (Flügelnuss)"
+  },
+  {
+    "german": "Zierbirne",
+    "latin": "Pyrus calleryana 'Aristocrat'",
+    "raw": "Pyrus calleryana 'Aristocrat' (Zierbirne)"
+  },
+  {
+    "german": "Zierbirne",
+    "latin": "Pyrus calleryana 'Capital'",
+    "raw": "Pyrus calleryana 'Capital' (Zierbirne)"
+  },
+  {
+    "german": "Zierbirne",
+    "latin": "Pyrus calleryana 'Chanticleer'",
+    "raw": "Pyrus calleryana 'Chanticleer' (Zierbirne)"
+  },
+  {
+    "german": "Zierbirne",
+    "latin": "Pyrus calleryana 'Redspire'",
+    "raw": "Pyrus calleryana 'Redspire' (Zierbirne)"
+  },
+  {
+    "german": "Wildbirne",
+    "latin": "Pyrus communis 'Beech Hill'",
+    "raw": "Pyrus communis 'Beech Hill' (Wildbirne)"
+  },
+  {
+    "german": "Tafelbirne",
+    "latin": "Pyrus communis 'Conference'",
+    "raw": "Pyrus communis 'Conference' (Tafelbirne)"
+  },
+  {
+    "german": "Tafelbirne",
+    "latin": "Pyrus communis 'Williams Christbirne'",
+    "raw": "Pyrus communis 'Williams Christbirne' (Tafelbirne)"
+  },
+  {
+    "german": "Gemeine Birne",
+    "latin": "Pyrus communis",
+    "raw": "Pyrus communis (Gemeine Birne)"
+  },
+  {
+    "german": "Schneebirne",
+    "latin": "Pyrus nivalis 'Catalia'",
+    "raw": "Pyrus nivalis 'Catalia' (Schneebirne)"
+  },
+  {
+    "german": "Wild-Birne",
+    "latin": "Pyrus pyraster",
+    "raw": "Pyrus pyraster (Wild-Birne)"
+  },
+  {
+    "german": "Hängebirne",
+    "latin": "Pyrus salicifolia 'Pendula'",
+    "raw": "Pyrus salicifolia 'Pendula' (Hängebirne)"
+  },
+  {
+    "german": "Birne",
+    "latin": "Pyrus spec.",
+    "raw": "Pyrus spec. (Birne)"
+  },
+  {
+    "german": "Kastanienblättrige Eiche",
+    "latin": "Quercus castaneifolia",
+    "raw": "Quercus castaneifolia (Kastanienblättrige Eiche)"
+  },
+  {
+    "german": "Zerreiche",
+    "latin": "Quercus cerris",
+    "raw": "Quercus cerris (Zerreiche)"
+  },
+  {
+    "german": "Scharlach-Eiche",
+    "latin": "Quercus coccinea",
+    "raw": "Quercus coccinea (Scharlach-Eiche)"
+  },
+  {
+    "german": "Japanische Kaisereiche",
+    "latin": "Quercus dentata 'Carl Ferris Miller'",
+    "raw": "Quercus dentata 'Carl Ferris Miller' (Japanische Kaisereiche)"
+  },
+  {
+    "german": "Ungarische Eiche",
+    "latin": "Quercus frainetto 'Magyar Tölgy'",
+    "raw": "Quercus frainetto 'Magyar Tölgy' (Ungarische Eiche)"
+  },
+  {
+    "german": "Ungarische Eiche",
+    "latin": "Quercus frainetto",
+    "raw": "Quercus frainetto (Ungarische Eiche)"
+  },
+  {
+    "german": "Spanische Eiche",
+    "latin": "Quercus hispanica 'Wageningen'",
+    "raw": "Quercus hispanica 'Wageningen' (Spanische Eiche)"
+  },
+  {
+    "german": "Stein-Eiche",
+    "latin": "Quercus ilex",
+    "raw": "Quercus ilex (Stein-Eiche)"
+  },
+  {
+    "german": "Schindel-Eiche",
+    "latin": "Quercus imbricaria",
+    "raw": "Quercus imbricaria (Schindel-Eiche)"
+  },
+  {
+    "german": "Libanon-Eiche",
+    "latin": "Quercus libani",
+    "raw": "Quercus libani (Libanon-Eiche)"
+  },
+  {
+    "german": "Persische Eiche",
+    "latin": "Quercus macrantheram",
+    "raw": "Quercus macrantheram (Persische Eiche)"
+  },
+  {
+    "german": "Sumpf-Eiche",
+    "latin": "Quercus palustris",
+    "raw": "Quercus palustris (Sumpf-Eiche)"
+  },
+  {
+    "german": "Traubeneiche",
+    "latin": "Quercus petraea",
+    "raw": "Quercus petraea (Traubeneiche)"
+  },
+  {
+    "german": "Weidenblättrige-Eiche",
+    "latin": "Quercus phellos",
+    "raw": "Quercus phellos (Weidenblättrige-Eiche)"
+  },
+  {
+    "german": "Pontische Eiche",
+    "latin": "Quercus pontica",
+    "raw": "Quercus pontica (Pontische Eiche)"
+  },
+  {
+    "german": "Flaumeiche",
+    "latin": "Quercus pubescens",
+    "raw": "Quercus pubescens (Flaumeiche)"
+  },
+  {
+    "german": "Säuleneiche",
+    "latin": "Quercus robur 'Cupressoides'",
+    "raw": "Quercus robur 'Cupressoides' (Säuleneiche)"
+  },
+  {
+    "german": "Säuleneiche",
+    "latin": "Quercus robur 'Fastigiata Koster'",
+    "raw": "Quercus robur 'Fastigiata Koster' (Säuleneiche)"
+  },
+  {
+    "german": "Säuleneiche",
+    "latin": "Quercus robur 'Fastigiata'",
+    "raw": "Quercus robur 'Fastigiata' (Säuleneiche)"
+  },
+  {
+    "german": "Stieleiche 'Filicifolia'",
+    "latin": "Quercus robur 'Filicifolia'",
+    "raw": "Quercus robur 'Filicifolia' (Stieleiche 'Filicifolia')"
+  },
+  {
+    "german": "Säulenstieleiche",
+    "latin": "Quercus robur 'Regal Prince'",
+    "raw": "Quercus robur 'Regal Prince' (Säulenstieleiche)"
+  },
+  {
+    "german": "Stieleiche",
+    "latin": "Quercus robur",
+    "raw": "Quercus robur (Stieleiche)"
+  },
+  {
+    "german": "Amerikanische Roteiche",
+    "latin": "Quercus rubra 'Magic Fire'",
+    "raw": "Quercus rubra 'Magic Fire' (Amerikanische Roteiche)"
+  },
+  {
+    "german": "Roteiche",
+    "latin": "Quercus rubra",
+    "raw": "Quercus rubra (Roteiche)"
+  },
+  {
+    "german": "Shumard-Eiche",
+    "latin": "Quercus shumardii",
+    "raw": "Quercus shumardii (Shumard-Eiche)"
+  },
+  {
+    "german": "Eiche",
+    "latin": "Quercus spec.",
+    "raw": "Quercus spec. (Eiche)"
+  },
+  {
+    "german": "Korkeiche",
+    "latin": "Quercus suber",
+    "raw": "Quercus suber (Korkeiche)"
+  },
+  {
+    "german": "Texas-Eiche",
+    "latin": "Quercus texana",
+    "raw": "Quercus texana (Texas-Eiche)"
+  },
+  {
+    "german": "Säuleneiche",
+    "latin": "Quercus x bimundorum 'Crimson Spire'",
+    "raw": "Quercus x bimundorum 'Crimson Spire' (Säuleneiche)"
+  },
+  {
+    "german": "Eiche",
+    "latin": "Quercus x kewensis",
+    "raw": "Quercus x kewensis (Eiche)"
+  },
+  {
+    "german": "Immergrüne Eiche",
+    "latin": "Quercus x turneri 'Pseudoturneri'",
+    "raw": "Quercus x turneri 'Pseudoturneri' (Immergrüne Eiche)"
+  },
+  {
+    "german": "Echter Kreuzdorn",
+    "latin": "Rhamnus cathartica",
+    "raw": "Rhamnus cathartica (Echter Kreuzdorn)"
+  },
+  {
+    "german": "Glänzender Kreuzdorn",
+    "latin": "Rhamnus frangula",
+    "raw": "Rhamnus frangula (Glänzender Kreuzdorn)"
+  },
+  {
+    "german": "Sumach, Essigbaum",
+    "latin": "Rhus spec.",
+    "raw": "Rhus spec. (Sumach, Essigbaum)"
+  },
+  {
+    "german": "Hirschkolbensumach",
+    "latin": "Rhus typhina",
+    "raw": "Rhus typhina (Hirschkolbensumach)"
+  },
+  {
+    "german": "Rosenakazie",
+    "latin": "Robinia hispida 'Macrophylla'",
+    "raw": "Robinia hispida 'Macrophylla' (Rosenakazie)"
+  },
+  {
+    "german": "Kegelakazie",
+    "latin": "Robinia pseudoacacia 'Bessioniana'",
+    "raw": "Robinia pseudoacacia 'Bessioniana' (Kegelakazie)"
+  },
+  {
+    "german": "Goldakazie",
+    "latin": "Robinia pseudoacacia 'Frisia'",
+    "raw": "Robinia pseudoacacia 'Frisia' (Goldakazie)"
+  },
+  {
+    "german": "Straßenakazie",
+    "latin": "Robinia pseudoacacia 'Monophylla'",
+    "raw": "Robinia pseudoacacia 'Monophylla' (Straßenakazie)"
+  },
+  {
+    "german": "Schein-Akazie 'Nyirsegi'",
+    "latin": "Robinia pseudoacacia 'Nyirsegi'",
+    "raw": "Robinia pseudoacacia 'Nyirsegi' (Schein-Akazie 'Nyirsegi')"
+  },
+  {
+    "german": "Säulenakazie",
+    "latin": "Robinia pseudoacacia 'Pyramidalis'",
+    "raw": "Robinia pseudoacacia 'Pyramidalis' (Säulenakazie)"
+  },
+  {
+    "german": "Korkenzieherakazie",
+    "latin": "Robinia pseudoacacia 'Tortuosa'",
+    "raw": "Robinia pseudoacacia 'Tortuosa' (Korkenzieherakazie)"
+  },
+  {
+    "german": "Kugelakazie",
+    "latin": "Robinia pseudoacacia 'Umbraculifera'",
+    "raw": "Robinia pseudoacacia 'Umbraculifera' (Kugelakazie)"
+  },
+  {
+    "german": "Scheinakazie",
+    "latin": "Robinia pseudoacacia",
+    "raw": "Robinia pseudoacacia (Scheinakazie)"
+  },
+  {
+    "german": "Robinie",
+    "latin": "Robinia spec.",
+    "raw": "Robinia spec. (Robinie)"
+  },
+  {
+    "german": "Scheinakazie Casque Rouge",
+    "latin": "Robinia x margaretta 'Casque Rouge'",
+    "raw": "Robinia x margaretta 'Casque Rouge' (Scheinakazie Casque Rouge)"
+  },
+  {
+    "german": "Hohe Rosenakazie",
+    "latin": "Robinia x slavinii 'Hillieri'",
+    "raw": "Robinia x slavinii 'Hillieri' (Hohe Rosenakazie)"
+  },
+  {
+    "german": "Trauerweide",
+    "latin": "Salix alba 'Tristis'",
+    "raw": "Salix alba 'Tristis' (Trauerweide)"
+  },
+  {
+    "german": "Silberweide",
+    "latin": "Salix alba",
+    "raw": "Salix alba (Silberweide)"
+  },
+  {
+    "german": "Ohr-Weide",
+    "latin": "Salix aurita",
+    "raw": "Salix aurita (Ohr-Weide)"
+  },
+  {
+    "german": "Trauer-Weide",
+    "latin": "Salix babylonica",
+    "raw": "Salix babylonica (Trauer-Weide)"
+  },
+  {
+    "german": "Salweide",
+    "latin": "Salix caprea",
+    "raw": "Salix caprea (Salweide)"
+  },
+  {
+    "german": "Lockenweide",
+    "latin": "Salix erythroflexuosa",
+    "raw": "Salix erythroflexuosa (Lockenweide)"
+  },
+  {
+    "german": "Bruch-Weide",
+    "latin": "Salix fragilis",
+    "raw": "Salix fragilis (Bruch-Weide)"
+  },
+  {
+    "german": "Korkenzieherweide",
+    "latin": "Salix matsudana 'Tortuosa'",
+    "raw": "Salix matsudana 'Tortuosa' (Korkenzieherweide)"
+  },
+  {
+    "german": "Lorbeer-Weide",
+    "latin": "Salix pentandra",
+    "raw": "Salix pentandra (Lorbeer-Weide)"
+  },
+  {
+    "german": "Weide",
+    "latin": "Salix spec.",
+    "raw": "Salix spec. (Weide)"
+  },
+  {
+    "german": "Trauer-Weide",
+    "latin": "Salix x sepulcralis",
+    "raw": "Salix x sepulcralis (Trauer-Weide)"
+  },
+  {
+    "german": "Schwarzer Holunder",
+    "latin": "Sambucus nigra",
+    "raw": "Sambucus nigra (Schwarzer Holunder)"
+  },
+  {
+    "german": "Schlitzblättriger Holunder",
+    "latin": "Sambucus nigra var. laciniata",
+    "raw": "Sambucus nigra var. laciniata (Schlitzblättriger Holunder)"
+  },
+  {
+    "german": "Holunder",
+    "latin": "Sambucus spec.",
+    "raw": "Sambucus spec. (Holunder)"
+  },
+  {
+    "german": "Seidiger Fenchelholzbaum",
+    "latin": "Sassafras albidum",
+    "raw": "Sassafras albidum (Seidiger Fenchelholzbaum)"
+  },
+  {
+    "german": "Blauer Mammutbaum",
+    "latin": "Sequoiadendron giganteum 'Glaucum'",
+    "raw": "Sequoiadendron giganteum 'Glaucum' (Blauer Mammutbaum)"
+  },
+  {
+    "german": "Mammutbaum",
+    "latin": "Sequoiadendron giganteum",
+    "raw": "Sequoiadendron giganteum (Mammutbaum)"
+  },
+  {
+    "german": "Säulen-Schnurbaum",
+    "latin": "Sophora japonica 'Columnaris'",
+    "raw": "Sophora japonica 'Columnaris' (Säulen-Schnurbaum)"
+  },
+  {
+    "german": "Hänge-Schnurbaum",
+    "latin": "Sophora japonica 'Pendula'",
+    "raw": "Sophora japonica 'Pendula' (Hänge-Schnurbaum)"
+  },
+  {
+    "german": "Säulen-Schnurbaum",
+    "latin": "Sophora japonica 'Princeton Upright'",
+    "raw": "Sophora japonica 'Princeton Upright' (Säulen-Schnurbaum)"
+  },
+  {
+    "german": "Pagodenschnurbaum",
+    "latin": "Sophora japonica 'Regent'",
+    "raw": "Sophora japonica 'Regent' (Pagodenschnurbaum)"
+  },
+  {
+    "german": "Schnurbaum",
+    "latin": "Sophora japonica",
+    "raw": "Sophora japonica (Schnurbaum)"
+  },
+  {
+    "german": "Schnurbaum",
+    "latin": "Sophora spec.",
+    "raw": "Sophora spec. (Schnurbaum)"
+  },
+  {
+    "german": "Großblättrige Mehlbeere",
+    "latin": "Sorbus aria 'Magnifica'",
+    "raw": "Sorbus aria 'Magnifica' (Großblättrige Mehlbeere)"
+  },
+  {
+    "german": "Gewöhnliche Mehlbeere",
+    "latin": "Sorbus aria",
+    "raw": "Sorbus aria (Gewöhnliche Mehlbeere)"
+  },
+  {
+    "german": "Säuleneberesche",
+    "latin": "Sorbus aucuparia 'Fastigiata'",
+    "raw": "Sorbus aucuparia 'Fastigiata' (Säuleneberesche)"
+  },
+  {
+    "german": "Säuleneberesche",
+    "latin": "Sorbus aucuparia 'Sheerwater Seedling'",
+    "raw": "Sorbus aucuparia 'Sheerwater Seedling' (Säuleneberesche)"
+  },
+  {
+    "german": "Eberesche",
+    "latin": "Sorbus aucuparia",
+    "raw": "Sorbus aucuparia (Eberesche)"
+  },
+  {
+    "german": "Japanische Eberesche",
+    "latin": "Sorbus commixta 'Dodong'",
+    "raw": "Sorbus commixta 'Dodong' (Japanische Eberesche)"
+  },
+  {
+    "german": "Speierling",
+    "latin": "Sorbus domestica",
+    "raw": "Sorbus domestica (Speierling)"
+  },
+  {
+    "german": "Schwedische Mehlbeere",
+    "latin": "Sorbus intermedia",
+    "raw": "Sorbus intermedia (Schwedische Mehlbeere)"
+  },
+  {
+    "german": "Eberesche",
+    "latin": "Sorbus spec.",
+    "raw": "Sorbus spec. (Eberesche)"
+  },
+  {
+    "german": "Elsbeere",
+    "latin": "Sorbus torminalis",
+    "raw": "Sorbus torminalis (Elsbeere)"
+  },
+  {
+    "german": "Bastard-Vogelbeere",
+    "latin": "Sorbus x hybrida",
+    "raw": "Sorbus x hybrida (Bastard-Vogelbeere)"
+  },
+  {
+    "german": "Säulenmehlbeere",
+    "latin": "Sorbus x thuringiaca 'Fastigiata'",
+    "raw": "Sorbus x thuringiaca 'Fastigiata' (Säulenmehlbeere)"
+  },
+  {
+    "german": "Obassia-Storaxbaum",
+    "latin": "Styrax obassia",
+    "raw": "Styrax obassia (Obassia-Storaxbaum)"
+  },
+  {
+    "german": "Ungarischer Flieder",
+    "latin": "Syringa josikaea",
+    "raw": "Syringa josikaea (Ungarischer Flieder)"
+  },
+  {
+    "german": "Japanischer Flieder",
+    "latin": "Syringa reticulata",
+    "raw": "Syringa reticulata (Japanischer Flieder)"
+  },
+  {
+    "german": "Flieder",
+    "latin": "Syringa spec.",
+    "raw": "Syringa spec. (Flieder)"
+  },
+  {
+    "german": "Weißer Flieder",
+    "latin": "Syringa vulgaris 'Alba'",
+    "raw": "Syringa vulgaris 'Alba' (Weißer Flieder)"
+  },
+  {
+    "german": "Edelflieder",
+    "latin": "Syringa vulgaris 'Andenken an Ludwig Späth'",
+    "raw": "Syringa vulgaris 'Andenken an Ludwig Späth' (Edelflieder)"
+  },
+  {
+    "german": "Edelflieder",
+    "latin": "Syringa vulgaris 'Sensation'",
+    "raw": "Syringa vulgaris 'Sensation' (Edelflieder)"
+  },
+  {
+    "german": "Gewöhnlicher Flieder",
+    "latin": "Syringa vulgaris",
+    "raw": "Syringa vulgaris (Gewöhnlicher Flieder)"
+  },
+  {
+    "german": "Tamariske",
+    "latin": "Tamarix spec.",
+    "raw": "Tamarix spec. (Tamariske)"
+  },
+  {
+    "german": "Viermännige Tamariske",
+    "latin": "Tamarix tetrandra",
+    "raw": "Tamarix tetrandra (Viermännige Tamariske)"
+  },
+  {
+    "german": "Zweizeilige Sumpfzypresse",
+    "latin": "Taxodium distichum",
+    "raw": "Taxodium distichum (Zweizeilige Sumpfzypresse)"
+  },
+  {
+    "german": "Adlerschwingen-Eibe",
+    "latin": "Taxus baccata 'Dovastoniana'",
+    "raw": "Taxus baccata 'Dovastoniana' (Adlerschwingen-Eibe)"
+  },
+  {
+    "german": "Heimische Eibe",
+    "latin": "Taxus baccata",
+    "raw": "Taxus baccata (Heimische Eibe)"
+  },
+  {
+    "german": "Samthaarige Stinkesche",
+    "latin": "Tetradium daniellii",
+    "raw": "Tetradium daniellii (Samthaarige Stinkesche)"
+  },
+  {
+    "german": "Smaragdsäulenthuje",
+    "latin": "Thuja occidentalis 'Smaragd'",
+    "raw": "Thuja occidentalis 'Smaragd' (Smaragdsäulenthuje)"
+  },
+  {
+    "german": "Lebensbaum",
+    "latin": "Thuja occidentalis 'Wareana Lutescens'",
+    "raw": "Thuja occidentalis 'Wareana Lutescens' (Lebensbaum)"
+  },
+  {
+    "german": "Abendländischer Lebensbaum",
+    "latin": "Thuja occidentalis",
+    "raw": "Thuja occidentalis (Abendländischer Lebensbaum)"
+  },
+  {
+    "german": "Riesenlebensbaum",
+    "latin": "Thuja plicata 'Zebrina'",
+    "raw": "Thuja plicata 'Zebrina' (Riesenlebensbaum)"
+  },
+  {
+    "german": "Riesenlebensbaum",
+    "latin": "Thuja plicata",
+    "raw": "Thuja plicata (Riesenlebensbaum)"
+  },
+  {
+    "german": "Lebensbaum",
+    "latin": "Thuja spec.",
+    "raw": "Thuja spec. (Lebensbaum)"
+  },
+  {
+    "german": "Hiba-Lebensbaum",
+    "latin": "Thujopsis dolabrata",
+    "raw": "Thujopsis dolabrata (Hiba-Lebensbaum)"
+  },
+  {
+    "german": "Amerikanische Linde",
+    "latin": "Tilia americana 'Nova'",
+    "raw": "Tilia americana 'Nova' (Amerikanische Linde)"
+  },
+  {
+    "german": "Amerikanische Linde",
+    "latin": "Tilia americana 'Redmond'",
+    "raw": "Tilia americana 'Redmond' (Amerikanische Linde)"
+  },
+  {
+    "german": "Amerikanische Linde",
+    "latin": "Tilia americana",
+    "raw": "Tilia americana (Amerikanische Linde)"
+  },
+  {
+    "german": "Amur-Linde",
+    "latin": "Tilia amurensis",
+    "raw": "Tilia amurensis (Amur-Linde)"
+  },
+  {
+    "german": "Säulenlinde",
+    "latin": "Tilia cordata 'Erecta'",
+    "raw": "Tilia cordata 'Erecta' (Säulenlinde)"
+  },
+  {
+    "german": "Kugelwinterlinde",
+    "latin": "Tilia cordata 'Green Globe'",
+    "raw": "Tilia cordata 'Green Globe'  (Kugelwinterlinde)"
+  },
+  {
+    "german": "Stadtlinde",
+    "latin": "Tilia cordata 'Greenspire'",
+    "raw": "Tilia cordata 'Greenspire' (Stadtlinde)"
+  },
+  {
+    "german": "Kleinblättrige Winterlinde",
+    "latin": "Tilia cordata 'Rancho'",
+    "raw": "Tilia cordata 'Rancho' (Kleinblättrige Winterlinde)"
+  },
+  {
+    "german": "Winterlinde 'Roelvo'",
+    "latin": "Tilia cordata 'Roelvo'",
+    "raw": "Tilia cordata 'Roelvo' (Winterlinde 'Roelvo')"
+  },
+  {
+    "german": "Winterlinde 'Wega'",
+    "latin": "Tilia cordata 'Wega'",
+    "raw": "Tilia cordata 'Wega' (Winterlinde 'Wega')"
+  },
+  {
+    "german": "Winterlinde",
+    "latin": "Tilia cordata",
+    "raw": "Tilia cordata (Winterlinde)"
+  },
+  {
+    "german": "Henrys-Linde",
+    "latin": "Tilia henryana",
+    "raw": "Tilia henryana (Henrys-Linde)"
+  },
+  {
+    "german": "Mandschurische Linde",
+    "latin": "Tilia mandshurica",
+    "raw": "Tilia mandshurica (Mandschurische Linde)"
+  },
+  {
+    "german": "Mongolische Linde",
+    "latin": "Tilia mongolica",
+    "raw": "Tilia mongolica (Mongolische Linde)"
+  },
+  {
+    "german": "Schlanke Sommerlinde",
+    "latin": "Tilia platyphyllos 'Fastigiata'",
+    "raw": "Tilia platyphyllos 'Fastigiata' (Schlanke Sommerlinde)"
+  },
+  {
+    "german": "Sommerlinde",
+    "latin": "Tilia platyphyllos 'Laciniata'",
+    "raw": "Tilia platyphyllos 'Laciniata' (Sommerlinde)"
+  },
+  {
+    "german": "Sommerlinde",
+    "latin": "Tilia platyphyllos 'Rathaus'",
+    "raw": "Tilia platyphyllos 'Rathaus' (Sommerlinde)"
+  },
+  {
+    "german": "Sommerlinde",
+    "latin": "Tilia platyphyllos",
+    "raw": "Tilia platyphyllos (Sommerlinde)"
+  },
+  {
+    "german": "Weinblättrige Sommerlinde",
+    "latin": "Tilia platyphyllos var. vitifolia",
+    "raw": "Tilia platyphyllos var. vitifolia (Weinblättrige Sommerlinde)"
+  },
+  {
+    "german": "Linde",
+    "latin": "Tilia spec.",
+    "raw": "Tilia spec. (Linde)"
+  },
+  {
+    "german": "Silberlinde",
+    "latin": "Tilia tomentosa 'Brabant'",
+    "raw": "Tilia tomentosa 'Brabant' (Silberlinde)"
+  },
+  {
+    "german": "Silberlinde",
+    "latin": "Tilia tomentosa 'Sisi'",
+    "raw": "Tilia tomentosa 'Sisi' (Silberlinde)"
+  },
+  {
+    "german": "Ungarische Linde",
+    "latin": "Tilia tomentosa 'Szeleste'",
+    "raw": "Tilia tomentosa 'Szeleste' (Ungarische Linde)"
+  },
+  {
+    "german": "Silberlinde",
+    "latin": "Tilia tomentosa",
+    "raw": "Tilia tomentosa (Silberlinde)"
+  },
+  {
+    "german": "Krimlinde",
+    "latin": "Tilia x euchlora",
+    "raw": "Tilia x euchlora (Krimlinde)"
+  },
+  {
+    "german": "Kaiserlinde",
+    "latin": "Tilia x europaea 'Pallida'",
+    "raw": "Tilia x europaea 'Pallida' (Kaiserlinde)"
+  },
+  {
+    "german": "Kegel-Linde 'Glenleven'",
+    "latin": "Tilia x flavescens 'Glenleven'",
+    "raw": "Tilia x flavescens 'Glenleven' (Kegel-Linde 'Glenleven')"
+  },
+  {
+    "german": "Holländische Linde",
+    "latin": "Tilia x vulgaris",
+    "raw": "Tilia x vulgaris (Holländische Linde)"
+  },
+  {
+    "german": "Chinesischer Surenbaum",
+    "latin": "Toona sinensis",
+    "raw": "Toona sinensis (Chinesischer Surenbaum)"
+  },
+  {
+    "german": "Hemlockstanne",
+    "latin": "Tsuga canadensis",
+    "raw": "Tsuga canadensis (Hemlockstanne)"
+  },
+  {
+    "german": "Holländische Ulme",
+    "latin": "Ulmus 'Columella'",
+    "raw": "Ulmus 'Columella' (Holländische Ulme)"
+  },
+  {
+    "german": "Resista-Ulme",
+    "latin": "Ulmus 'Fiorente'",
+    "raw": "Ulmus 'Fiorente' (Resista-Ulme)"
+  },
+  {
+    "german": "Restista Ulme",
+    "latin": "Ulmus 'Morfeo'",
+    "raw": "Ulmus 'Morfeo' (Restista Ulme)"
+  },
+  {
+    "german": "Resista Ulme",
+    "latin": "Ulmus 'New Horizon'",
+    "raw": "Ulmus 'New Horizon' (Resista Ulme)"
+  },
+  {
+    "german": "Resista-Ulme",
+    "latin": "Ulmus 'Rebona'",
+    "raw": "Ulmus 'Rebona' (Resista-Ulme)"
+  },
+  {
+    "german": "Resista Ulme",
+    "latin": "Ulmus 'Regal'",
+    "raw": "Ulmus 'Regal' (Resista Ulme)"
+  },
+  {
+    "german": "Sapporo-Ulme",
+    "latin": "Ulmus 'Sapporo Autumn Gold'",
+    "raw": "Ulmus 'Sapporo Autumn Gold' (Sapporo-Ulme)"
+  },
+  {
+    "german": "Amerikanische Ulme",
+    "latin": "Ulmus americana",
+    "raw": "Ulmus americana (Amerikanische Ulme)"
+  },
+  {
+    "german": "Säulenförmige Bergulme",
+    "latin": "Ulmus glabra 'Fastigiata'",
+    "raw": "Ulmus glabra 'Fastigiata' (Säulenförmige Bergulme)"
+  },
+  {
+    "german": "Gold-Bergulme",
+    "latin": "Ulmus glabra 'Lutescens'",
+    "raw": "Ulmus glabra 'Lutescens' (Gold-Bergulme)"
+  },
+  {
+    "german": "Hängeulme",
+    "latin": "Ulmus glabra 'Pendula'",
+    "raw": "Ulmus glabra 'Pendula' (Hängeulme)"
+  },
+  {
+    "german": "Bergulme",
+    "latin": "Ulmus glabra",
+    "raw": "Ulmus glabra (Bergulme)"
+  },
+  {
+    "german": "Flatter-Ulme",
+    "latin": "Ulmus laevis",
+    "raw": "Ulmus laevis (Flatter-Ulme)"
+  },
+  {
+    "german": "Feldulme",
+    "latin": "Ulmus minor 'Dampieri'",
+    "raw": "Ulmus minor 'Dampieri' (Feldulme)"
+  },
+  {
+    "german": "Feldulme",
+    "latin": "Ulmus minor 'Reverti'",
+    "raw": "Ulmus minor 'Reverti' (Feldulme)"
+  },
+  {
+    "german": "Feldulme",
+    "latin": "Ulmus minor",
+    "raw": "Ulmus minor (Feldulme)"
+  },
+  {
+    "german": "Sibirische Ulme",
+    "latin": "Ulmus pumila",
+    "raw": "Ulmus pumila (Sibirische Ulme)"
+  },
+  {
+    "german": "Sibirische Ulme",
+    "latin": "Ulmus pumila var. arborea",
+    "raw": "Ulmus pumila var. arborea (Sibirische Ulme)"
+  },
+  {
+    "german": "Ulme",
+    "latin": "Ulmus spec.",
+    "raw": "Ulmus spec. (Ulme)"
+  },
+  {
+    "german": "Schmalkronige Stadt-Ulme",
+    "latin": "Ulmus x hollandica 'Lobel'",
+    "raw": "Ulmus x hollandica 'Lobel' (Schmalkronige Stadt-Ulme)"
+  },
+  {
+    "german": "Goldulme",
+    "latin": "Ulmus x hollandica 'Wredei'",
+    "raw": "Ulmus x hollandica 'Wredei' (Goldulme)"
+  },
+  {
+    "german": "Bastard-Ulme",
+    "latin": "Ulmus x hollandica",
+    "raw": "Ulmus x hollandica (Bastard-Ulme)"
+  },
+  {
+    "german": "Zanthoxylum simulans (Täuschende Stachelesche",
+    "latin": "",
+    "raw": "Zanthoxylum simulans (Täuschende Stachelesche"
+  },
+  {
+    "german": "Kaukasische Zelkove",
+    "latin": "Zelkova carpinifolia",
+    "raw": "Zelkova carpinifolia (Kaukasische Zelkove)"
+  },
+  {
+    "german": "Kugelzelkova",
+    "latin": "Zelkova serrata 'Green Vase'",
+    "raw": "Zelkova serrata 'Green Vase' (Kugelzelkova)"
+  },
+  {
+    "german": "Musashino-Zelkove",
+    "latin": "Zelkova serrata 'Musashino'",
+    "raw": "Zelkova serrata 'Musashino' (Musashino-Zelkove)"
+  },
+  {
+    "german": "Japanische Zelkove",
+    "latin": "Zelkova serrata 'Urban Ruby'",
+    "raw": "Zelkova serrata 'Urban Ruby' (Japanische Zelkove)"
+  },
+  {
+    "german": "Japanische Zelkove",
+    "latin": "Zelkova serrata 'Vulkan'",
+    "raw": "Zelkova serrata 'Vulkan' (Japanische Zelkove)"
+  },
+  {
+    "german": "Zelkove",
+    "latin": "Zelkova serrata",
+    "raw": "Zelkova serrata (Zelkove)"
+  },
+  {
+    "german": "Zelkove",
+    "latin": "Zelkova spec.",
+    "raw": "Zelkova spec. (Zelkove)"
+  },
+  {
+    "german": "nicht bekannt",
+    "latin": "",
+    "raw": "nicht bekannt"
+  },
+  {
+    "german": "unbekannt",
+    "latin": "",
+    "raw": "unbekannt"
+  }
+]
