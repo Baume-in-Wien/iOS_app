@@ -1,6 +1,6 @@
-# Baumkataster Wien - iOS
+# Bäume in Wien - iOS
 
-The iOS client for Baumkataster Wien, an educational app that helps people explore and learn about Vienna's urban trees. It pulls data from the city's open data portal and turns it into something you can actually walk around with -- discover trees, identify leaves, play rallies with friends or classmates, and keep track of what you've found.
+The iOS client for Bäume in Wien, an educational app that helps people explore and learn about Vienna's urban trees. It pulls data from the city's open data portal and turns it into something you can actually walk around with -- discover trees, identify leaves, play rallies with friends or classmates, and keep track of what you've found.
 
 ## What it does
 
@@ -43,7 +43,7 @@ The iOS client for Baumkataster Wien, an educational app that helps people explo
 ## Project structure
 
 ```
-baumkataster/
+baeumeinwien/
 ├── App/                  Global app state (@Observable)
 ├── Models/               Data models (Tree, Rally, Pet, Achievement, ...)
 ├── Views/
@@ -67,7 +67,7 @@ baumkataster/
 ## Getting started
 
 1. Clone the repo
-2. Open `baumkataster.xcodeproj` in Xcode 15+
+2. Open `baeumeinwien.xcodeproj` in Xcode 15+
 3. Set up your Supabase credentials in `SupabaseService.swift`
 4. Build and run on a simulator or device (iOS 17+)
 
@@ -80,3 +80,4 @@ baumkataster/
 ## License
 
 All rights reserved.
+Made with ❤️ by Paulify Dev.
