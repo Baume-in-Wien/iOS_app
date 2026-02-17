@@ -51,6 +51,13 @@ struct LeafClassificationResult: Identifiable {
     }
 }
 
+enum ModelDownloadState: Equatable {
+    case notDownloaded
+    case downloading(progress: Double)
+    case downloaded
+    case error(String)
+}
+
 @Observable
 final class LeafClassificationService {
     static let shared = LeafClassificationService()
@@ -59,9 +66,29 @@ final class LeafClassificationService {
     var lastResults: [LeafClassificationResult] = []
     var lastImage: UIImage?
     var errorMessage: String?
+    var modelState: ModelDownloadState = .notDownloaded
 
     private var classificationRequest: VNCoreMLRequest?
     private var isModelLoaded = false
+    private var downloadTask: URLSessionDownloadTask?
+
+    private static let modelSpecURL = "https://pub-5061dbde1e5d428583b6722a65924e3c.r2.dev/LeafClassifier/model.mlmodel"
+    private static let modelWeightsURL = "https://pub-5061dbde1e5d428583b6722a65924e3c.r2.dev/LeafClassifier/weight.bin"
+    static let modelSizeMB = 380
+
+    private var modelDirectory: URL {
+        let appSupport = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first!
+        return appSupport.appendingPathComponent("LeafClassifierModel")
+    }
+
+    private var compiledModelURL: URL {
+        modelDirectory.appendingPathComponent("LeafClassifier.mlmodelc")
+    }
+
+    /// Reconstructed .mlpackage structure for on-device compilation
+    private var mlpackageURL: URL {
+        modelDirectory.appendingPathComponent("LeafClassifier.mlpackage")
+    }
 
     private let speciesMapping: [String: (german: String, latin: String)] = [
         "Ahorn (Acer spec.)": ("Ahorn", "Acer spec."),
@@ -242,7 +269,7 @@ final class LeafClassificationService {
         "Kugelesche (Fraxinus excelsior 'Nana')": ("Kugelesche", "Fraxinus excelsior 'Nana'"),
         "Kugelfeldahorn (Acer campestre 'Nanum')": ("Kugelfeldahorn", "Acer campestre 'Nanum'"),
         "Kugelförmiger Maulbeerbaum (Morus alba 'Globosa')": ("Kugelförmiger Maulbeerbaum", "Morus alba 'Globosa'"),
-        "Kugelkirsche (Prunus fruticosa 'Globosa‘)": ("Kugelkirsche", "Prunus fruticosa 'Globosa‘"),
+        "Kugelkirsche (Prunus fruticosa 'Globosa')": ("Kugelkirsche", "Prunus fruticosa 'Globosa'"),
         "Kugelplatane (Platanus x acerifolia 'Alphens Globe')": ("Kugelplatane", "Platanus x acerifolia 'Alphens Globe'"),
         "Kugelspitzahorn (Acer platanoides 'Globosum')": ("Kugelspitzahorn", "Acer platanoides 'Globosum'"),
         "Kultur-Apfel (Malus domestica)": ("Kultur-Apfel", "Malus domestica"),
@@ -278,7 +305,7 @@ final class LeafClassificationService {
         "Pflaume (Prunus domestica)": ("Pflaume", "Prunus domestica"),
         "Platane (Platanus spec.)": ("Platane", "Platanus spec."),
         "Pracht-Apfel (Malus spectabilis)": ("Pracht-Apfel", "Malus spectabilis"),
-        "Purpur-Erle (Alnus x spaethii 'Spaeth‘)": ("Purpur-Erle", "Alnus x spaethii 'Spaeth‘"),
+        "Purpur-Erle (Alnus x spaethii 'Spaeth')": ("Purpur-Erle", "Alnus x spaethii 'Spaeth'"),
         "Purpur-Magnolie (Magnolia liliiflora 'Nigra')": ("Purpur-Magnolie", "Magnolia liliiflora 'Nigra'"),
         "Purpur-Magnolie 'Susan' (Magnolia liliiflora 'Susan')": ("Purpur-Magnolie 'Susan'", "Magnolia liliiflora 'Susan'"),
         "Purpurner Bergahorn (Acer pseudoplatanus 'Atropurpureum')": ("Purpurner Bergahorn", "Acer pseudoplatanus 'Atropurpureum'"),
@@ -433,7 +460,138 @@ final class LeafClassificationService {
     ]
 
     private init() {
-        loadModel()
+        checkModelAvailability()
+    }
+
+    var isModelAvailable: Bool {
+        modelState == .downloaded
+    }
+
+    func checkModelAvailability() {
+        if FileManager.default.fileExists(atPath: compiledModelURL.path) {
+            modelState = .downloaded
+            loadModel()
+        } else {
+            modelState = .notDownloaded
+        }
+    }
+
+    func downloadModel() async {
+        if case .downloading = modelState { return }
+
+        await MainActor.run {
+            modelState = .downloading(progress: 0)
+        }
+
+        guard let specURL = URL(string: Self.modelSpecURL),
+              let weightsURL = URL(string: Self.modelWeightsURL) else {
+            await MainActor.run {
+                modelState = .error("Ungültige Download-URL")
+            }
+            return
+        }
+
+        do {
+            let fm = FileManager.default
+
+            // Create .mlpackage directory structure
+            let coreMLDir = mlpackageURL
+                .appendingPathComponent("Data")
+                .appendingPathComponent("com.apple.CoreML")
+            let weightsDir = coreMLDir.appendingPathComponent("weights")
+            try fm.createDirectory(at: weightsDir, withIntermediateDirectories: true)
+
+            // Write Manifest.json (must match mlpackage format exactly)
+            let manifest = """
+            {
+                "fileFormatVersion": "1.0.0",
+                "itemInfoEntries": {
+                    "0A3D66C9-2AB0-4F40-8EA4-79542C58F2CE": {
+                        "author": "com.apple.CoreML",
+                        "description": "CoreML Model Specification",
+                        "name": "model.mlmodel",
+                        "path": "com.apple.CoreML/model.mlmodel"
+                    },
+                    "C4227155-640D-478B-BC01-F1B061C213C4": {
+                        "author": "com.apple.CoreML",
+                        "description": "CoreML Model Weights",
+                        "name": "weights",
+                        "path": "com.apple.CoreML/weights"
+                    }
+                },
+                "rootModelIdentifier": "0A3D66C9-2AB0-4F40-8EA4-79542C58F2CE"
+            }
+            """
+            try manifest.data(using: .utf8)?.write(to: mlpackageURL.appendingPathComponent("Manifest.json"))
+
+            // 1. Download model spec (~200 KB, quick)
+            let (specData, _) = try await URLSession.shared.data(from: specURL)
+            try specData.write(to: coreMLDir.appendingPathComponent("model.mlmodel"))
+
+            await MainActor.run {
+                self.modelState = .downloading(progress: 0.01)
+            }
+
+            // 2. Download weights (~379 MB) with progress
+            let delegate = ModelDownloadDelegate { [weak self] progress in
+                Task { @MainActor in
+                    // Weights download = 0.01 to 0.90
+                    self?.modelState = .downloading(progress: 0.01 + progress * 0.89)
+                }
+            }
+            let session = URLSession(configuration: .default, delegate: delegate, delegateQueue: nil)
+            let (tempWeightsURL, _) = try await session.download(from: weightsURL)
+            try fm.moveItem(at: tempWeightsURL, to: weightsDir.appendingPathComponent("weight.bin"))
+
+            await MainActor.run {
+                self.modelState = .downloading(progress: 0.92)
+            }
+
+            // 3. Compile the .mlpackage on-device
+            if fm.fileExists(atPath: compiledModelURL.path) {
+                try fm.removeItem(at: compiledModelURL)
+            }
+
+            let compiledURL = try await MLModel.compileModel(at: mlpackageURL)
+            try fm.moveItem(at: compiledURL, to: compiledModelURL)
+
+            // Clean up: remove mlpackage source, keep only compiled model
+            try? fm.removeItem(at: mlpackageURL)
+
+            guard fm.fileExists(atPath: compiledModelURL.path) else {
+                await MainActor.run {
+                    self.modelState = .error("Modell konnte nicht kompiliert werden")
+                }
+                return
+            }
+
+            await MainActor.run {
+                self.modelState = .downloaded
+                self.loadModel()
+            }
+        } catch {
+            // Clean up partial downloads
+            try? FileManager.default.removeItem(at: mlpackageURL)
+
+            await MainActor.run {
+                self.modelState = .error("Download fehlgeschlagen: \(error.localizedDescription)")
+            }
+        }
+    }
+
+    func retryDownload() async {
+        modelState = .notDownloaded
+        await downloadModel()
+    }
+
+    func deleteModel() {
+        let fm = FileManager.default
+        if fm.fileExists(atPath: modelDirectory.path) {
+            try? fm.removeItem(at: modelDirectory)
+        }
+        classificationRequest = nil
+        isModelLoaded = false
+        modelState = .notDownloaded
     }
 
     private func loadModel() {
@@ -441,8 +599,8 @@ final class LeafClassificationService {
             let config = MLModelConfiguration()
             config.computeUnits = .cpuAndGPU
 
-            let model = try LeafClassifier(configuration: config)
-            let visionModel = try VNCoreMLModel(for: model.model)
+            let model = try MLModel(contentsOf: compiledModelURL, configuration: config)
+            let visionModel = try VNCoreMLModel(for: model)
 
             classificationRequest = VNCoreMLRequest(model: visionModel) { [weak self] request, error in
                 self?.processClassificationResults(request: request, error: error)
@@ -450,7 +608,7 @@ final class LeafClassificationService {
 
             classificationRequest?.imageCropAndScaleOption = .centerCrop
             isModelLoaded = true
-            print("LeafClassifier model loaded successfully")
+            print("LeafClassifier model loaded successfully from disk")
         } catch {
             print("Failed to load LeafClassifier model: \(error)")
             errorMessage = "Modell konnte nicht geladen werden: \(error.localizedDescription)"
@@ -472,15 +630,44 @@ final class LeafClassificationService {
         errorMessage = nil
         lastImage = image
 
-        let handler = VNImageRequestHandler(cgImage: cgImage, orientation: cgImageOrientation(from: image), options: [:])
+        let orientation = cgImageOrientation(from: image)
+        let handler = VNImageRequestHandler(cgImage: cgImage, orientation: orientation, options: [:])
 
         DispatchQueue.global(qos: .userInitiated).async { [weak self] in
+            guard let self = self else { return }
             do {
-                try handler.perform([request])
+                // Pre-filter: check if the image contains a plant, leaf or fruit
+                let classifyRequest = VNClassifyImageRequest()
+                try handler.perform([classifyRequest])
+
+                let natureLabels: Set<String> = [
+                    "plant", "leaf", "flower", "tree", "foliage",
+                    "vegetation", "garden", "forest", "nature",
+                    "fruit", "berry", "seed", "branch", "bark",
+                    "green", "outdoor", "grass", "wood"
+                ]
+
+                let isNature = classifyRequest.results?.contains { observation in
+                    observation.confidence > 0.15 &&
+                    natureLabels.contains(where: { observation.identifier.lowercased().contains($0) })
+                } ?? false
+
+                if !isNature {
+                    DispatchQueue.main.async {
+                        self.isClassifying = false
+                        self.lastResults = []
+                        self.errorMessage = "Kein Blatt oder Frucht erkannt. Bitte fotografiere ein Blatt oder eine Frucht eines Baumes."
+                    }
+                    return
+                }
+
+                // Run the leaf species classifier
+                let classificationHandler = VNImageRequestHandler(cgImage: cgImage, orientation: orientation, options: [:])
+                try classificationHandler.perform([request])
             } catch {
                 DispatchQueue.main.async {
-                    self?.isClassifying = false
-                    self?.errorMessage = "Klassifizierung fehlgeschlagen: \(error.localizedDescription)"
+                    self.isClassifying = false
+                    self.errorMessage = "Klassifizierung fehlgeschlagen: \(error.localizedDescription)"
                 }
             }
         }
@@ -533,5 +720,27 @@ final class LeafClassificationService {
         lastImage = nil
         errorMessage = nil
         isClassifying = false
+    }
+}
+
+// MARK: - Download Progress Delegate
+
+private final class ModelDownloadDelegate: NSObject, URLSessionDownloadDelegate {
+    private let onProgress: (Double) -> Void
+
+    init(onProgress: @escaping (Double) -> Void) {
+        self.onProgress = onProgress
+    }
+
+    func urlSession(_ session: URLSession, downloadTask: URLSessionDownloadTask, didFinishDownloadingTo location: URL) {
+        // Handled by the async download call
+    }
+
+    func urlSession(_ session: URLSession, downloadTask: URLSessionDownloadTask,
+                    didWriteData bytesWritten: Int64, totalBytesWritten: Int64,
+                    totalBytesExpectedToWrite: Int64) {
+        guard totalBytesExpectedToWrite > 0 else { return }
+        let progress = Double(totalBytesWritten) / Double(totalBytesExpectedToWrite)
+        onProgress(progress)
     }
 }

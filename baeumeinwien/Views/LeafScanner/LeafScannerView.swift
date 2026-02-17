@@ -15,7 +15,10 @@ struct LeafScannerView: View {
             ZStack {
                 backgroundGradient.ignoresSafeArea()
 
-                if classificationService.lastResults.isEmpty && !classificationService.isClassifying {
+                if !classificationService.isModelAvailable {
+                    modelDownloadView
+                        .transition(.opacity)
+                } else if classificationService.lastResults.isEmpty && !classificationService.isClassifying {
                     emptyStateView
                         .transition(.opacity.combined(with: .scale(scale: 0.96)))
                 } else {
@@ -25,6 +28,7 @@ struct LeafScannerView: View {
             }
             .animation(.easeInOut(duration: 0.45), value: classificationService.lastResults.isEmpty)
             .animation(.easeInOut(duration: 0.3), value: classificationService.isClassifying)
+            .animation(.easeInOut(duration: 0.4), value: classificationService.modelState)
             .navigationTitle("Blatt-Scanner")
             .navigationBarTitleDisplayMode(.inline)
             .toolbarBackground(.ultraThinMaterial, for: .navigationBar)
@@ -60,6 +64,167 @@ struct LeafScannerView: View {
         }
     }
 
+    // MARK: - Model Download View
+
+    private var modelDownloadView: some View {
+        GeometryReader { geo in
+            let compact = geo.size.height < 700
+            VStack(spacing: 0) {
+                VStack(alignment: .leading, spacing: 6) {
+                    Text("BLATT\nERKENNUNG")
+                        .font(.hostGrotesk(.largeTitle, weight: .black))
+                        .lineSpacing(-2)
+                    Text("KI-Modell wird benötigt")
+                        .font(.hostGrotesk(.subheadline))
+                        .foregroundStyle(.secondary)
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.horizontal, 24)
+                .padding(.top, compact ? 8 : 16)
+
+                Spacer(minLength: compact ? 20 : 40)
+
+                VStack(spacing: 20) {
+                    ZStack {
+                        Circle()
+                            .fill(
+                                RadialGradient(
+                                    colors: [.green.opacity(0.12), .clear],
+                                    center: .center, startRadius: 10, endRadius: 60
+                                )
+                            )
+                            .frame(width: 120, height: 120)
+
+                        Image(systemName: modelStateIcon)
+                            .font(.system(size: 44))
+                            .foregroundStyle(
+                                LinearGradient(
+                                    colors: [.green, .green.opacity(0.65)],
+                                    startPoint: .topLeading, endPoint: .bottomTrailing
+                                )
+                            )
+                    }
+
+                    VStack(spacing: 8) {
+                        Text(modelStateTitle)
+                            .font(.hostGrotesk(.title3, weight: .bold))
+
+                        Text(modelStateDescription)
+                            .font(.hostGrotesk(.subheadline))
+                            .foregroundStyle(.secondary)
+                            .multilineTextAlignment(.center)
+                    }
+                    .padding(.horizontal, 32)
+
+                    if case .downloading(let progress) = classificationService.modelState {
+                        VStack(spacing: 8) {
+                            ProgressView(value: progress)
+                                .tint(.green)
+                                .padding(.horizontal, 40)
+
+                            Text("\(Int(progress * 100))%")
+                                .font(.hostGrotesk(.caption, weight: .semibold))
+                                .foregroundStyle(.secondary)
+                        }
+                    }
+                }
+
+                Spacer(minLength: compact ? 20 : 40)
+
+                VStack(spacing: 10) {
+                    if case .downloading = classificationService.modelState {
+                        // Show nothing, download in progress
+                    } else if case .error = classificationService.modelState {
+                        Button {
+                            Task {
+                                await classificationService.retryDownload()
+                            }
+                        } label: {
+                            HStack(spacing: 8) {
+                                Image(systemName: "arrow.clockwise")
+                                    .font(.hostGrotesk(.body, weight: .semibold))
+                                Text("Erneut versuchen")
+                                    .font(.hostGrotesk(.body, weight: .semibold))
+                            }
+                            .foregroundStyle(.white)
+                            .frame(maxWidth: .infinity)
+                            .frame(height: 52)
+                            .background(
+                                LinearGradient(
+                                    colors: [.green, .green.opacity(0.85)],
+                                    startPoint: .topLeading, endPoint: .bottomTrailing
+                                ),
+                                in: RoundedRectangle(cornerRadius: 26)
+                            )
+                            .shadow(color: .green.opacity(0.3), radius: 12, y: 6)
+                        }
+                        .buttonStyle(GlassPressStyle())
+                    } else {
+                        Button {
+                            Task {
+                                await classificationService.downloadModel()
+                            }
+                        } label: {
+                            HStack(spacing: 8) {
+                                Image(systemName: "arrow.down.circle.fill")
+                                    .font(.hostGrotesk(.body, weight: .semibold))
+                                Text("Modell herunterladen (~\(LeafClassificationService.modelSizeMB) MB)")
+                                    .font(.hostGrotesk(.body, weight: .semibold))
+                            }
+                            .foregroundStyle(.white)
+                            .frame(maxWidth: .infinity)
+                            .frame(height: 52)
+                            .background(
+                                LinearGradient(
+                                    colors: [.green, .green.opacity(0.85)],
+                                    startPoint: .topLeading, endPoint: .bottomTrailing
+                                ),
+                                in: RoundedRectangle(cornerRadius: 26)
+                            )
+                            .shadow(color: .green.opacity(0.3), radius: 12, y: 6)
+                        }
+                        .buttonStyle(GlassPressStyle())
+                    }
+                }
+                .padding(.horizontal, 24)
+                .padding(.bottom, compact ? 16 : 28)
+            }
+        }
+    }
+
+    private var modelStateIcon: String {
+        switch classificationService.modelState {
+        case .notDownloaded: return "arrow.down.to.line"
+        case .downloading: return "arrow.down.circle"
+        case .downloaded: return "checkmark.circle.fill"
+        case .error: return "exclamationmark.triangle.fill"
+        }
+    }
+
+    private var modelStateTitle: String {
+        switch classificationService.modelState {
+        case .notDownloaded: return "KI-Modell benötigt"
+        case .downloading: return "Wird heruntergeladen..."
+        case .downloaded: return "Bereit"
+        case .error: return "Fehler"
+        }
+    }
+
+    private var modelStateDescription: String {
+        switch classificationService.modelState {
+        case .notDownloaded:
+            return "Für die Blatterkennung muss einmalig ein KI-Modell heruntergeladen werden (~\(LeafClassificationService.modelSizeMB) MB). WLAN empfohlen."
+        case .downloading:
+            return "Das Modell wird heruntergeladen und für dein Gerät optimiert..."
+        case .downloaded:
+            return "Das Modell ist bereit."
+        case .error(let message):
+            return message
+        }
+    }
+
+    // MARK: - Background
+
     private var backgroundGradient: some View {
         LinearGradient(
             stops: [
@@ -73,6 +238,8 @@ struct LeafScannerView: View {
             endPoint: .bottom
         )
     }
+
+    // MARK: - Empty State
 
     private var emptyStateView: some View {
         GeometryReader { geo in
@@ -191,8 +358,6 @@ struct LeafScannerView: View {
                 }
                 .padding(.horizontal, 24)
                 .padding(.bottom, compact ? 16 : 28)
-                .opacity(appeared ? 1 : 0)
-                .offset(y: appeared ? 0 : 16)
             }
         }
         .onAppear {
@@ -231,6 +396,8 @@ struct LeafScannerView: View {
             Spacer()
         }
     }
+
+    // MARK: - Result State
 
     private var resultStateView: some View {
         ScrollView {
