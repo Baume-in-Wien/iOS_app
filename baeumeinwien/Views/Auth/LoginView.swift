@@ -47,21 +47,18 @@ struct LoginView: View {
                     }
 
                     Button {
-                        Task { await authService.signInWithGoogle() }
+                        Task { await authService.signInWithApple() }
                     } label: {
                         HStack(spacing: 10) {
-                            GoogleLogoView()
-                                .frame(width: 22, height: 22)
-                            Text("Mit Google anmelden")
+                            Image(systemName: "apple.logo")
+                                .font(.system(size: 20, weight: .semibold))
+                            Text("Mit Apple anmelden")
                                 .fontWeight(.semibold)
                         }
                         .frame(maxWidth: .infinity)
                         .frame(height: 52)
-                        .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 26))
-                        .overlay(
-                            RoundedRectangle(cornerRadius: 26)
-                                .stroke(.quaternary, lineWidth: 1)
-                        )
+                        .foregroundStyle(.white)
+                        .background(.black, in: RoundedRectangle(cornerRadius: 26))
                     }
                     .buttonStyle(.plain)
 

@@ -6,8 +6,8 @@ import AuthenticationServices
 final class AuthService {
     static let shared = AuthService()
 
-    private let supabaseURL = "https://awkwclebcnzgvpnmypwd.supabase.co"
-    private let supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3a3djbGViY256Z3Zwbm15cHdkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjcxNTU2ODgsImV4cCI6MjA4MjczMTY4OH0.z29RXjO5wZxt0BKZsZINs_9bnpF25439fUbN3U3A-qc"
+    private let supabaseURL = "https://login.treesinvienna.eu"
+    private let supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzQxODI0MDAwLCJleHAiOjE4OTk1OTA0MDB9.UsZml_lWmEFwYGPjoGRUgt4lI1Mq_vaA7aWD9G2o9-g"
 
     var authState: AuthState = .loading
     private(set) var accessToken: String?
@@ -127,59 +127,6 @@ final class AuthService {
             } else {
                 let message = parseAuthError(error)
                 authState = .error(message: message)
-            }
-        }
-    }
-
-    func signInWithGoogle() async {
-        let redirectURL = "baumkataster://login-callback"
-        let authURL = "\(supabaseURL)/auth/v1/authorize?provider=google&redirect_to=\(redirectURL)"
-
-        guard let url = URL(string: authURL) else {
-            authState = .error(message: "Ungültige OAuth-URL")
-            return
-        }
-
-        do {
-            let callbackURL = try await withCheckedThrowingContinuation { (continuation: CheckedContinuation<URL, Error>) in
-                let session = ASWebAuthenticationSession(
-                    url: url,
-                    callbackURLScheme: "baumkataster"
-                ) { callbackURL, error in
-                    if let error = error {
-                        continuation.resume(throwing: error)
-                    } else if let callbackURL = callbackURL {
-                        continuation.resume(returning: callbackURL)
-                    } else {
-                        continuation.resume(throwing: URLError(.badServerResponse))
-                    }
-                }
-                session.prefersEphemeralWebBrowserSession = false
-                session.presentationContextProvider = OAuthPresentationContext.shared
-                session.start()
-            }
-
-            if let fragment = callbackURL.fragment {
-                let params = parseURLFragment(fragment)
-
-                if let accessToken = params["access_token"],
-                   let refreshToken = params["refresh_token"] {
-                    self.accessToken = accessToken
-                    self.refreshToken = refreshToken
-                    saveTokens()
-
-                    await fetchUser()
-                } else {
-                    authState = .error(message: "OAuth-Token nicht erhalten")
-                }
-            } else {
-                authState = .error(message: "OAuth-Callback ungültig")
-            }
-        } catch {
-            if (error as NSError).code == ASWebAuthenticationSessionError.canceledLogin.rawValue {
-                authState = .notAuthenticated
-            } else {
-                authState = .error(message: "Google-Anmeldung fehlgeschlagen: \(error.localizedDescription)")
             }
         }
     }
