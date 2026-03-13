@@ -83,7 +83,7 @@ baeumeinwien/
 
 ## Support
 - **Email**: support@treesinvienna.eu
-- **Issue**: <a href="https://github.com/Baume-in-Wien/iOS_app">Create Issue </a>
+- **Issue**: <a href="[https://github.com/Baume-in-Wien/iOS_app](https://github.com/Baume-in-Wien/iOS_app/issues)">Create Issue </a>
 
 ## License
 
