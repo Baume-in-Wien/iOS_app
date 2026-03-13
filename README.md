@@ -81,6 +81,10 @@ baeumeinwien/
 - **Wikipedia** -- Species descriptions
 - **Cloudflare R2 CDN** -- Cached district data for faster loading
 
+## Support
+- **Email: support@treesinvienna.eu
+- **Issue: /create-issue
+
 ## License
 
 All rights reserved.
