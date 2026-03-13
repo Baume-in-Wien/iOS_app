@@ -89,7 +89,7 @@ baeumeinwien/
 - **Issue**: <a href="https://github.com/Baume-in-Wien/iOS_app](https://github.com/Baume-in-Wien/iOS_app/issues">Create Issue </a>
 
 ## Legal
-- **Privacy** -- readme.md
+- **Privacy** -- <a href="privacy.md"> Privacy Policy
 - 
 
 ## License
