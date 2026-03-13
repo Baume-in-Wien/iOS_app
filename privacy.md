@@ -205,7 +205,7 @@ Visited trees, Achievements, Rally progress. Are **NOT** transmitted.
 
 ## 10. CHANGES TO THIS PRIVACY POLICY
 
-We reserve the right to update this Privacy Policy as needed to adapt it to changes in law or changes in the app. The current version is always available at [treesinvienna.eu/en/privacy](/en/privacy).
+We reserve the right to update this Privacy Policy as needed to adapt it to changes in law or changes in the app. The current version is always available at [https://treesinvienna.eu/en/privacy](/en/privacy).
 
 For material changes, we will notify you within the app.
 
