@@ -6,6 +6,9 @@
 
 The iOS client for Bäume in Wien, an educational app that helps people explore and learn about Vienna's urban trees. It pulls data from the city's open data portal and turns it into something you can actually walk around with -- discover trees, identify leaves, play rallies with friends or classmates, and keep track of what you've found.
 
+## Download
+- **App Store** -- <a href="https://apps.apple.com/at/app/bäume-in-wien/id6759613964"> Download in the App Store </a>
+
 ## What it does
 
 **Interactive tree map** -- Displays around 200,000 trees from Vienna's open data, with species-specific icons and clustering so the map stays usable. Tap any tree to see details like height, trunk circumference, year planted, and location.
@@ -83,7 +86,7 @@ baeumeinwien/
 
 ## Support
 - **Email**: support@treesinvienna.eu
-- **Issue**: <a href="[https://github.com/Baume-in-Wien/iOS_app](https://github.com/Baume-in-Wien/iOS_app/issues)">Create Issue </a>
+- **Issue**: <a href="https://github.com/Baume-in-Wien/iOS_app](https://github.com/Baume-in-Wien/iOS_app/issues">Create Issue </a>
 
 ## License
 
