@@ -82,8 +82,8 @@ baeumeinwien/
 - **Cloudflare R2 CDN** -- Cached district data for faster loading
 
 ## Support
-- **Email: support@treesinvienna.eu
-- **Issue: /create-issue
+- **Email**: support@treesinvienna.eu
+- **Issue**: <a href="https://github.com/Baume-in-Wien/iOS_app">Create Issue </a>
 
 ## License
 
